@@ -1,0 +1,29 @@
+miðvikudagur 29. mars 2006 
+Danska Moggakreppan
+Útrás og styrkur íslensku bankanna er það jákvæðasta sem hefur gerst í íslensku athafnalífi síðasta áratuginn. Það stórkostlegasta við hana er ekki bara auðurinn sem þeir hafa skapað og fært inn í samfélagið, heldur hinir miklu möguleikar sem þeir skapa fyrir ný, hálaunuð og fjölbreytt störf fyrir unga fólkið.
+
+Þegar ég kom heim frá námi með doktorspróf átti ég ekki kost á neinu sérstöku starfi. Ég fékk hvorki vinnu á Hafró né Veiðimálastofnun og endaði í stjórnmálum - með vafasömum afleiðingum! Þúsundir ungra Íslendinga sem eru í dag á sama aldri og Dr.xxx þegar hann kom í lopapeysunni sinni heim frá Bretlandi eftir að hafa verið þar í rándýru námi á kostnað Margrétar Thatcher eiga nú að minnsta kosti völ á því að leita fyrir sér í bönkunum. Og það er svo sannarlega val sem skiptir máli fyrir ungt fólk.
+
+Ég hef átt kost á því að fara að eigin ósk með þingmönnum um flesta bankana. Þeir iða einsog$(cmp,adj+conj,1-2|eins og) fuglabjarg af lífi, fullir af ungu fólki með metnað, sem fær ekki bara góð laun og skemmtileg störf - heldur virðist upp til hópa fá það sem er ánægjulegast út úr hverju starfi - sköpunargleðina. Bankarnir treysta á auðlindina sem býr í höfði starfsmanna, og það er sérstaklega gaman að sjá hvað þeir treysta ungu fólki til mikilla áhrifastarfa.
+
+Bankarnir eru það mikilvægasta sem gerst hefur síðustu áratugi í íslensku atvinnulífi hvað varðar nýja möguleika fyrir unga Íslendinga til að fá eftirsóknarverð, vellaunuð störf - eða stuðning við góðar viðskiptahugmyndir.
+
+Eignamyndunin sem orðið hefur í krafti bankanna skiptir líka velferð almennra borgara mjög miklu. Lífeyrissjóðirnir fjárfestu sem betur fer stóra hlunka í bönkunum tiltölulega snemma á stækkunaferli$(typo,stem,0-1|stækkunarferli) þeirra. Ég las einhvers staðar að hagnaðurinn sem þeir hefðu haft til þessa af þeim fjárfeestingu$(typo,stem,2-1|fjárfestingu) dygði sjóðunum til að borga allan maka- og örorkulífeyrinn þessi árin. Það munar um minna.
+
+Heimurinn er alltaf að snúast á hvolf. Í gamla daga voru það kommarnir sem voru hræddir við hagnað og nýja peninga og sáum£sáu skrattann gægjast úr andlitsdráttum sérhvers sem hagnaðist. Í dag er það Mogginn. Það er engu líkara en Mogginn sjái ofsjónum yfir að það er nýtt fólk, sem ekki tilheyrir gömlu ættarveldunum, sem er orðinn drifkraftur efnahagslífsins í gegnum bankana. Hann fer á taugum ef einhver græðir sem ekki er í liðinu.
+
+Heimsendaforsíða Moggans á dögunum sem fól ekki í sér neitt annað en spádóm um bráða kreppu bankanna átti líklega stærsta þáttinn í að gera íslenskt efnahagslíf og sérstaklega íslensku bankana að skotspæni erlendra öfundarmanna - einkum danskra. Mogginn nýtur gamals álits sem virðulegasta blað Íslandssögunnar. Það er málgagn atvinnulífsins að fornu en ekki nýju, og er þar að auki staðsett hægra megin í samfélaginu og þekkt fyrir að tala röddu ríkisstjórnarinnar. Þegar slíkt blað hefur upp raust sína með þeim hætti sem Mogginn hefur ítrekað gert gegn íslensku bönkunum - og náði hámarki í endemisforsíðunni með heimsendaspánni um daginn - þá vekur það athygli langt út fyrir landssteinana¢(cmp,gensg-st|landsteinanna).
+
+Heimsendaforsíðan, þar sem hrun krónunnar og markaðarins og sérstaklega bankanna, var sett upp í stríðsfyrirsögn einsog$(cmp,adj+conj,1-2|eins og) þriðja heimsstyrjöldin væri brostin á, átti örugglega ríkan þátt í því að gera íslensku bankana að skotspæni erlendra fjölmiðla og veikja um sinn tiltrú á þeim. Forsíðan kom einsog$(cmp,adj+conj,1-2|eins og) himnasending til svifaseinna danskra fjölmiðlamanna sem ná ekki upp í nefið á sér af öfund vegna velgengni íslensku bankanna - og búa enn að viðhorfi nýlenduþjóðar til hjálendu.
+
+Það er athyglisvert að Mogginn er búinn að vera lengi við þetta heygarðshorn. Fyrir jólin gerði Mogginn miklar fréttir úr texta sem kom úr smiðju (Royal Bank of Scotland)∞(eng) og varð þá, einsog$(cmp,adj+conj,1-2|eins og) núna, að skrifa sig frá vitleysunni næstu daga á eftir. Gamall ritstjóri veit nokk hvað menn eru að hugsa þegar rekið er upp "gól" á forsíðu, og hvaða afleiðingar það getur haft í för með sér. Heimsendaforsíða Moggans var að mínu viti ábyrgðarlaus og innistæðulítil - einsog$(cmp,adj+conj,1-2|eins og) er að koma á daginn, en ekki án tilgangs.
+
+Hún náði því hins vegar að skelfa litla fjárfesta sem flykktust með fé sitt í hrönnum út úr bönkunum, svo verðið á þeim hríðféll um sinn, og væntanlega hafa það verið fjárfestingardeildir stóru bankanna sem komu í kjölfarið og hirtu upp hlutabréf á tombóluprís. Þannig að hafi það verið "litli maðurinn" sem Mogginn var í orði kveðnu að verja þá sá blaðið til þess að það var einmitt hann sem tapaði mestu.
+
+Ég tek það fram að ég á sjálfur enga hluti í þessum bönkum og því síst um sárt að binda. En ég dái framtak bankanna og finnst þeir standa sig mjög vel, og skil ekki þetta sífellda hælbit Moggans. Væri hann samkvæmur sjálfum sér ætti hann einsog$(cmp,adj+conj,1-2|eins og) einn dag að snúa sér að efnahagsstefnu ríkisins og reikna út hvað yfirvofandi verðbólguskot vegna viðskiptahalla og afleiðinga hans munu kosta almenna landsmenn á næstu misserum. 
+
+Auðvitað skrifar Mogginn ekkert um það. Hann er lesblindur þegar kemur að því að gagnrýna það sem raunverulega er að í efnahagskerfinu, en skrifar af gamalli og óskiljanlegri heift um KB og Landsbankann, sem helst er tekið mark á af afdönkuðum dönskum bankastjórum sem kunna ekki að reka sína eigin banka - enda verða þeir vonandi orðnir íslenskir fyrr en seinna.
+
+-----------
+
+Dyggir lesendur Moggans geta svo örugglega á næstu dögum séð lagt út af þessum pistli í vandlætingartóni í pólitískri skolprás blaðsins á næstöftustu síðu, og þar verður þeim örugglega gerð grein fyrir því að bankarnir séu líklega líka búnir að kaupa xxx. Þannig er Danski Moggi í dag.

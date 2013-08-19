@@ -1,0 +1,14 @@
+Föstudagur, 05. 05. 06. 
+
+Var kl. 14.30 á hótel Nordica og tók við fyrsta hefti af blaðí$(vow,stem,á-a|blaði) Félags ábyrgra feðra.
+
+Tvær blaðagreinar vöktu sérstaka athygli mína í dag.
+
+Sagt hefur verið, að nú sé lag fyrir kjósendur í Reykjavík, til að gera upp hug sinn til flugvallar í Vatnsmýrinni, vegna þess að F-listinn og Ólafur F. Magnússon bjóði þann skýra kost, að flugvöllurinn verði þar áfram, fái listinn einhverju ráðið eftir kosningar. 
+
+Björn Ingi Hrafnsson, frambjóðandi Framsóknarflokksins, mun hafa vegið nærri Ólafi F. í Kastljósi á dögunum, þegar hann sagði Ólaf F. ekki hafa verið fráhverfan flugvelli á Lönguskerjum - þjóðarsáttarflugvelli framsóknar, þar til í gær að Hjálmar Árnason, þingflokksformaður framsóknar¢(cap,stem,f-F|Framsóknar), rauf sáttina. Við orð Björns Inga reiddis$(typo,suff,0-1|reiddist) Ólafur F. og sagði framsóknarmanninn lygara og það oftar en einu sinni.
+
+Gísli Helgason, formaður Blindrafélagsins, hefur verið varamaður Ólafs F. í borgarstjórn á þessu kjörtímabili og setið nokkra borgarstjórnarfundi. Hann ritar grein í Fréttablaðið í dag undir fyrirsögninni: Flugvöllinn burt. Og það er ekki nóg með, að Gísli vilji flugvöllinn burt úr Vatnsmýrinni, hann vill einnig alla íbúa á Álftanesi á bak og burt, svo að leggja megi flugvöll á nesinu, það ætti að leggja fram áætlun um að rýma nesið og síðan segir Gísli: „Fólkið sem þar býr (á Álftanesi) gæti fengið viðleguíbúðir í yfirgefnum byggingum hersins á Keflavíkurflugvelli. Landið þar sem Reykjavíkurflugvöllur er nú ætti að láta Álftanesbúa hafa og þannig væri byggðin þétt verulega í höfuðborginni. “ Gísli vill jafna Bessastaði við jörðu í þágu nýs flugvallar og flytja forseta Íslands út í Viðey. Hann segir: „Bessastaðir eru því miður tákn kúgunar og yfirgangs til margra alda.“
+
+Gísli vill taka nýjan flugvöll á Álftanesi í gagnið árið 2011 og jafnfram$(typo,stem,0-1|jafnframt) flytja þá forsetasetrið í Viðey og rökstyður ártalið þannig: „Það væri verðugt áð¢(vow,stem,á-a|að) sýna 300 ára minningu Skúla Magnússonar landfógeta virðingu með þessum hætti.“
+

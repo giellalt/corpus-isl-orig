@@ -1,0 +1,15 @@
+þriðjudagur 23. maí 2006 
+Pólitískar njósnir og Morgunblaðið
+Ritstjóri Morgunblaðsins kippir sér ekki upp þó upplýst sé að stjórnvöld hér á landi hafi stundað pólitískar njósnir gegn andstæðingum sínum - jafnvel þingmönnum. Ritstjórnargrein hans í blaðinu í dag ber þess merki að upplýsinganar$(typo,suff,0-1|upplýsingarnar) koma honum síður en svo á óvart. Það er einsog$(cmp,adj+conj,1-2|eins og) ritstjórinn undrist að njósnirnar skuli ekki hafa verið meiri!
+
+Ritstjórinn rifjar upp ólöglegar njósnir Sovétmanna og setur í framhaldinu fram þessa ótrúlega spurningu: "Máttu þeir einir beita símahlerunum á Íslandi?"
+
+Þetta er háskalega nálægt því að segja að þar sem erlend stórveldi brutu landslög með símahlerunum þá sé verjanlegt að íslensk stjórnvöld brjóti stjórnarskrá og hleri heimilissíma pólitískra andstæðinga sinna á Alþingi. Röksemdafærsla af þessu tagi er fjarstæðukennd, svo ekki sé fastar að orði kveðið. 
+
+Ritstjórinn víkur einnig að því viðhorfi Guðna Th. Jóhannessonar, sagnfræðings, að þó¥(þó að) símahleranir hafi hugsanlega verið verjanlegar í einhverjum tilvikum kunni annað að gilda um símahleranir vegna landhelgisdeilunnar 1961. Um þetta segir í ritstjórnargreininni:
+
+"Á að¢(typo,stem,0-1|það) verður hins vegar að líta að í öllum landhelgisdeilum Íslendinga og Breta reyndu sósíalistar og aðrir vinstri menn að nota landhelgisdeiluna til þess að ná fram þeim markmiðum að varnarsamningnum yrði sagt upp og Ísland segði sig úr Atlantshafsbandalaginu."
+
+En er ekki skoðanafrelsi einn af burðarásum íslenska lýðræðisins? Er það ekki stjórnarskrárvarinn réttur allra Íslendinga - sósíalista einsog$(cmp,adj+conj,1-2|eins og) annarra - að berjast með öllum löglegum ráðum fyrir því að ná fram skoðun sinni? Um það snúast stjórnmál. Þetta er grundvallaratriði í stjórnskipan okkar. Ég er hlynntur aðild að Atlantshafsbandalaginu en guð forði mér frá því að leggjast með einhverjum hætti gegn rétti annarra til að berjast fyrir andstæðri skoðun.
+
+Í stjórnarskránni er í þessum efnum veitt sérstök vernd þeim Íslendingum sem þjóðin kýs sem málsvara sína á þjóðþingið. Sú skoðun sem birtist í leiðara Morgunblaðsins er algerlega ný fyrir mér. Áhrifamesti fjölmiðill landsins þarf að skýra hana betur.
