@@ -1,0 +1,24 @@
+Vonleysi guðvarnarinnar
+15/05/2006
+
+Í stuttum orðaskiptum Árna Svans og Hjalta Rúnars leynist tilefni til að taka á guðsvörninni (sem á íslensku kallast trúvörn) frá nýrri hlið.
+
+Áhugaverð umfjöllun Karen Kilby (MS Word download) gefur útgangspunktinn, en hún segir að guðsvörnin er ómöguleg vegna þess að annarsvegar$(cmp,dem+adv,1-2|annars vegar) ganga klassískar varnaraðferðir út frá óbreytilegum, deískum guði, sem er ekki í neinu samhengi við t.d. guð kristinna manna og kvenna.
+Hinsvegar$(cmp,dem+adv,1-2|hins vegar) bendir hún á að guðsvörn sem byggir á heilögu valfrelsi manna og leiðir til þess að máttugur guð hefur aðeins þann valkost að þjást með þeim sem trúa á hann, er ekki hjálpsamleg.
+Að lokum bendir hún á að það hjálpi enn síður að kalla guðsvörnina "tabú" en leggur til að guðfræðin játi það fyrir hverjum sem heyra vill, að til séu spurningar, sem guðfræðin stendur ráðþrota frammi fyrir.
+
+Ég held að hún reki sig og okkur á vegg sem upplýsingin reisti, þegar það sem er til var aðgreint frá því sem ekki er til með því að setja fram kröfur um sönnunarbyrði sem er heldur þröng (empírísismi).
+Samkvæmt þeirri aðferðafræði er guð (í hvaða mynd sem er) ekki til, vegna þess að tilraunir eða aðrar reynsluaðferðir duga ekki til þess að fanga hann (eða hana).
+Spurning er náttúrlega hvort guðdómur sem hægt er að fanga getur nokkurntíma$(cmp,dem+noun,1-2|nokkurn tíma) orðið annað í hugum nokkurs manns en skapnaður, s.s. falla£fallið útfyrir$(cmp,adv+pp,1-2|út fyrir) skilgreiningu guðs.
+
+Empírísk guðsvörn er vonlaus, eins og empírísk guðssönnun.
+Það er ekki hægt að tala um Guð sem "til" eða "ekki til" í skilningi sannanlegrar tilveru (sbr. Karen Armstrong, A History of God, bls. xx - xxi).
+Eina leiðin til að tala um Guð er á persónulegan hátt, þar sem einstaklingur (annað hvort)¥annaðhvort trúir eða trúir ekki.
+Trú manns getur orðið empírísk stærð, þar sem orðin "ég trú¢(typo,suff,0-1|trúi) á Guð" eiga sér samhengi og stað í lífi einstaklings (og þjóða) og áhrif trúarinnar er hægt að skoða og meta.
+Vörn Guðs verður þá eingöngu bundin við trú hins trúaða, reynslu hans, tjáningu og því hvernig hann tekst á við upplifanir sínar.
+
+Vörn Guðs getur þá orðið eitthvað á þessa leið: "Ég trúi á Guð sem talar til mín og ég er sáttur við.
+Ég trúi á Guð sem glæðir trú mína lífi, vegna þess og þrátt fyrir allt sem ég hef lifað." Vettvangur guðvarnarinnar er ekki ópersónulegtur$(typo,stem,1-0|ópersónulegur) vettvangur tilraunaglasið£tilraunaglassins eða röklegt samtal heimspekingsins.
+Eingöngu persóna og líf hvers og eins getur sættst$(infl|sæst) við Guð eða afneitað.
+Aðeins persóna getur sannað eða afsannað Guð, fyrir sjálfri sér.
+
