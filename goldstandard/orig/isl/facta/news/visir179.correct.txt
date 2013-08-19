@@ -1,0 +1,3 @@
+http://www.visir.is/fjolskyldan-a-leid-til-bordeaux/article/2012120928751
+Fjölskylda Megan Stammers, fimmtán ára breskrar stúlku sem stakk af með stærfræðikennaranum$(con,stem,com|stærðfræðikennaranum) sínum, er nú á leið til Frakklands til að hitta hana. Foreldrar stúlkunnar hafa þegar náð að heyra í henni í síma og vonast þau til að geta farið aftur heim með hana til Sussex á englandi$(cap,stem,e-E|Englandi) um helgina. Stúlkan fannst ásamt þrítugum stærfræðikennara$(con,stem,com|stærðfræðikennara) sínum í Bordeaux í Frakklandi eftir umfangsmikla leit í um viku.
+

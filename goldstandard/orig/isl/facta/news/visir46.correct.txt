@@ -1,0 +1,7 @@
+http://www.visir.is/buningaklefathjofs-enn-leitad/article/2012120829723
+Lögregla leitar enn þjófsins, sem stal verðmætum úr búningsklefa íþróttahúss í austurborignni$(meta,stem,ig-gi|austurborginni) í gær. Þjófurinn náði að taka vörur út á einhver stolin kort áður en þjófnaðurinn uppgötvaðist og kortunum var lokað. 
+
+Skömmu síðar var verðmætum líka stolið úr skáp í íþróttahúsi í Kópavogi og er þófurinn$(typo,stem,0-1|þjófurinn) þar líka ófundinn. 
+
+Engar vísbendingar eru um að sami þjófurinn hafi vrerið$(typo,stem,1-0|verið) á ferð í báðum tilvikum.
+

@@ -1,0 +1,11 @@
+http://visir.is/ferdaskrifstofur-um-allan-heim-bida-upplysinga-fra-islandi-/article/2012120919801
+Ferðaskrifstofur um heiminn sem eiga viðskipti við Ísland bíða nú eftir upplýsingum úr fjárlögum ríkisstjórnarinnar fyrir næsta ár. Óskað hefur verið eftir því að beðið verði með hækkun virðisaukaskatts í ferðaþjónustunni en þær£(hún) eru£(x|er) sagðar kollvarpa áætlunum fyrir næsta ár.
+
+Tom Jenkins, framkvæmdastjóri Samtaka evrópskra ferðaskrifstofa, sagði í samtali við fréttastofu í gærkvöldi að þreföldun virðisaukaskatts í ferðaþjónustunni setji£setti viðskipti fyrirtækja við Ísland í algjört uppnám. 
+
+Fjárlagafrumvarp ársins 2013 verður lagt fram og kynnt á fyrsta degi haustþings í dag og segir Jenkins að menn bíði agndofa eftir niðurstöðu í málinu og hvort þessi skattur komi til framkvæmda á næsta ári eins og tillögur gera ráð fyrir. Hækkunin sé yfirgengileg og þess eðils$(meta,stem,il-li|eðlis) að nauðsynlegt hefði verið að gefa fyrirtækjum nokkura$(con,suff,1-2|nokkurra) ára aðlögunartíma en ekki skella henni á með örskömmum fyrirvara. 
+
+Í sama steng$(typo,stem,0-1|streng) tók John Galvin, fjármálastjóri Colette Vacations í Bandaríkjunum þegar fréttastofa hafði samband við hann. Hann bendir á að ferðaskrifstofur geri samninga við milliliði 12 til 18 mánuði fram í tímann og skyndileg breyting sem þessi hafi mjög mikil áhrif á reksturinn. Þótt hann skilji að ríkisstjórnin á Íslandi vilji afla frekari tekna sé jafn mikil hækkun sem þessi óskynsamleg að hans mati. 
+
+Fjallað er um málið í ferðatímariti breksa$(meta,stem,ks-sk|breska) dagblaðsis$(typo,suff,0-1|dagblaðsins) Daily Telegraph í dag og haft eftir Jenkins að allt stefni í að Ísland verði aftur dýr áfangastaður.
+

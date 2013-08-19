@@ -1,0 +1,29 @@
+http://www.visir.is/professor-og-thingmadur-deila-i-heradsdomi/article/2012120909352
+„Maður á ekki von á því að alþingismaður ljúgi upp á mann opinberlega og í skrifuðu máli," sagði Ragnar Árnason prófessor við Háskóla Íslands, í Héraðsdómi Reykjaness í morgun. Aðalmeðferð í meiðyrðamáli hans gegn Þór Saari, alþingismanni, hófst klukkan níu í morgun.
+
+Þór fullyrti að Ragnar hafi£(x|hefði) verið á launaskrá hjá LÍÚ í áratugi í viðtali við DV í byrjun september í fyrra, en deginum áður lagði Þór fram fyrirspurn á Alþingi um kostaðar stöður við háskólanna£(x|háskólana). Í DV var hann spurður hvað honum fyndist um svör ráðherra. Þar sagði hann meðal annars: „Ragnar Árnason hefur verið á launaskrá LÍÚ í áratugi."
+
+Þegar verjandi Ragnars spurði hann í dómsal hvernig hann hefði brugðist við þegar hann sá bloggfærslu Þórs sagðist hann aldrei hafa lent í slíku áður. 
+
+„Ég hafði sömuleiðis áhyggjur af því að þessi ósannindi myndu draga úr trúverðugleika mínum sem fræðimanns. Ég velti því fyrir mér, afhverju$(cmp,pp+que,1-2|af hverju) er honum svona rosalega illa við mig? Hvað hef ég gert honum? Í framhaldi af því sá ég að þetta er mjög alvarlegur rógur. Ég er opinber starfsmaður, skipaður af forseta Íslands. Ég hef ákveðnar starfsskyldur, mér er óheimilt að vera í launaðri vinnu utan Háskóla Íslands."
+
+Ekki formaður - heldur formaður stjórnar
+
+Þór sagðist hafa haft samband við DV sama dag og blaðið kom út og beðið um að ummælin yrðu leiðrétt. En Ragnar var ósáttur við þá leiðréttingu. „Þetta var engin leiðrétting, það voru ný ósannindi í¥0 þar. Þetta kom ekki frá Þór," sagði hann en á meðal þess sem hann var ósáttur með í leiðréttingunni var að þar var hann titlaður formaður Hagfræðistofnunar, en ekki formaður stjórnar Hagfræðistofnunar, eins og rétt er.
+
+Þór neitaði að hafa eitthvað með ritstjórn að gera, og því hafi hann ekkert með orðalag leiðréttingarinnar að gera. „Eftir að hún (innsk.blm. leiðréttingin) birtist og ég frétti að Ragnar væri ósáttur við hana, hafði ég aftur samband við DV og bað um aðra leiðréttingu." 
+
+DV varð við því og birti ítarlegri leiðréttingu stuttu síðar. Ragnar sagði hinsvegar$(cmp,dem+adv,1-2|hins vegar) að ítarlega leiðréttingin hefði ekki verið komin frá Þór heldur blaðinu.
+
+"Af minni hálfu taldi ég þessu máli lokið"
+
+Þór sagði að hann hafi£(x|hefði) átt samtöl við Ragnar þar sem hann hafi£(x|hefði) boðist til að leiðrétta þessi ummæli sín, og hafi£(x|hefði) sent meðal annars bréf til rektors Háskóla Íslands þar sem hann hafi£(x|hefði) beðist afsökunar á ummælum sínum. „Af minni hálfu taldi ég þessu máli lokið."
+
+Verjandi Þórs spurði hann hvers vegna hann hafi£(x|hefði) sagt að Ragnar hefði verið á launum hjá LÍÚ í áratugi. Þór sagði það vera vegna rannsókna hans. „Þær skýrslur og greinar sem hann hefur skrifað eru hliðhollar kvótakerfinu, sem og úthlutun aflaheimilda."
+
+Þess ber að geta að Þór Saari og Ragnar drekka báðir kaffi inni í dómsal. En slíkt er bannað samkvæmt reglum Héraðsdóms Reykjaness. En dómari heimilaði það í þessu tilviki. Þór og Ragnar spjölluðu saman í hléinu frammi á gangi og fór vel á með þeim félögum.
+
+Nú fyrir stundu hófst munnlegur málflutningur lögmanna prófessorsins og þingmannsins.
+
+Lögmaður Ragnars sagði í munnlegum málflutningi sínum að Ragnar hafi£(x|hefði) ítrekað boðist til að leysa þetta mál fyrir utan dómstóla með opinberlegri afsökunarbeiðni Þór£(x|Þórs) - en hann hafi£(x|hefði) ekki orðið við því.
+

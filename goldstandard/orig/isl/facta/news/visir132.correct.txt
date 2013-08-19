@@ -1,0 +1,10 @@
+http://www.visir.is/syntu-bodsund-yfir-ermarsundid/article/2012120929675
+Boðsundssveit frá Sundfélagi Hafnarfjarðar synti í gær yfir Ermarsundið. Sundið tók tæplega 13 klukkustundir.
+
+Sundgarparnir höfðu stefnt að því að synda ekki fyrr en í dag en þegar veðurspáin benti til þess að veðrið yrði slæmt frá og með deginum í dag og út vikuna var ákveðið að fara degi fyrr. Lagt var af stað klukkan rúmlega þrjú um nótt og synt í svarta myrkri fyrstu þrjá tímana. Sundsveitin mátti klást$(typo,stem,0-1|kljást) við talsvert öldurót lengst af leiðinni.
+
+Það var svo 12 klukkustundum, 44 mínútum og um það bil 50 kílómetrum síðar sem boðsundsveitin náði Frakklandsströnd í logni og fallegu veðri.
+
+Sundið gekk í alla staði vel en til að fá boðsund yfir Ermarsundið viðurkennt þarf að hlýta$(vow,stem,y-i|hlíta) ströngum reglum varðandi skiptingar, tímasetningar, röð sundmanna og landtöku. Einungis má synda í hefðbundnum óeinangrandi sundfötum.
+
+Sundgarparnir voru þau Háldán$(typo,stem,0-1|Hálfdán) Freyr Örnólfsson‚ Árni Þór Árnason, Birna Jóhanna Ólafsdóttir, Kristinn Magnússon, Björn Ásgeir Guðmundsson og Ásgeir Elísasson$(typo,stem,1-0|Elíasson).

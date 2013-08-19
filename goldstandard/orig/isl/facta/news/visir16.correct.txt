@@ -1,0 +1,12 @@
+<http://www.visir.is/senderos-verdur-a-i-messunni-i-spjallthaetti/article/2011110829587> 
+Svisslendingurinn Philip Senderos fékk þátttastjórnendur$(con,stem,3-2|þáttastjórnendur) og gesti hjá (ESPN sjónvarpsstöðinni)¥(x|ESPN-sjónvarpsstöðinni) til þess að springa úr hlátri á dögunum. 
+Senderos, sem leikur með Fulham en var áður á mála hjá Arsenal, var spurður út í rauða spjaldið sem Gervinho hlaut eftir viðskipti sín við Joey Barton í fyrstu umferð ensku úrvalsdeildarinnar. Senderos hafði þetta að segja um Joey Barton.
+(„I think with Joey Barton you know what to expect. He's going to come strong in the tackle and come in your face…")∞(eng)
+Sé þessu snúið á okkar ylhýru íslensku segir Senderos:
+„Þú veist hverju þú átt von á þegar Barton er annars vegar. Hann fer af fullum krafti í tæklingar og nærvera hans á vellinum fer ekki framhjá$(cmp,adv+pp,1-2|fram hjá) þér..."
+Senderos náði ekki að ljúka máli sínu því gestir þáttarins sprungu úr hlátri.
+Lok málsgreinarinnar mætti nefnilega þýða á annan og öllu klúrari veg sem ekki verður gert hér.
+Óhætt er að segja að þátttastjórnendur$(con,stem,3-2|þáttastjórnendur) hafi átt erfitt með að halda umræðunni gangandi enda áttu gestirnir erfitt með sig í hláturskasti.
+Atvikið má ¥(x|sjá) með því að smella hér.
+
+

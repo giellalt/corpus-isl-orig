@@ -1,0 +1,21 @@
+http://www.visir.is/bornum-hafi-verid-gert-ad-saeta-einangrun/article/2012120909333
+Kallað hefur verið eftir bótakröfum frá þeim sem voru vistaðir á Upptöku- eða unglingaheimili ríkisins á árunum 1971 til 1994, en talið er að börn hafi þar sætt illri meðferð og meðal annars verið gert að sæta einangrun þar til þau játuðu á sig refsiverða háttsemi. 
+
+Upptökuheimili Ríkisins¢(cap,stem,R-r|ríkisins) var stofnað árið 1945 og starfaði undir því nafni til 78, en þá var nafninu breytt í Unglingaheimili ríksins$(typo,suff,0-1|ríkisins). 
+
+Halldór Þormar Halldórsson, umsjónarmaður sanngirnisbóta hjá Sýslumanninum á Siglufirði, segir að búið sé að senda sáttarboð¢(cmp,suff,gensg-genpl|sáttaboð) til þeirra sem voru vistaðir á heimilinu til 71 en nú er kallað eftir að þeir sem voru vistaðir þar eftir þann tíma og urðu fyrir illri meðferð eða ofbeldi sem olli varanlegum skaða lýsi yfir kröfum um skaðabætur. 
+
+„Þetta eru líklega um 2200 einstaklingar em$(typo,stem,0-1|sem) voru á heimilinu á þessu tímabili," segir Halldór Þormar. 
+
+Halldór segir að byggt hafi verið á skýrslu Vistheimilanefndar sem fann ýmislegt að starfseminni á tímabilinu. 
+
+„Þarna voru ungmenni, börn undir 15 ára aldri, geymd í einangrun - læst inni. Og oft á€(x|og) tíðum hafi það verið hluti af sakamálarannsókn. Oft á€(x|og) tíðum var mögulega beitt þessum úrræðum til að fá viðkomandi til þess að játa á sig einhverja refsiverða háttsemi eða jafnvel sem refsingu."
+
+Starfsemi heimilisins á tímabilinu fór fram á átta stöðum, að Kópavogsbraut 17 og Kópavogsbraut 9 í Kópavogi, í Sólheimum 7, Sólheimum 17 og Efstasundi 86 í Reykjavík, að Tindum á Kjalarnesi og á meðferðarheimilunum að Smáratúni í Fljótshlíð og Torfastöðum í Biskupstungu. 
+
+„Þetta er í raun 9. heimilið¥(heimilið þar) sem við erum að gera innköllun á bótakröfum."
+
+Verði kröfu ekki lýst fyrir (20.desember)$(cmp,num+noun,1-2|20. desember) fellur hún niður en henni má lýsa á eyðiblaði$(typo,suff,i-u|eyðublaði) sem er að finna á vefnum sanngirnisbætur.is og hjá tengiliði vegna vistheimila. 
+
+„Við erum búin að senda sáttaboð á um 500 manns."
+
