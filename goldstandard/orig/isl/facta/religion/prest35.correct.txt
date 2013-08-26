@@ -1,4 +1,4 @@
-ÁfAngar€(Áfangar): Dagverðardalur
+ÁfAngar$(cap,stem,A-a|Áfangar): Dagverðardalur
 02/03/2004
 
 Ísfirðingar þurfa ekki að leita langt yfir skammt að fögru og nafntoguðu umhverfi.
