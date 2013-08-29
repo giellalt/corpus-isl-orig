@@ -25,19 +25,19 @@ Nú eitt af því sem vakti mig til umhugsunar framan af dvöl minni á Ísafir�
 Slíkt hæfir vel í kirkjulegu starfi því Gísli er dæmigerð heiðin hetja í kristnum miðaldabókmenntum og draumkonurnar að sama skapi algengt minni í kristnum frásögum.
 Ég hafði ekki lesið Gísasögu$(typo,stem,0-1|Gíslasögu) frá því ég var í grunnskóla en þar datt ég niður á svarið við ráðgátunni um Dagverðardal:
 
-("Síðan fara Austmenn frá skipi eftir verk þetta.
-Þeir fara um Dýrafjörð og fá sér hesta og vilja ná til vistar sinnar.
-Þeir fara dag þann og um nóttina uns þeir koma í dal þann er gengur upp af Skutilsfirði og eta þar dögurð og fara að sofa síðan.
+("Síðan fara Austmenn frá skipi eftir verk þetta.)∞(gisl)
+(Þeir fara um Dýrafjörð og fá sér hesta og vilja ná til vistar sinnar.)∞(gisl)
+(Þeir fara dag þann og um nóttina uns þeir koma í dal þann er gengur upp af Skutilsfirði og eta þar dögurð og fara að sofa síðan.)∞(gisl)
 
-Nú eru Þorgrími sögð tíðindi þessi og býst hann þegar heiman og lætur flytja sig yfir fjörð og fer eftir þeim einn saman.
-Hann kemur að þeim þar sem þeir lágu og vekur Þórarin, stingur á honum spjótskafti sínu.
-En hann hleypur upp við og vill taka til sverðs síns því að hann kenndi Þorgrím.
-En Þorgrímur leggur á honum með spjóti og vegur hann.
-Nú vaknar Þórir og vill hefna félaga síns.
-En Þorgrímur leggur hann spjóti í gegnum.
-Þar heitir nú Dögurðardalur og Austmannafall.
-Eftir þetta fer Þorgrímur heim og verður nú frægur af ferð þessari.
-Situr hann nú í búi sínu um veturinn.")∞(gisl)
+(Nú eru Þorgrími sögð tíðindi þessi og býst hann þegar heiman og lætur flytja sig yfir fjörð og fer eftir þeim einn saman.)∞(gisl)
+(Hann kemur að þeim þar sem þeir lágu og vekur Þórarin, stingur á honum spjótskafti sínu.)∞(gisl)
+(En hann hleypur upp við og vill taka til sverðs síns því að hann kenndi Þorgrím.)∞(gisl)
+(En Þorgrímur leggur á honum með spjóti og vegur hann.)∞(gisl)
+(Nú vaknar Þórir og vill hefna félaga síns.)∞(gisl)
+(En Þorgrímur leggur hann spjóti í gegnum.)∞(gisl)
+(Þar heitir nú Dögurðardalur og Austmannafall.)∞(gisl)
+(Eftir þetta fer Þorgrímur heim og verður nú frægur af ferð þessari.)∞(gisl)
+(Situr hann nú í búi sínu um veturinn.")∞(gisl)
 
 Nú í tilefni heimastjórnarafmælis má geta þess í lokin að annað stórmenni, Hannes Hafstein, orti líklega ljóðið Sprett er hann var kominn í námunda við dalinn.
 Hann var á leið yfir Botns- eða Breiðadalsheiði á honum Létti sínum og er hann sá loks Eyrina hvatti hann klárinn og orti ljóðið sem Sveinbjörn Sveinbjörnsson rammaði svo inn með glæsilegum hætti.
