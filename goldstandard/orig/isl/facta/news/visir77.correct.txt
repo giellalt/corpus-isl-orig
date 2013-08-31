@@ -1,4 +1,4 @@
-http://www.visir.is/kim-kardashian-i-djorfum-kjol/article/2012120909340
+(http://www.visir.is/kim-kardashian-i-djorfum-kjol/article/2012120909340)∞(url)
 Það virðist vera nóg að gera hjá Kim Kardashian því varla líður dagur án þess að hún sjáist í fullum skrúða í partýum, á rauða dreglinu$(typo,suff,0-1|dreglinum) eða á förnum vegi með nýja kærastanum.
 
 Raunveruleikastjarnan vakti vægast sagt athygli í djörfum kjól í New York borg í gærkveldi$(vow,stem,e-ö|gærkvöldi), kjóllinn var svartur og hvítur og sýndi ekki bara línur íturvöxnu stjörnunnar heldur var barmurinn lítið hulinn eins og sjá má á meðfylgjandi mynd. 

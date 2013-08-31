@@ -1,4 +1,4 @@
-<http://visir.is/karl-hyggst-stiga-fra-embaetti-innan-tidar/article/2011110619217> 
+(http://visir.is/karl-hyggst-stiga-fra-embaetti-innan-tidar/article/2011110619217)∞(url)
 Karl Sigurbjörnsson, biskup Íslands, sagði í viðtali við Kastljós í kvöld að hann hyggðist$(con,stem,2-1|hygðist) stíga frá embætti innan tíðar.
 (“Minn)¥(x|„Minn) tími kemur, fyrr en síðar, það er alveg augljóst (mál.”)¥(x|mál,“) sagði biskup í viðtalinu en bætti því þó við að þegar hann hætti, sem yrði innan tíðar, þá yrðu ákveðnir hlutir að vera komnir í betra horf. Hann taldi sig bera ábyrgð á ákveðnum málum og því væri tíma hans í embætti ekki alveg lokið enn, en sem dæmi nefndi hann þörfina á að breyta reglum um biskupskjör og auka þátttöku leikmanna í biskupskjöri.
 Hann ítrekaði þó að ekkert í skýrslu rannsóknarnefndar kirkjuþings hafi£(x|hefði) sagt að hann hefði framið brot og ætti að víkja frá€(x|úr) starfi. Þar hafi£(x|hefði) hinsvegar$(cmp,dem+adv,1-2|hins vegar) komið fram að hann hafi£(x|hefði) gert mistök, en það hafi£(x|hefði) hann gert í góðri trú, af góðum hug, ekki til að bregða fæti fyrir og valda skaða.
