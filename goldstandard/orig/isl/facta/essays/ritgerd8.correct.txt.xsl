@@ -5,9 +5,9 @@
 
 <!-- Add the metainformation manually -->
 <!-- variable filename contains the original name of the file (from submitter)-->
-<xsl:variable name="filename" select="''"/>
-<xsl:variable name="text_encoding" select="''"/>
-<xsl:variable name="title" select="''"/>
+<xsl:variable name="filename" select="'ritgerd8.correct.txt'"/>
+<xsl:variable name="text_encoding" select="'txt'"/>
+<xsl:variable name="title" select="'... maðurinn finnur það sem hann leitar að, og sá sem trúir á draug finnur draug.'"/>
 <xsl:variable name="author1_fn" select="''"/>
 <xsl:variable name="author1_ln" select="''"/>
 <xsl:variable name="author1_gender" select="'unknown'"/>
@@ -30,10 +30,10 @@
 <xsl:variable name="author4_born" select="''"/>
 <xsl:variable name="publisher" select="''"/>
 <xsl:variable name="publChannel" select="''"/>
-<xsl:variable name="year" select="''"/>
+<xsl:variable name="year" select="'2005'"/>
 <xsl:variable name="ISBN" select="''"/>
 <xsl:variable name="ISSN" select="''"/>
-<xsl:variable name="place" select="''"/>
+<xsl:variable name="place" select="'Reykjavik'"/>
 <xsl:variable name="genre" select="'facta'"/>
 <xsl:variable name="collection" select="''"/>
 <xsl:variable name="translated_from" select="''"/>
@@ -43,14 +43,14 @@
 <xsl:variable name="translator_born" select="''"/>
 <xsl:variable name="translator_nat" select="''"/>
 <!-- select license type: free, standard or other -->
-<xsl:variable name="license_type" select="''"/>
+<xsl:variable name="license_type" select="'free'"/>
 <xsl:variable name="sub_name" select="''"/>
 <xsl:variable name="sub_email" select="''"/>
-<xsl:variable name="wordcount" select="''"/>
+<xsl:variable name="wordcount" select="'958'"/>
 <!-- Set this variable to 1 if the source for this doc is OCR -->
 <!-- Those docs typically contain lots of orthographic errors and need special treatment -->
 <xsl:variable name="ocr" select="''"/>
-<xsl:variable name="metadata" select="'uncomplete'"/>
+<xsl:variable name="metadata" select="'complete'"/>
 <xsl:variable name="template_version" select="'$Revision: 64438 $'"/>
 <xsl:variable name="current_version" select="'Revision'"/>
 <!-- Free text field for notes -->
@@ -61,7 +61,7 @@
 
 <!-- Other languages, in case of multilingual document. -->
 <!-- Select "1" for the variable multilingual -->
-<xsl:variable name="monolingual" select="''"/> <!--lg rec is off!-->
+<xsl:variable name="monolingual" select="'1'"/> <!--lg rec is off!-->
 <xsl:variable name="multilingual" select="''"/> <!--this is default-->
 
 <!-- Select the potential langugages by adding the number "1" in the -->
