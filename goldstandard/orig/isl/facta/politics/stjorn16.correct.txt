@@ -3,7 +3,7 @@ Laugardagur, 22. 04. 06.
 
 Fagorðið vísar til vefsíðu, þar sem eigandinn færir reglulega inn nýtt efni, oft stutt, en ekki endilega, og með vísunum í annað blogg eða vefsíður.
 
-Við skilgreiningu á bloggi er einnig vísað til efnistaka. (The Economist)∞(eng) nefnir (Dave Winer)∞(eng), hugbúnðarfræðing$(typo,stem,0-1|hugbúnaðarfræðing), til sögunnar, þar sem hann telji sig allra manna lengst hafa haldið úti samfelldu bloggi eða frá árinu 1997. Hann lýsir bloggi á þann veg, að það sé „óritstýrð rödd eins manns“- helst leikmanns. Blogg einkennist með öðrum orðum almennt af hráum upprunaleika og sérkennum höfundarins. Með þessu er því hafnað, að síður frá fyrirtækjum, almannatengslafólki og dagblöðum falli undir blogg. (Winer)∞(eng) segir, að komi ritstjóri að því að ákveða efni á síðunni sé ekki lengur um blogg að ræða.
+Við skilgreiningu á bloggi er einnig vísað til efnistaka. (The Economist)∞(eng) nefnir (Dave Winer)∞(eng), hugbúnðarfræðing$(typo,stem,0-1|hugbúnaðarfræðing), til sögunnar, þar sem hann telji sig allra manna lengst hafa haldið úti samfelldu bloggi eða frá árinu 1997. Hann lýsir bloggi á þann veg, að það sé «óritstýrð rödd eins manns»- helst leikmanns. Blogg einkennist með öðrum orðum almennt af hráum upprunaleika og sérkennum höfundarins. Með þessu er því hafnað, að síður frá fyrirtækjum, almannatengslafólki og dagblöðum falli undir blogg. (Winer)∞(eng) segir, að komi ritstjóri að því að ákveða efni á síðunni sé ekki lengur um blogg að ræða.
 
 Þegar ég las þessa lýsingu, sá ég, að ég hef haldið blogg-síðu samfellt úti lengur en Dave∞(eng) þessi Winer∞(eng), því að eins og lesendur (xxx.is)∞(url) geta staðfest með því að fara inn á pistlana mína, var hinn fyrsti þeirra settur á síðuna 19. febrúar 1995. 
 
