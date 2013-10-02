@@ -1,5 +1,5 @@
 miðvikudagur 24. maí 2006 
-Kveinin í Rama
+Kveinin í Rama∞(for)
 Halldór Ásgrímsson kveinar hástöfum í bréfi til flokksmanna um að ómaklegar árásir á Framsókn eigi sök á slöku gengi í könnunum. Hann kvartar undan nafnlausum skrifum á vefnum, segir ólík öfl sameinast um að vega ódrengilega að flokknum - og virðist líkja eigin stöðu við ómaklegar árásir á Ólaf heitinn Jóhannesson, sem sannarlega er einn af risunum í litríkri sögu Framsóknar.
 
 Uppúr$(cmp,adv+pp) þessum gráti stendur skerandi þögn um hinar raunverulegu ástæður fyrir hruni Framsóknar.
@@ -10,7 +10,7 @@ Halldór nefndi ekki hvernig Sjálfstæðisflokkurinn leggst af ofurþunga á Fr
 
 - Sjálfstæðisflokkurinn hefur niðurlægt iðnaðarráðherra opinberlega varðandi þingmál um nýsköpunarmiðstöð sem ráðherrann hafði þó fengið samþykkt í ríkisstjórninni. Hvar er drengskapur forystu Sjálfstæðisflokksins í því máli? 
 
-- Sjálfstæðisflokkurinn píndi Framsókn til að fallast á háeffun RÚV - þrátt fyrir svardaga flokksþings um að gera það aldrei. Þingmenn íhaldsins niðurlægðu Framsókn í kjölfarið með því að segja hlægjandi í ræðustól alþingis að það væri fyrsta skrefið að sölu RÚV. 
+- Sjálfstæðisflokkurinn píndi Framsókn til að fallast á háeffun RÚV - þrátt fyrir svardaga flokksþings um að gera það aldrei. Þingmenn íhaldsins niðurlægðu Framsókn í kjölfarið með því að segja hlægjandi€hlæjandi í ræðustól alþingis að það væri fyrsta skrefið að sölu RÚV. 
 
 - Sjálfstæðisflokkurinn er nákvæmlega þessa dagana að beygja forystu Framsóknar varðandi Íbúðalánasjóð - og þó vita allir að ágreiningurinn um hann var ekki sísta ástæða þess að efnilegasti forystumaður flokksins, Árni Magnússon, hrökk fyrir borð.
 

@@ -7,5 +7,5 @@ Jóhann Björnsson í 8. sæti á lista vinstri/grænna¢(cap,stem,v-V;cmp,slash
 
 Magnús Skúlason arkitekt skrifar:
 
-„ Því er þetta sett hér á blað vegna þess að nýlega höfum við horft upp á ein verstu mistök í skipulagsmálum sem gerð hafa verið í Reykjavík, og er þó af nógu að taka, en það er færsla Hringbrautar. Þvílík sóun á landrými hefur vart sézt í þéttbýli. Hvar er draumurinn um stækkun miðborgar í suðurátt út í Vatnsmýri? Hvernig eiga endurnar að komast yfir með ungana? Hvaða umferðarvandamál voru leyst? Sjálf framkvæmdin með tilliti til umferðartækni virðist meira að segja meingölluð með alltof mörgum umferðarljósum í stað ljóslausra afreina.“ 
+„ Því er þetta sett hér á blað vegna þess að nýlega höfum við horft upp á ein verstu mistök í skipulagsmálum sem gerð hafa verið í Reykjavík, og er þó af nógu að taka, en það er færsla Hringbrautar. Þvílík sóun á landrými hefur vart sézt$(con,stem,z-s|sést) í þéttbýli. Hvar er draumurinn um stækkun miðborgar í suðurátt út í Vatnsmýri? Hvernig eiga endurnar að komast yfir með ungana? Hvaða umferðarvandamál voru leyst? Sjálf framkvæmdin með tilliti til umferðartækni virðist meira að segja meingölluð með alltof mörgum umferðarljósum í stað ljóslausra afreina.“ 
 

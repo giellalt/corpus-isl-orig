@@ -3,9 +3,9 @@ Var meðal líkmanna í jarðarför Más Jóhannsssonar, fv. skrifstofustjóra S
 
 Klukkan 14.00 var umræða utan dagskrár um sakóknara$(typo,stem,0-1|saksóknara) og fleira og flutti ég þar ræðu. Enginn þingmanna sagði mig vanhæfan til að skipa saksóknara í Baugsmálinu, en sumir töldu heppilegast fyrir málið og best fyrir mig, að ég segði mig frá málinu. Ég sagði það ekki kost í stöðunni, nema lög heimuluðu$(typo,stem,u-i|heimiluðu) mér það. Ég gæti ekki valið mér mál til meðferðar eins og rétti af matseðli eða rúsínur úr tebollu. Þakkaði ég þingmönnum umhyggjuna.
 
-Að lokinni þessari umræðu flutti ég ræðu fyrir frumvarpi til laga um breytingar á Schengen-lögum.
+Að lokinni þessari umræðu flutti ég ræðu fyrir frumvarpi til laga um breytingar á Schengen-lögum∞(for).
 
 Klukkan 16.00 var ég í Háskólanum í Reykjavík, þar sem haldið var málþing um dómstólavæðingu í samvinnu dóms- og kirkjumálaráðuneytisins og lagadeildar skólans undir stjórn Þórdísar Ingadóttur, LLM, sem er sérfræðingur við lagafeildina$(typo,stem,f-d|lagadeildina). Dr. (Mads Bryde Andersen)∞(dan), prófessor við Kaupmannahafnarháskóla, flutti framsögu og Ragnhildur Helgadóttir, lektor við lagadeildina, sagði álit sitt á framsöguræðunni. Síðan voru almennar umræður og þar tóku til máls Ragnar Aðalsteinsson hrl., Eiríkur Tómasson prófessor og Þór Vilhjálmsson, prófessor og fv. dómari. 
 
-Ég flutti ávarp í upphafi málþingsins og sagði til þess stofnað til að ræða það, sem á erlendum málum væri kallað judikalisering∞(dan) og snerist um mörkin á milli dómsvalds og löggjafarvalds og hvort dómstólar væru að fara of langt inn á svið löggjafans, en (Mads Bryde Andersen)∞(dan) telur að þannig sé málum háttað að því er mannréttindadómstólinn í Strassborg varðar.
+Ég flutti ávarp í upphafi málþingsins og sagði til þess stofnað til að ræða það, sem á erlendum málum væri kallað judikalisering€(foreign,dan) og snerist um mörkin á milli dómsvalds og löggjafarvalds og hvort dómstólar væru að fara of langt inn á svið löggjafans, en (Mads Bryde Andersen)∞(dan) telur að þannig sé málum háttað að því er mannréttindadómstólinn í Strassborg varðar.
 

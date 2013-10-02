@@ -4,7 +4,7 @@ RÚV: Sjálfseignarstofnun eða hlutafélag?
 
 Þorsteinn segir réttilega, að hlutafélagsformið henti fyrirtækjum í ríkiseigu sem nota ekki skattpeninga í rekstur. Öðru máli gegni um stofnanir sem séu alfarið eða að meginhluta reknar fyrir peninga skattborgaranna. "Eðli máls samkvæmt," segir Þorsteinn, "gilda aðrar leikreglur um meðferð skattpeninga borgaranna en sjálfsaflafé."
 
-Í framhaldi bætir Þorsteinn við, að nú ætli ríkisstjórnin að "víkja til hliðar öllum almennum reglum sem gilda um meðferð skattpeninga að því er varðar rekstur Ríkisútvarpsins. Þar á meðferð skattpeninga að lúta reglum einkaeignaréttarins án þes$(typo,suff,1-2|þess) að skilyrði hans um sjálfsaflafé sé fyrir hendi."
+Í framhaldi bætir Þorsteinn við, að nú ætli ríkisstjórnin að "víkja til hliðar öllum almennum reglum sem gilda um meðferð skattpeninga að því er varðar rekstur Ríkisútvarpsins. Þar á meðferð skattpeninga að lúta reglum einkaeignaréttarins¢(cmp,genpl-gensg|einkaeignarréttarins) án þes$(typo,suff,1-2|þess) að skilyrði hans um sjálfsaflafé sé fyrir hendi."
 
 Fyrrverandi forsætisráðherra Sjálfstæðisflokksins segir að rökin fyrir þessari stefnu síns gamla flokks feli í sér "verulegt frávik frá almennum leikreglum" og það sé hætt við að hún "setji með því móti í uppnám framtíðarsátt um ríkisrekið útvarp." 
 

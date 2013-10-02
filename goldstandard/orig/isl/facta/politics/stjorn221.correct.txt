@@ -1,2 +1,2 @@
 Miðvikudagur 17.7.2002 
-Fór í hádeginu í Háskólabíó, þar sem Apple-umboðið stór$(typo,stem,1-0|stóð) fyrir beinni útsendingu frá setningarræðu (Steve Jobs)∞(eng) á Macworld∞(eng) í (Jacob Javits Center)∞(eng) í New York. Boðaðar voru nýjúngar$(vow,der,á-a|nýjungar) fyrir Makka-notendur.
+Fór í hádeginu í Háskólabíó, þar sem Apple-umboðið∞(eng) stór$(typo,stem,1-0|stóð) fyrir beinni útsendingu frá setningarræðu (Steve Jobs)∞(eng) á Macworld∞(eng) í (Jacob Javits Center)∞(eng) í (New York)∞(eng). Boðaðar voru nýjúngar$(vow,der,á-a|nýjungar) fyrir Makka-notendur.

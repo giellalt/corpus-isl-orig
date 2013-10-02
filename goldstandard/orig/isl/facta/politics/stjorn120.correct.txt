@@ -1,5 +1,5 @@
 Mánudagur, 21. 03. 05. 
-Sat þingflokksfundog$(cmp,noun+conj,1-2|þingflokksfund og) þingfund, þar sem samþykkt var að Bobby Fischer yrði íslenskur ríkisborgari.
+Sat þingflokksfundog$(cmp,noun+conj,1-2|þingflokksfund og) þingfund, þar sem samþykkt var að (Bobby Fischer)∞(eng) yrði íslenskur ríkisborgari.
 
-Flutti síðan framsöguræðu um frumvarp vegna breytinga á mannréttindasáttmála Evrópu, það er vegna mannréttindadómstólsins og gat þess, að hann sætti víða gagnrýni fyrir það, hve langt hann gengi í dómum sínum og inn á svið löggjafans. Minnti ég á ræðu, sem ég hafði flutt um þetta í september 2003 en nú heyrðust sömu sjónarmið Lene Espersen, danska dómsmálaráðherranum, og dönskum lagaprófessor.
+Flutti síðan framsöguræðu um frumvarp vegna breytinga á mannréttindasáttmála Evrópu, það er vegna mannréttindadómstólsins og gat þess, að hann sætti víða gagnrýni fyrir það, hve langt hann gengi í dómum sínum og inn á svið löggjafans. Minnti ég á ræðu, sem ég hafði flutt um þetta í september 2003 en nú heyrðust sömu sjónarmið (Lene Espersen)∞(dan), danska dómsmálaráðherranum, og dönskum lagaprófessor.
 

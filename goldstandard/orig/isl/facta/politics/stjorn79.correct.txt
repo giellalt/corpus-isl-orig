@@ -1,7 +1,7 @@
 Laugardagur, 15. 10. 05. 
 Sat landsfundinn í dag, þegar rætt var um tillögur að áyktunum$(typo,stem,0-1|ályktunum) um hin ýmsu efni. Raunar hófst fundurinn í Laugardalshöll klukkan rúmlega 13.00 á því, að Davíð Oddsson minntist Más Jóhannssonar, sem hafði unnið í skrifstofu flokksins með öllum formönnum hans nema Jóni Þorlákssyni og lést í gær 85 ára að aldri. Vottuðu fundarmenn Má virðingu sína með því að rísa úr sætum.
 
-Geir. H. Haarde flutti framboðsræðu til formanns að lokinni minningarstundinni um Má og klukkan 15.00 fluttu þau Kristján Þór Júlíusson, bæjarstjóri á Akureyri, og Þorgerður Katrín Gunnarsdóttir mennatmálaráðherra framboðsræður til varaformanns. Þess á milli og fram eftir degi kynntu talsmenn málefnanefnda niðurstöður sínar og gengið var til atkvæða um tillögur og breytingatillögur.
+Geir. H. Haarde flutti framboðsræðu til formanns að lokinni minningarstundinni um Má og klukkan 15.00 fluttu þau Kristján Þór Júlíusson, bæjarstjóri á Akureyri, og Þorgerður Katrín Gunnarsdóttir mennatmálaráðherra$(meta,stem,at-ta|menntamálaráðherra) framboðsræður til varaformanns. Þess á milli og fram eftir degi kynntu talsmenn málefnanefnda niðurstöður sínar og gengið var til atkvæða um tillögur og breytingatillögur.
 
 Á heimleið leit ég inn í kosningaskrifstofu Vilhjálms Þ. Vilhjálmssonar, en hann bauð landsfundarfulltrúum til fagnaðar.
 

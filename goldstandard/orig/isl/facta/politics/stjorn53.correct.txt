@@ -1,7 +1,7 @@
 Sunnudagur, 18. 12. 05. 
 Jólatónleikar Kammersveitar Reykjavíkur voru vel sóttir að venju, kl. 17.00 í Áskirkju. Var hljóðfæraleikurunum vel fagnað.
 
-Fréttir berast um, að í Brussel hafi leiðtogum ESB-ríkja tekist að ná samkomulagi um fjárlög til 2013, án þess¥(þess að) í raun sé vitað, hvað gerist á þeim tíma annað en¥(en að) sumir verða að borga meira og aðrir minna, auk þess sem Angela Merkel, kanslari Þýskalands, hafi gegnt miklu hlutverki, þar sem hún stilliti$(typo,stem,1-0|stillti) sér upp  sem sáttasemjari milli Tonys Blairs og Jacques Chiracs. Þá er einnig sagt, að tekist hafi á fundi WTO í Hong Kong að ná samkomulagi um eitthvað, sem á að gerast eftir átta til 10 ár. 
+Fréttir berast um, að í Brussel hafi leiðtogum ESB-ríkja tekist að ná samkomulagi um fjárlög til 2013, án þess¥(þess að) í raun sé vitað, hvað gerist á þeim tíma annað en¥(en að) sumir verða að borga meira og aðrir minna, auk þess sem (Angela Merkel)∞(tys), kanslari Þýskalands, hafi gegnt miklu hlutverki, þar sem hún stilliti$(typo,stem,1-0|stillti) sér upp  sem sáttasemjari milli (Tonys Blairs)∞(eng) og (Jacques Chiracs)∞(fra). Þá er einnig sagt, að tekist hafi á fundi WTO í Hong Kong að ná samkomulagi um eitthvað, sem á að gerast eftir átta til 10 ár. 
 
 Það er auðvelt fyrir stjórnmálamenn  árið 2005 að ná samkomulagi um slíka hluti, því að líklega kemur það í hlut annarra að hrinda því í framkvæmd auk þess sem alltaf má semja að nýju.
 

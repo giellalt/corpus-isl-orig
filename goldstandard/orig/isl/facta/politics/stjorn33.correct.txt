@@ -3,7 +3,7 @@
  
  Var klukkan 14.00 á borgarstjórnarfundi og tók þátt í umræðum um Hlíðahverfi.
  
- Varð að fara um 15.30 á þingund$(typo,stem,0-1|þingfund), þar sem ég flutti framsöguræður fyrir tveimur frumvörpum um tölvubrot, þar lagabreytingar vegna samnings Evrópuráðsins um cybercrime€(foreign,eng|netglæpi) og um ný vegabréf með lífkennum.
+ Varð að fara um 15.30 á þingund$(typo,stem,0-1|þingfund), þar sem ég flutti framsöguræður fyrir tveimur frumvörpum um tölvubrot, þar lagabreytingar vegna samnings Evrópuráðsins um cybercrime∞(eng) og um ný vegabréf með lífkennum.
  
  Þá átti ég samtöl við fréttamenn RÚV um málskostnað og gjafsókn og um landhelgisgæsluna.
  

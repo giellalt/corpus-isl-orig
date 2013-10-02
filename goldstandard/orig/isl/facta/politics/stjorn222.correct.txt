@@ -4,7 +4,7 @@ Innan Framsóknar falla nú öll vötn til Brúnastaða. Það þurfti litla fra
 
 Upplýst er að Halldór fékk hann til að fallast á samkomulag um að þeir hættu báðir, svo fremi full samstaða næðist. Samkomulagið breyttist, skv. lýsingu Guðna, af því samstaðan var ekki fyrir hendi, og Halldór kynnti annað samkomulag á Þingvallafundinum en Guðni var aðili að. Þarmeð$(cmp,dem+adv,1-2|Þar með) var hann laus undan samningnum.
 
-Um leið var Guðni búinn að taka Halldór á ippon. Forsætisráðherra, sem er búinn að tilkynna afsögn, getur ekki hætt við það. Þarmeð$(cmp,dem+adv,1-2|Þar með) var brautin rudd fyrir valdatöku Guðna - svo fremi hann kjósi það sjálfur. Í öllu falli mun hann úr þessu ráða hver verður næsti formaður Framsóknar.
+Um leið var Guðni búinn að taka Halldór á ippon∞(jap). Forsætisráðherra, sem er búinn að tilkynna afsögn, getur ekki hætt við það. Þarmeð$(cmp,dem+adv,1-2|Þar með) var brautin rudd fyrir valdatöku Guðna - svo fremi hann kjósi það sjálfur. Í öllu falli mun hann úr þessu ráða hver verður næsti formaður Framsóknar.
 
 Einn af stuðningsmönnum Guðna í þessari stjórnlausu atburðarrás¢(cmp,gensg-genpl|atburðarás) hefur verið Þorsteinn Húnbogason, sem skrattaðist sem mest gegn Birni Inga Hrafnssyni í prófkjörinu. Þorsteinn er kvæntur ágætri konu, sem málinu tengist lítillega - Siv Friðleifsdóttur. 
 
@@ -32,7 +32,7 @@ Hann er síðan í þeirri stöðu að eiga mun fleiri kosta völ en Finnur nokk
 
 Sjálfstæðisflokkurinn mun drattast með Framsóknarflokkinn einsog myllustein um háls, og kikna í hverju spori. Guðni mun nota hvert tækifæri til að sýna kraft sinn í samskiptunum við íhaldið. Halda menn að hann láti það verða sitt fyrsta verk að setja Íbúðalánasjóð út á gaddinn? Setja RÚV aftur á dagskrá? Halda áfram einkavæðingarruglinu? Mér býður í grun að hann muni meira að segja setja rauða spjaldið á frekari álver. 
 
-Ágreiningsefnin munu hrannast upp, og atburðarrásin og hjaðningarvígin sem þegar hafa orðið eru nóg til að rýja ríkisstjórnina trausti, og gera hana óstarfhæfa þegar kemur að erfiðum málum - einsog efnahagsmálunum. Niðurstaðan vefst ekki fyrir nokkrum manni - allra síst Sjálfstæðismönnum: 
+Ágreiningsefnin munu hrannast upp, og atburðarrásin¢(cmp,gensg-genpl|atburðarásin) og hjaðningarvígin sem þegar hafa orðið eru nóg til að rýja ríkisstjórnina trausti, og gera hana óstarfhæfa þegar kemur að erfiðum málum - einsog efnahagsmálunum. Niðurstaðan vefst ekki fyrir nokkrum manni - allra síst Sjálfstæðismönnum: 
 
 Framsókn er ekki lengur stjórntækur flokkur. Hún verður að tjasla sjálfri sér saman áður en nokkur flokkur getur unnið með henni. Það mun líða nokkur tími þangað til hún gagnast til annarra verka en innanflokksátaka. Því væri farsælast fyrir þjóðina að gengið yrði til kosninga. En það er Halldór sem enn hefur þingrofsvaldið...
 
