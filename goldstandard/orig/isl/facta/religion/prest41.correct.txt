@@ -11,7 +11,7 @@ Kannske$(vow,stem,e-i|Kannski) væri áhugaleysi fyrri kynslóða blaðamanna og
 Hver grein kemur til með að ná yfir heila opnu með viðtölum og ítarlegri samantekt sérfróðra um þann flöt sem fjallað verðu¢(typo,suff,0-1|verður) um í hvert skiptið.
 
 Þessi sería hefst á þeirri yfirlýsingu að ekki sé til staðar neitt skipulegt starf í velferðarríkinu Svíþjóð fyrir syrgjendur - utan vébanda kirkjunnar.
-Rætt er við nýlofað par á áttræðisaldri, Kerstin og Sixten, sem kynntust£kynntist í sorgarsamtökum kirkjunnar.
+Rætt er við nýlofað par á áttræðisaldri, (Kerstin)∞(sve) og Sixten∞(sve), sem kynntust£kynntist í sorgarsamtökum kirkjunnar.
 Þau voru bæði roskin er þau misstu maka sinn og skynjuðu þá að enga aðstoð var að fá hjá félagsyfirvöldum í landinu.
 Þau stóðu skyndilega uppi ein í sinni sorg.
 
@@ -42,7 +42,7 @@ Hvað verður nú um klausturverkefnið? TB er kominn í smá frí (ekki óalgen
 Sumt er framandlegt og annað kunnuglegt.
 
 Sjálfsagt þarf kirkjan sem annað að endurnýja sig á degi hverjum en gæta þess þó að nýtt sé byggt á gömlum grunni.
-Tvenns konar hætta er alltaf yfirvofandi: Að daga uppi sem nátttröll, komið úr öllum kontakt við umhverfi sitt.
+Tvenns konar hætta er alltaf yfirvofandi: Að daga uppi sem nátttröll, komið úr öllum kontakt€(foreign,eng|tengslum) við umhverfi sitt.
 Hitt er jafnógnvekjandi: Að kasta á glæ allri sérstöðu, sérkennum og um leið öllum tilverurétti í viðleitni sinni til að vera („uptodate“)∞(eng) 
 
 

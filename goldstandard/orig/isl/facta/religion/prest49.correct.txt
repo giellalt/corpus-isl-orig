@@ -9,7 +9,7 @@ Oftast eru þetta hversdagslegir hlutir í sjálfu sér sem mennirnir eru að f�
 Dagarnir þjóta áfram þegar þeir eru hlaðnir verkefnum og oft er sem þeir nægi ekki til að leysa þau.
 
 Á hverjum degi horfum við til framtíðar vegna þess að verkefni líðandi stundar eru hluti af henni og mönnum finnast þau styrkja stöðu sína í heiminum og veita gleði.
-Dagarnar streyma áfram og safnast saman í sjóð lífsreynslunnar.
+Dagarnar$(typo,suff,a-i|Dagarnir) streyma áfram og safnast saman í sjóð lífsreynslunnar.
 
 En mörgum finnst lífið ekki fá fulla merkingu með því einu að vinna hin daglegu störf hver sem þau kunna að vera.
 Menn vita nefnilega að lífið gefur meira en öll þessi verkefni sem þarf að leysa; vissulega sjá þeir beint samband milli vinnugleði og dugnaðar annars vegar og þokklalegrar$(typo,stem,1-0|þokkalegrar) afkomu hins vegar.

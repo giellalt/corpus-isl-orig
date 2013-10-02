@@ -25,7 +25,7 @@ Eitt er nokkuð víst að sá dómur er ekki hlutlaus og þaðan af síður kve�
 Margur sem hefnir sín lætur vita hver stendur að verki og býr svo um hnúta að ekki sé hægt að ná tangarhaldi á honum eftir lögformlegum leiðum.
 Sá hinn sami á því alveg eins von á því að sá sem hefnt sín var á láti sjálfur til skarar skríða og hefni sín.
 Þannig getur orðið til vítahringur hefnda eins og við þekkjum til dæmis úr Íslendingasögum og frá átökum stríðandi fylkinga í Palestínu.
-Til er kínverkst$(meta,stem,ks-sk|kínverskt) orðatiltæki sem segir að sá sem hyggjur á hefndir skuli ætíð taka tvær grafir – aðra fyrir þann sem á að hefna sín á og hina fyrir hann sjálfan.
+Til er kínverkst$(meta,stem,ks-sk|kínverskt) orðatiltæki sem segir að sá sem hyggjur$(typo,suff,1-0|hyggur) á hefndir skuli ætíð taka tvær grafir – aðra fyrir þann sem á að hefna sín á og hina fyrir hann sjálfan.
 Hefnd af þessu tagi á sér því engan endi og elur af sér hvert fólskuverkið á fætur öðru sem magnast eftir því sem vítahringurinn verður stærri.
 Þegar hefndin er komin á þetta stig fer hún í síauknum mæli að bitna á þeim sem saklausir eru og hafa þeir því ekki minnstu hugmynd um hvað hratt hefndarógninni af stað.
 Þess vegna er meðal annars siðferðilega rangt að hefna sín.

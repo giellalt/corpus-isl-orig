@@ -4,10 +4,10 @@ Hvunndagsmunaður
 Hvunndagurinn er síður en svo hversdagslegur um þessar mundir.
 Fannfergið sér fyrir því.
 
-Fyrir vikið deili ég með lesendum sænsku fyrirbæri sem þarlendir kalla vardagslyx - sem útleggja mætti með íslenska orðinu hvunndagsmunaður þar til annað og betra kemur fram.
+Fyrir vikið deili ég með lesendum sænsku fyrirbæri sem þarlendir kalla vardagslyx∞(sve) - sem útleggja mætti með íslenska orðinu hvunndagsmunaður þar til annað og betra kemur fram.
 Þarna er komið nærri kviku sænsks þjóðarvilja en hugtakið sameinar það tvennt sem þar er í hávegum haft - fábreytni og munað.
 Nægir í því sambandi að líta á naumhyggjuna sem birtist í ýmsum sérsænskum myndum - s.s. bílum, húsgögnum og híbýlum.
-Þar mætist látleysi, fjöldaframleiðsla, einsleitni annars vegar og einhver fágætni, vandvirkni og persónluleiki$(typo,stem,1-0|persónuleiki) hins vegar.
+Þar mætist látleysi, fjöldaframleiðsla, einsleitni annars vegar og einhver fágætni€fágæti, vandvirkni og persónluleiki$(typo,stem,1-0|persónuleiki) hins vegar.
 Með þessa galdraformúlu að verki hefur Svíum tekist að markaðssetja varning sinn svo vel að það hlýtur að vera öðrum þjóðum öfundarefni.
 
 Eitt dæmið um hvunndagsmunað er maturinn sænski.
@@ -40,7 +40,7 @@ Mér er ekki kunnugt um að Helga hafi verið svarað og er því kærkomið að
 
 
 Sýklar (eða bakteríur) eru, eins og svo margt annað af því sem lifir og hrærist í sköpunarverkinu, ýmist góðir og slæmir - séð frá þröngu sjónarhorni okkar mannanna.
-Sá sem þetta ritar tekur á hverjum morgni af fúsum og frjálsum vilja inn rækilegan skammt af þeim ágætu Lactobacillus acidophilus og Bifidobacterium bifidum „þessum litlu bandamönnum okkar“ eins og segir í auglýsingunni.
+Sá sem þetta ritar tekur á hverjum morgni af fúsum og frjálsum vilja inn rækilegan skammt af þeim ágætu (Lactobacillus acidophilus)∞(lat) og (Bifidobacterium bifidum)∞(lat) „þessum litlu bandamönnum okkar“ eins og segir í auglýsingunni.
 Hann hins vegar ræðst með ofbeldi á marga aðra frændur þeirra þegar þeir hafa tekið sér bólfestu t.d. í öndunarfærum eða opnum sárum á honum sjálfum eða þeim sem honum standa næstir.
 Beitir hann þá til þess bæði fúkkalyfjum og sótthreinsandi efnum.
 Slíkir sýklar eru líklega það sem þú og nafni þinn Hóseason hafið í huga með spurningu ykkar.
@@ -75,14 +75,14 @@ Við mætum kærleika hans hins vegar þegar við leitum hans í angist okkar.
 Samkvæmt þessu verður að ætla að Guð hafi skapað sýkla.
 Um þetta gildir svo¥(svo eins og) með svo margt annað í kristinni guðfræði að hinn hinsti tilgangur þess sem æðutur$(typo,stem,u-s|æðstur) eru£er og hæstur er okkur hulinn meðan við göngum um hér í þessum heimi.
 
-Kirkjan, Darwin og aparnir
+Kirkjan, Darwin∞(eng) og aparnir
 
 Eins og fram kemur í öðru svari mínu hér á vefnum erum við ekki komin af öpum - hvorki í skilningi trúar né vísinda.
-Menn og núlifandi apar eiga sér sameiginlegan forföður - samkvæmt kenningum Darwins.
+Menn og núlifandi apar eiga sér sameiginlegan forföður - samkvæmt kenningum Darwins∞(eng).
 Í þeirri grein ræði ég líka nánar um það hvers vegna ekki urðu átök um þær kenningar innan þeirrar kirkjudeildar sem íslenska þjóðkirkjan tilheyrir.
 
 Því til viðbótar má nefna að kristin kirkja játar að Guð hafi skapað heiminn.
-En þótt fulltrúar þessarar kirkju hafi - bæði fyrir og eftir árið 1859 er Darwin sendi frá sér ritið Uppruna tegundanna - sent frá sér aragrúa rita, hugvekja, predikana, sálma og fræðiefnis, hefur lítið sem ekkert þeirra fjallað um það hvernig nákvæmlega Guð stóð að þessari sköpun.
+En þótt fulltrúar þessarar kirkju hafi - bæði fyrir og eftir árið 1859 er Darwin∞(eng) sendi frá sér ritið Uppruna tegundanna - sent frá sér aragrúa rita, hugvekja, predikana, sálma og fræðiefnis, hefur lítið sem ekkert þeirra fjallað um það hvernig nákvæmlega Guð stóð að þessari sköpun.
 Þær hugmyndir hafa ekki verið ofarlega á baugi innan þeirrar ríkulegu guðfræði sem kirkjan okkar hefur getið af sér.
 Náttúruvísindin svara slíkum spurningum.
 Ástæðan er fyrst og fremst sú að evangelísk lúthersk kristni lítur svo á að Guð sé okkur hulinn í sínu innsta eðli.

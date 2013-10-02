@@ -23,11 +23,11 @@ Hann sæi ekki eftir því að vera í launalausu starfi, yrði raunar gæðarí
 
 Íhugunin lifði og mér var sagt síðar að það væru milljónir Bandaríkjamanna sem hefðu tamið sér að verja tíma til sjálfboðaliðastarfa af mismunandi tagi.
 Ég veit að margir af mínum gömlu háskólakennurum vestra og¥0 fóru úr fílabeinsturnum sínum til samfélagsþjónustu.
-Meira að segja sérvitringurinn, sem málaði hinar kunnu Marilyn Monroemyndir, Andy Warhol, fór í dularklæðum til matvæladreifingar meðal götubarna.
+Meira að segja sérvitringurinn, sem málaði hinar kunnu (Marilyn Monroemyndir, Andy Warhol)∞(eng), fór í dularklæðum til matvæladreifingar meðal götubarna.
 Bandarískt samfélag er með öðru sniði en hið íslenska og við getum ekki yfirfært kerfi að vestan, það sem mér finnst hins vegar mikilvægt er þessi mótaða sjálfboðaliðahefð.
 Þar er nokkur lærdómur fólginn, sem við getum dregið heim til okkar.
 
-Kirkjan þarnast sjálfboðaliðanna
+Kirkjan þarnast$(con,com|þarfnast) sjálfboðaliðanna
 
 Starf sjálfboðaliða er mikilvægur þáttur kirkjustarfs og ein af forsendum trausts kirkjulífs.
 Þúsundir Íslendinga sinna slíkum störfum innan íslensku þjóðkirkjunnar.

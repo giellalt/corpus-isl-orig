@@ -3,8 +3,8 @@ Jólasveinar meðal okkar
 
 Jólasveinarnir eru á leiðinni og svo koma jólin.
 Sveinarnir eru af ýmsum sauðahúsum.
-Kannski spegla þeir menningargerðir? Til eru skandinavískir nissar, sem eru gjarnan stríðnispúkar.
-Ameríska kláusa sjáum við í draumamyndum Disney.
+Kannski spegla þeir menningargerðir? Til eru skandinavískir nissar€(foreign,dan|jólasveinar), sem eru gjarnan stríðnispúkar.
+Ameríska kláusa€(foreign,eng) sjáum við í draumamyndum Disney∞(eng).
 Síðan eru til íslensku leppalúðarnir, sem kannski eru áhugaverðastir þegar grannt er skoðað.
 Jólasveinaímyndir fyrri tíðar skemmta, en þær eru líka gluggi að veruleikatúlkun og trúarlífi, sem ástæða er til staldra við.
 
@@ -28,9 +28,9 @@ Til samanburðar má minna á, að lærisveinar Jesú fóru tveir og tveir saman
 Maður styrkir mann og heldur að heilbrigði, þetta er að gæta bróður síns.
 En einfararnir, jólasveinarnir, komu í mannheim til að spilla, skemma og valda óskunda.
 
-Tveir fyrstu jólasveinarnir, Stekkjarstaur og Giljagaur, komu ekki í híbýli mannanna heldur réðust að skepnunum, lífsgrundvelli fólks.
+Tveir fyrstu jólasveinarnir, Stekkjarstaur¢(cmp,gensg-genpl|Stekkjastaur) og Giljagaur, komu ekki í híbýli mannanna heldur réðust að skepnunum, lífsgrundvelli fólks.
 Búsmalinn var undirstaða atvinnulífsins, eins og nútímapólitíkusar myndu segja.
-Stekkjarstaur hrelldi kindur og hinn síðari fór í fjósið og gerði peningi og vinnufólki illt.
+Stekkjarstaur¢(cmp,gensg-genpl|Stekkjastaur) hrelldi kindur og hinn síðari fór í fjósið og gerði peningi og vinnufólki illt.
 Fyrst var vegið að undirstöðum og ytri ramma, en síðan fóru sveinarnir að sækja að heimilinu sjálfu.
 Stúfur, Þvörusleikir og bræður þeirra stálu öllu matarkyns í húsum og þeir voru sérhæfðir! Sérhæfing er því engin nútímauppfinning.
 Börn og fullorðnir urðu fyrir aðkasti.
@@ -46,7 +46,7 @@ Lífsbarátta og ábyrgð
 
 Heimur hinna lágu torfbæja, þunnu þekju og ljóslitlu híbýla er að baki.
 Sú veröld, sem speglast í þjóðsögum okkar, ljóðum og trúarlífi var veröld óvissu, sífelldrar baráttu og aðgæslu.
-Aðseðjandi öfl sóttu í mat og mátt.
+Aðseðjandi$(typo,stem,0-1|Aðsteðjandi) öfl sóttu í mat og mátt.
 Líf fólks var ótryggt.
 Með það í huga verður að skoða og skilja sögu jólasveinanna.
 Þeir sóttu að undirstöðum, í skepnuhjörðina, mat og hjálparefni fólks.

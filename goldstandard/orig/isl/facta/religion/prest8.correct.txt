@@ -38,7 +38,7 @@ En það er önnur saga og tengd Ágsborgarjátningu.
 Á kirkjulegum vettvangi hefur verið rætt um eðli hjónavígslu sem slíkrar.
 Er hægt að nefna fólk hjón sem eru af sama kyni? Þessi umræða hefur líka sést í fjölmiðlum og víða er verið að leika sér að heiti fyrir samkynhneigða, eins og að lesbíur í staðfestum og blessuðum hjúskap verði nefndar hjónur og hommar verði hjónar.
 Svo er talað um valkosti við hjónaband, þ.e. kærleiksband og svo framvegis.
-Hugtakaskilgreining og orðsmíði eru eitt, en kirkjulegur praxis og guðfræðin svo annað.
+Hugtakaskilgreining og orðsmíði eru eitt, en kirkjulegur praxis∞(lat) og guðfræðin svo annað.
 Siðurinn, hinn kristni siður, er líka til umræðu.
 Margir eiga bágt með að samþykkja breytingu á hefðinni og það tekur tíma að sannfæra alla.
 Hvernig á síðan að túlka Biblíuna er enn eitt málið.
@@ -80,7 +80,7 @@ Hvers er kennivaldið fyrst engin stofnun eða einstaklingur hefur það? Við �
 Það er kirkjunnar allrar að úrskurða í trúarlegum deiluefnum.
 
 Í því er bæði vandi og vegsemd okkar fólgin? Við fáum ekki sérfræðingum úrskurðarvald.
-Kirkjustíll okkar er af tagi fjölskyldunnar, við höfum öll rödd og hlutverk við lausn erfiðra ágreiningsmála, út frá prinsippum okkar kirkjudeildar, í anda Ritningarinnar og höfuðviðmiða.
+Kirkjustíll okkar er af tagi fjölskyldunnar, við höfum öll rödd og hlutverk við lausn erfiðra ágreiningsmála, út frá prinsippum€(foreign,eng) okkar kirkjudeildar, í anda Ritningarinnar og höfuðviðmiða.
 Okkur ber að ræða til lausnar, sem er trú meginviðmiðum Ritningarinnar, þjónar náunga okkar til góðs og er Guði til dýrðar.
 
 Raddirnar
@@ -95,7 +95,7 @@ Samfélagið allt má og þarf að ræða vegna þess að manngildi, eðli sköp
 
 Biblía og hefð
 
-Margir hafa undrast, að biskup íslensku þjóðkirkjunnar væri á bremsunni varðandi breytingu á praxis þjóðkirkjunnar.
+Margir hafa undrast, að biskup íslensku þjóðkirkjunnar væri á bremsunni varðandi breytingu á praxis∞(lat) þjóðkirkjunnar.
 En trúfélög eru ekki bara stimpilstofnanir stóratburða lífsins og þjálfunarbúðir fyrir ferðalagið yfir mærin miklu.
 Þó¥(Þó að) það sé kannski ekki aðalhugðarefni trúmanna hafa félög þeirra tilhneigingu til að viðhalda hefð, verða gildi forvarða menningarverðmæta, vörsluaðilar siða og venja.
 Trúfélög verja gjarnan það, sem verið hefur, siðinn.
@@ -111,7 +111,7 @@ Margt gerist þessi misserin - kórinn stækkar.
 
 Biblían og biblíuskilningur
 
-Í helgilöggjöf hinna fornu hebrea$(cap,stem,h-H|Hebrea) er greinilegt andóf gegn samkynhneigðum praxis.
+Í helgilöggjöf hinna fornu hebrea$(cap,stem,h-H|Hebrea) er greinilegt andóf gegn samkynhneigðum praxis∞(eng).
 Almennt er ljóst, að hebrearnir$(cap,stem,h-H|Hebrearnir) aðgreindu sig frá guðsdýrkun nágrannaþjóða m.a. með því að fara gegn kynlífsvenjum þeirra t.d. í kúltusnum.
 Afstöðuna gegn samkynhneigðum verður líklega að skilja í því ljósi.
 Einstaklingurinn var hluti samfélags og laut þörfum þjóðarheildarinnar.
@@ -141,10 +141,10 @@ Tilgangur Guðs er að frelsa manninn og því er manngildið haft að leiðarlj
 Atferli Jesú er viðmið og fyrirmynd.
 
 Hvað þýðir þetta? Jú, m.a. að það er ekki lengur leyfilegt að slíta út úr Biblíunni einstök vers og nota eins og vopn í blóðugum slag um atferli, helgisiði, hvað má og hvað ekki í kirkjunni.
-Stundum hefur verið talað um að menn noti vers í kúgunarskyni, og talað um texts of terror í því samhengi.
+Stundum hefur verið talað um að menn noti vers í kúgunarskyni, og talað um (texts of terror)∞(eng) í því samhengi.
 
 Biblíutúlkun byggir á biblíuskilningi.
-Vissulega munu stríðlynd, hrædd og höll undir bókstafshyggju, finna það sem þeim hugnast best og nota bara það og láta sig litlu varða heildarprinsipp og megintúlkun.
+Vissulega munu stríðlynd, hrædd og höll undir bókstafshyggju, finna það sem þeim hugnast best og nota bara það og láta sig litlu varða heildarprinsipp€(foreign,eng) og megintúlkun.
 En ef elskan er opinberunarstefna Biblíunnar, mannkærleikur aðaltriði$(typo,stem,0-1|aðalatriði) og mannhelgin varin er ekkert skrítið að margir guðfræðingar, margir prestar og annað kirkjufólk sé tilbúið að hugsa stíft, hratt, langar hugsanir og jafnvel farin£farið að æfa sig í nýjum kórstykkjum.
 
 Þrenna guðfræðinnar
@@ -185,7 +185,7 @@ Samtíminn, veruleiki hverrar tíðar, er að mínu viti tón Skaparans til kirk
 
 Opinber umræða
 
-Gamalt slagorð í kirkjunni er: Ecclesia semper reformanda.
+Gamalt slagorð í kirkjunni er: (Ecclesia semper reformanda)∞(lat).
 Kirkjan þarf stöðugt að endurnýjast og það verður m.a. með góðri og öflugri guðfræði.
 Óskir samkynhneigðra varða bæði kirkju og samfélag.
 Við höfum Alþingi til að fjalla um hinn lagalega ramma en síðan er kirkjunnar að fjalla um hinn trúarlega.

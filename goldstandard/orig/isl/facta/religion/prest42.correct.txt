@@ -19,7 +19,7 @@ Flestir hafa þó skoðun á meistaranum frá Nasaret og telja áhrif hans á he
 Hvað það sé sem geri okkur að kristnum manneskjum og hvers vegna við köllum okkur kristin.
 Kristin trú er á vissan hátt mjög ólík ýmsum skyndibitum þeirra lífsviðhorfa sem okkur er boðið að narta í sem og hinum flóknari réttum með kryddi sem fæst aðeins í einni verslun.
 
-Þegar við reynum að skilja okkur sjálf sem kristnar manneskur í erlilsömum$(typo,stem,1-0|erilsömum) samtímanum leitar hugurinn til löngu liðins tíma.
+Þegar við reynum að skilja okkur sjálf sem kristnar manneskur$(typo,suff,0-1|manneskjur) í erlilsömum$(typo,stem,1-0|erilsömum) samtímanum leitar hugurinn til löngu liðins tíma.
 Leitar til upphafs kristinnar trúar.
 Kristin trú í nútímanum kallast á við það sem eitt sinn var og við lesum frásagnir af lífi meistarans frá Nasaret.
 Fylgjum honum um mannlífssvið sem löngu er horfið en þó svo sé þá verða atburðir sem þar gerðust ljóslifandi fyrir hugskotssjónum okkar og orð sem þar voru mælt eru sem töluð til okkar.
