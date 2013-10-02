@@ -11,7 +11,7 @@ Gunnar Einarsson, bæjarstjóri Garðabæjar, segir sameininguna hagkvæman kost
 
 Verði af sameiningu fari skuldir Álftnesinga niður í 3,2 milljaða$(typo,stem,0-1|milljarða) en þær voru 7,2 þegar staðan var hvað verst í upphafi efnahagshrunsins. 
 
-"Skilyrðið fyrir því að hægt sé að ná þessu niður í 3,2 milljaða$(typo,stem,0-1|milljarða) er að sveitafélögin sameinist því þá koma peningar frá jöfnunarsjóði og frá ríkinu og með þá fjármuni er búið að semja við lánadrottna¢(typo,stem,0-1|lánardrottna) um þessa skuldastöðu," segir Gunnar. 
+"Skilyrðið fyrir því að hægt sé að ná þessu niður í 3,2 milljaða$(typo,stem,0-1|milljarða) er að sveitafélögin¢(cmp,genpl-gensg|sveitarfélögin) sameinist því þá koma peningar frá jöfnunarsjóði og frá ríkinu og með þá fjármuni er búið að semja við lánadrottna¢(typo,stem,0-1|lánardrottna) um þessa skuldastöðu," segir Gunnar. 
 
 En hvaða hag hefur ríkið af sameiningunni?
 

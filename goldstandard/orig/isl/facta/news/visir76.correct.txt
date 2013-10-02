@@ -15,7 +15,7 @@ Starfsemi heimilisins á tímabilinu fór fram á átta stöðum, að Kópavogsb
 
 „Þetta er í raun 9. heimilið¥(heimilið þar) sem við erum að gera innköllun á bótakröfum."
 
-Verði kröfu ekki lýst fyrir (20.desember)$(cmp,num+noun,1-2|20. desember) fellur hún niður en henni má lýsa á eyðiblaði$(typo,suff,i-u|eyðublaði) sem er að finna á vefnum sanngirnisbætur.is og hjá tengiliði vegna vistheimila. 
+Verði kröfu ekki lýst fyrir (20.desember)$(cmp,num+noun,1-2|20. desember) fellur hún niður en henni má lýsa á eyðiblaði$(typo,suff,i-u|eyðublaði) sem er að finna á vefnum (sanngirnisbætur.is)∞(url) og hjá tengiliði vegna vistheimila. 
 
 „Við erum búin að senda sáttaboð á um 500 manns."
 

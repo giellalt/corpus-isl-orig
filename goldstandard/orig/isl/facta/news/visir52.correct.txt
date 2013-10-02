@@ -3,6 +3,6 @@ Skipstjóri hefur verið ákærður í Héraðsdómi Reykjaness fyrir brot á á
 
 Skipstjórinn er sakaður um að hafa verið drukkinn þegar hann sigldi inni€(x|inn) í höfnina en samkvæmt ákæruskjali mældist 0,7 prómíl$(typo,stem,1-2;vow,stem,á-a|prómill) í blóði skipstjórans sem er rúmlega fimmtugur. 
 
-Þegar skiptstjórinn$(typo,suff,1-0|skipstjórinn) ætlaði að leggjast að bryggjunni sigldi hann skipinu á trébátinn Sölku sem sökk í kjölfarið. Sá bátur var í eigu fyrrverandi þingmanns Frjálslynda flokksins, Grétars Mar Jónssonar, en í viðtali við dv.is um málið á síðasta ári sagði hann: „Það er alltaf sorglegt að sjá skip sökkva. Það er ömurlegt."
+Þegar skiptstjórinn$(typo,suff,1-0|skipstjórinn) ætlaði að leggjast að bryggjunni sigldi hann skipinu á trébátinn Sölku sem sökk í kjölfarið. Sá bátur var í eigu fyrrverandi þingmanns Frjálslynda flokksins, Grétars Mar Jónssonar, en í viðtali við (dv.is)∞(url) um málið á síðasta ári sagði hann: „Það er alltaf sorglegt að sjá skip sökkva. Það er ömurlegt."
 
 Ekki liggur fyrir hvort hinn ákærði hafi játað brotið en málið var þingfest í gær. Því var svo frestað til 21. desember.

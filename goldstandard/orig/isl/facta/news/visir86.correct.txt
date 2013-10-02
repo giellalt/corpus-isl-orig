@@ -5,6 +5,6 @@ Salurinn hlaut nafnið Skálafell en bogarstjórinn$(typo,stem,0-1|borgarstjóri
 
 Fjöldi gesta voru viðstaddir vígsluna, bæði íbúar á dvalarheimilinu sem¥0 og aðstandendur. Auk bjórsins var hægt að bragða á kaffi og með því. Flestir héldu sig þó við kaffið.
 
-Þá steig hljómsveitin Mojito á stokk og spilaði fyrir gesti.
+Þá steig hljómsveitin Mojito∞(eng) á stokk og spilaði fyrir gesti.
 
 Hér fyrir neðan má skoða myndir frá glæsilegum salnum.
