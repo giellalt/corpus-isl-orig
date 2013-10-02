@@ -5,14 +5,14 @@ Mamma kom heim og æpti: "Hvers vegna færðu þér ekki grjónagraut eða e-ð?
 
 Bjarni bjútí€(foreign,eng) kenndi mér ensku í dag.
 Synd hvernig virðurnöfn$(typo,stem,1-0|viðurnöfn)€viðurnefni eru á undanhaldi á Íslandi.
-Ef þau væru enn við lýði í daglegu lífi héti ég pottþétt xxx Metall.
+Ef þau væru enn við lýði í daglegu lífi héti ég pottþétt xxx∞(sla) Metall.
 
 Farin að vinna.
 Komið endilega í bíó til mín.
 
 Mjer∞(gisl) leiðist.
 Læra.
-Ohhh.
+Ohhh∞(sla).
 Þetta reddaðist samt allt.
 Nema jakkinn minn, ég er yfirhafnarlaus í hitabeltisskúrnum€hitabeltisskúrinni.
 Ég ætla að reyna að gerast æ þunglyndari til að komast inn á "skyldu-listann" hans Sigga Arent Niðurdrepandi blogg ku vera líklegt til vinsælda (sbr.Lovísa)$(cmp,abbr+noun,1-2|sbr. Lovísa) siggabekkjarsystir€(bekkjarsystir Sigga).
@@ -28,7 +28,7 @@ Bókhlaðan er off∞(eng) sökum yfirhafnarleysis, legg ekki í rigningargöngu
 Kíkti í heimsókn í stofunna$(con,suff,nn-n|stofuna) hennar Steinunnar áðan.
 Þar voru nokkrar manneskjur sem ég hef aldrei nokkurn tíma séð áður svo ég muni, og eru þó (m/mér)¢(cmp,slash,1-2|m. mér) í skóla á (3.ári)$(cmp,num+noun,1-2|3. ári).
 Steinunn er enn að jafna sig eftir helgina, en hún tók þá skyndiákvörðun á fimmtudaginn að fljúga til Noregs á föstudag í tilefni af afmæli Söndru vinkonu.
-(Hún býr senst∞(dan) í Osló$(vow,stem,a-á|Ósló)) Mikið væri ég til í svona helgarflipp, ég bara tími því ekki.
+(Hún býr senst∞(dan) í Osló$(vow,stem,a-á|Ósló)) Mikið væri ég til í svona helgarflipp€(foreign,eng), ég bara tími því ekki.
 Sparasparaspara€spara.
 Annað mál ef ég byggi t.d. í Noregi, en kærasti Söndru bauð henni til útlanda í tilefni af afmælinu.
 Þau fóru út á flugvöll og tóku bara næstu vél sem hljómaði spennandi, enduðu á Kípur.

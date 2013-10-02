@@ -4,7 +4,7 @@ Mér er ómögulegt að skilja hvernig móðir mín, sem ég elska og dái, met 
 Má vera að ég æsi mig um of í samtölum við hana, en ég gleymi mér í ákafanum.
 Aldrei get ég minnst á kunningja mína sem stunda þetta eða hitt áhugamálið án þess að heyra strax: 
 
-"Hvers vegna vilt þú ekki æfa dans? Dans er svo frábær og blablabla¥0 þú bara veist ekki (blablabla...Hvernig)$(cmp,noun,adv,1-2|blablabla... Hvernig) væri að þú færir til Þýskalands á málanámskeið? Af hverju gerist þú ekki skiptinemi? Af hverju vildir þú aldrei byrja í frjálsum?" 
+"Hvers vegna vilt þú ekki æfa dans? Dans er svo frábær og blablabla¥0 þú bara veist ekki blablabla∞(sla)(...Hvernig)$(cmp,punct+adv,1-2|... Hvernig) væri að þú færir til Þýskalands á málanámskeið? Af hverju gerist þú ekki skiptinemi? Af hverju vildir þú aldrei byrja í frjálsum?" 
 
 osfrv.$(abp,1-3|o.s.frv.) osfrv.$(abp,1-3|o.s.frv.)(Fyrirgefðu Haukur getur þú lesið úr þessu?) 
 
@@ -17,7 +17,7 @@ Kannski er ég svona leiðinleg, þau virðast ekki kippa sér upp við það.
 En ég reyni að koma þeirri hugmynd minni á framfæri að þar sem þau 2 eru samtals í fótbolta, handbolta, hestum, kór, gítar-og klarinettnámi auk lúðrarsveitar$(infl|lúðrasveitar) og nemendaráðs, (er þá kannski)¥(þá sé kannski) ekki¥0 skynsamlegra að þau nái upp sæmilegri færni í því frekar¥0 en að stunda allt hitt sem býðst líka samsíða og verða aldrei góð í neinu.
 Tíminn er ekki nægur til að gera allt.
 
-Auðvitað er ég þakklát f.þá umhyggju og....ákefð....sem mamma sýnir í uppeldinu.
+Auðvitað er ég þakklát f.þá umhyggju (og....ákefð....sem)$(cmp,conj+punct+noun+punct+conj|og .... ákefð .... sem) mamma sýnir í uppeldinu.
 En samtöl eins og við áttum núna áðan pirra mig samt ögn.
 Það byrjaði á því að ég sagði henni frá frökkunum¢(cap,stem,f-F|Frökkunum) sem komu í skiptiprógrammi í skólann, leiddist út í "ásakanir": "af¢(cap,stem,a-A) hverju tókst þú ekki þátt í þessu? Þú hefðir haft svo gaman af því. Langar þig ekkert til Frakklands? ÞÚ VILT ALDREI GERA NEITT!!" 
 og¢(cap,stem,o-O|Og) endaði á því að mamma fór enn einu sinni að lofa Verslunarskólann.

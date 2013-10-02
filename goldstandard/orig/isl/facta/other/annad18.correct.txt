@@ -5,14 +5,14 @@ Reykjavík er lítil og allar göturnar ómerkilega venjulegar og .... miðlungs
 Hér er enginn til að hitta því allir eru (annað hvort)¥annaðhvort farnir út úr bænum í sumarbústað eða á Mývötn o.s.frv. eða þá að læra fyrir endurtektarpróf.
 Þrátt fyrir að klukkan sé að verða eitt er einhver krakkaandskoti að orga hérna í götunni.
 Ég mun sjálfsagt ekki vakna við hrópin í ávaxtasala fyrir neðan gluggann minn á morgun.
-Ég mun ekki rekast á fólk með baguette undir handleggnum og engin feit kona í blómakjól mun hrifsa af mér tómatsósuna.
+Ég mun ekki rekast á fólk með baguette∞(eng) undir handleggnum og engin feit kona í blómakjól mun hrifsa af mér tómatsósuna.
 Hér verður kalt og rigning.
 Á mánudaginn byrjar svo vinnan.
 Vinnustaðurinn minn er langt fyrir utan allt mögulegt sem hægt er að ímynda sér.
 Talsvert lengra frá Eiffelturninum heldur en hótelið mitt fyrrverandi.
 Ég er enn ekki viss hvernig ég mun redda mér þangað dagdaglega$(typo,stem,0-1|dagsdaglega), þar sem ég á ekki bíl og þangað gengur enginn strætó.
-Hvað þá metro eða RER.
-Ohhh ég er að fyllast einhverju svona post-ferðalaga-þunglyndi.
+Hvað þá metro∞(eng) eða RER.
+Ohhh∞(sla) ég er að fyllast einhverju svona (post-ferðalaga-þunglyndi)€(foreign,eng|eftir-ferðalaga-þunglyndi).
 Kannski ég drekki þessa rauðvínsflösku sem stendur á borðinu hjá mér.
 #
 

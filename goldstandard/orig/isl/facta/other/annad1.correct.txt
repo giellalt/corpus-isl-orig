@@ -1,6 +1,6 @@
 Amma
 Foreldrarnir eru í útlöndum sem stendur og ég því búin að skuldbinda mig til að vera heima og taka við hlutverki mömmu hvað varðar skutl og matseld.
-Skinkfríður Kvaran, litla systir mín, er byrjuð í samræmdum (rændum?) prófum en hefur hinsvegar$(cmp,dem+adv,1-2|hins vegar) líka yfirumsjón með hesthúsunum, svo það þarf aðeins að hjálpa henni með þetta.
+Skinkfríður∞(sla) Kvaran, litla systir mín, er byrjuð í samræmdum (rændum?) prófum en hefur hinsvegar$(cmp,dem+adv,1-2|hins vegar) líka yfirumsjón með hesthúsunum, svo það þarf aðeins að hjálpa henni með þetta.
 Amma ákvað því að gista hjá okkur í nótt og lét ég henni rúmið mitt eftir.
 Núna situr hún við eldhúsborðið í fjólubláum náttfötum, með hálsklút; drekkur te og les moggann með hjálp gleraugna og stærðarinnar stækkunarglers.
 Áður en afi hætti að keyra voru þau amma alltaf hérna, jafnvel svo að margir vinir okkar systkinana$(con,suff,n-nn|systkinanna) héldu að þau byggju hjá okkur.

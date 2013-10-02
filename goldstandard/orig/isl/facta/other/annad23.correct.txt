@@ -1,6 +1,6 @@
 þriðjudagur, október 15, 2002
 
-Doddeh hefur misst af töluverðu síðustu 4 árshátíðir sínar.
+Doddeh∞(sla) hefur misst af töluverðu síðustu 4 árshátíðir sínar.
 Skv.því sem hann segir hefur hann alltaf hatast út í danstímana í íþróttum.
 Sem betur fer hefur hann séð að sér, því þetta dansrugl er skemmtileg tilbreyting frá stundaskránni, yfirleitt mj.fyndið og auk þess undirbúningur f.eina af skemmtilegustu hefðum MR, Fiðluballið.
 
@@ -15,7 +15,7 @@ Hilmir og Þura voru að slást og flissa frammi á gangi.
 Voða ástfangin og sæt.
 
 
-Kastali Orkuveitunnir$(typo,suff,i-a|Orkuveitunnar) gnæfir ógnvænlega yfir Nóa Sirius og hina kofana í Hesthálsinum.
+Kastali Orkuveitunnir$(typo,suff,i-a|Orkuveitunnar) gnæfir ógnvænlega yfir Nóa Sirius$(vow,stem,a-á;vow,stem,a-á|Síríus) og hina kofana í Hesthálsinum.
 Á leið til vinnu um daginn í heldur drungalegu veðri varð mér litið á vinnukranann hjá byggingunni, fremst á honum blakti tætingslegur orkuveitufáni í myrkrinu.
 Ég var sleginn£slegin ótta.
 Mér leið eins og bróðurhluti mannskyns¢(cmp,gensg-stem|mannkyns) hefði eyðst í skelfilegum kjarnorkuvetri, og hjá orkuveitunni byggi vonda klíkan sem ógnaði öllum, vafðir skornum hjólbörðum.

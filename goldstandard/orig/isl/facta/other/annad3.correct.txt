@@ -11,7 +11,7 @@ Hinn "keppandinn" studdist við litla bók sem fylgja átti eftir.
 Árangurinn kom fram á mælinum og í samræmi við hann gaf bókin nánari leiðbeiningar.
 Þótti þetta skilvirkur og sneðugur$(vow,stem,e-i|sniðugur) leikur.
 
-Ég er ekki frá því að guð hafi í nótt gefið mér góða bissnesshugmynd til að hagnast á fyrir næstu jól.
+Ég er ekki frá því að guð hafi í nótt gefið mér góða bissnesshugmynd€(foreign,eng|viðskiptahugmynd) til að hagnast á fyrir næstu jól.
 
 Beygingarmynd dagsins: Rignd
 #

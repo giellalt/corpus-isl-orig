@@ -9,7 +9,7 @@ hvers vegna...
 
 Hvaða mál eru mér hjartfólgin..
 álit mitt á flutning£flutningi flugvallarins (allt flug til kefló$(cap,stem,k-K;typo,stem,ó-avíkur|Keflavíkur))..
-álit mitt á pólítik svona generalt€(foreign,eng|almennt)..
+álit mitt á pólítik$(vow,stem,a-á;vow,stem,á-a|pólitík) svona generalt€(foreign,eng|almennt)..
 
 langar að skrifa helling..
 en nenni því ekki...
@@ -30,7 +30,7 @@ finnst stefna þeirra í mörgum málum, einkavæðing, hylla undir þá ríkari
 finnst hún bara ekki góð.
 
 
-En er þetta bara ekki allt sama sjittið? Allt sama rassgatið undir þeim öllum? Manni£Mann grunar það nú oft að það sé svo...
+En er þetta bara ekki allt sama sjittið€(foreign,eng)? Allt sama rassgatið undir þeim öllum? Manni£Mann grunar það nú oft að það sé svo...
 en lýðræði er lýðræði..
 maður getur oft kvartað undan því..
 en þetta kerfi er besti kosturinn af öllum þeim vondu sem eru í boði.

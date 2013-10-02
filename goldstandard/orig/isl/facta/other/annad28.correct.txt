@@ -12,7 +12,7 @@ Lestrinum fylgdi þá mikið félagslíf, svo sem skák, hackysack∞(eng) (tók
 Upplifi jafnvel fyrirfram$(cmp,pp+adv,1-2|fyrir fram) fortíðarþrá á stundum, þ.e. trega augnablikið f.hönd sjálfrar mín í framtíðinni.
 Afi minn er múrari.
 
-Ég þarf að finna mér bílandi mann á leið upp að Hengilsvæðinu; leit hafin.
+Ég þarf að finna mér bílandi€akandi mann á leið upp að Hengilsvæðinu; leit hafin.
 
 
 Ég mætti spræk í (4.tíma)$(cmp,num+noun,1-2|4. tíma), slysaðist til að sleppa 3 fyrstu.
@@ -20,13 +20,13 @@ Nema hvað engin£enginn kennari lét sjá sig, í tvöföldum tíma + hádegish
 Örvæntingarfullar tilraunir mínar til að endurvekja cösustemninguna frá því í fyrra mega sín lítils.
 Kannski e.áramót hver veit.
 
-Fótboltatrákarnir virðast hafa ákveðið að þeir eigi skólann.
-Þakklátir samnemendur þeirra fá að heyra Eminem á fullum styrk í hverju hádegishlé og vei þeim sem reyna að skipta um tónlist.
+Fótboltatrákarnir$(typo,stem,0-1|Fótboltastrákarnir) virðast hafa ákveðið að þeir eigi skólann.
+Þakklátir samnemendur þeirra fá að heyra Eminem∞(eng) á fullum styrk í hverju hádegishlé og vei þeim sem reyna að skipta um tónlist.
 Biggi var hrakinn burt frá græjunum áðan, en þó vinsamlegast beðinn um að setja aftur á lag nr.13 á¥0 hækka¥(en hækka) í botn fyrst.
 Æh, þeir eru ágætir.
 
 Í gær bárust mér mikil gleðitíðindi, Sigurður Arent, einn ánægjulegasti fylgifiskur menntaskólaára minna, hefur sett mig á "skyldu-listann" á síðunni sinni.
-Valde commota sum.
+(Valde commota sum.)∞(lat)
 (já ég er í þversögn við sjálfa mig, veit, ég veit) Sjálf er ég alltaf á leiðinni að setja upp lista yfir áhugaverða sambloggara hér til hliðar, það stendur til.
 
 Á föstudaginn er MR-ví dagurinn.

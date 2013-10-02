@@ -55,7 +55,7 @@ Eða er ég bara setningafræðilegur vanviti?
 
 Talandi um Kára.
 Í stað hlöðunnar ákvað ég að læra heima í dag þar sem ég þurfti að fara á heilsugæsluna og þegar ég er á annað borð komin upp í Mosfellsbæ nenni ég ekki að vesenast út úr honum aftur.
-Ég gleymdi hinsvegar$(cmp,dem+adv,1-2|hins vegar) að taka m/í reikninginn hinn 15 ára gamla bróður sem var að hefja gítarnám og spilar Metallica (ath.ekki fallbeygt, of margir hafa tilhneigingu til þess) af mikilli ástríðu í græjunum í stofunni.
+Ég gleymdi hinsvegar$(cmp,dem+adv,1-2|hins vegar) að taka m/í reikninginn hinn 15 ára gamla bróður sem var að hefja gítarnám og spilar Metallica∞(eng) (ath.ekki fallbeygt, of margir hafa tilhneigingu til þess) af mikilli ástríðu í græjunum í stofunni.
 Eldhúsið er eini staðurinn í húsinu þar sem ég sé mér fært að læra, því mamma er búin að planta óumbeðnum prentara á skrifborðið mitt sem tekur allt pláss.
 
 Ég er f.löngu búin að ákveða hvað hver og einn fjölskyldumeðlimur fær að gjöf frá mér um jólin.

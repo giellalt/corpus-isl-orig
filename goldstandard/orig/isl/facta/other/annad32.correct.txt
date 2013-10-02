@@ -12,7 +12,7 @@ Hann sagði að ég væri þá líklega einn af þeim sem þyrfti að koma og l�
 Sagði jafnframt að það væri hægt að hreinsa eyrun sjálfur með mikilli natni.
 Sagði jafnframt að ég væri ekki með vandamál við eyrnamerginn í eyrunum (sem var líka vegna þess að ég hafði hreinsað það út sjálfur).
 Sem þýðir að ég er rosalega duglegur við að gera þetta sjálfur.
-Ligga ligga lái.
+(Ligga ligga lái)∞(sla).
 
 Gallin$(con,suff,n-nn|Gallinn) er að þessi hlustunarbólga€hlustarbólga gæti verði¢(meta,suff,ði-ið|verið) út af því að ég (sé að)¥0 hreinsa eyrun mín með eyrnapinna.
 Jæja.
@@ -20,8 +20,8 @@ Jæja.
 Ég fékk einhverja eyrnadropa, 3 dropar í eyrað þrisvar á dag.
 Hef notað þessa dropa.
 Ekki gengið mjög vel að hitta í bölvaða eyrað og sjá hve mikið eru þrír dropar.
-Þetta er líka soldið€svolítið þykkur vökvi og rennur hægt (eins og þykkt rennandi hor, áferðin og hve fljótt hann lekur).
-Er líka soldið€svolítið olíukenndur.
+Þetta er líka soldið∞(sla|svolítið) þykkur vökvi og rennur hægt (eins og þykkt rennandi hor, áferðin og hve fljótt hann lekur).
+Er líka soldið∞(sla|svolítið) olíukenndur.
 
 Auðvitað tókst mér að gleyma honum heima í dag.
 Sem varð til þess að ég gat rafrausast um það.

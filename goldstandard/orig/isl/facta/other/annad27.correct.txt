@@ -5,7 +5,7 @@ Annað er öllu merkilegra; mér var sagt að bekkjarsystir mín hefði farið t
 Þanni$(typo,stem,0-1|Þannig) sleppur hún v.íþróttatímana og óska ég henni til hamingju m/það.
 En hvað er málið með að fá vottorð um samkynhneigð hjá lækni? Hvernig gengur læknirin$(typo,suff,1-2|læknirinn) úr skugga um að viðkomandi sé eiginkynselskandi? Tekur hann blóðprufu?
 
-Henrique Garcia situr (v.píanóið))$(cmp,adj+noun,1-2|v. píanóið) í Cösu og spilar Ave Maria.
+(Henrique Garcia)∞(por) situr (v.píanóið))$(cmp,adj+noun,1-2|v. píanóið) í Cösu€(foreign,lat) og spilar (Ave Maria)∞(lat).
 Mér finnst ég vera í bíómynd; senan er ég hlæjandi á skólagöngunum m/félögunum, smám saman dofnar myndin og "feidar" út, tónlistin hækkar, gamalt fólk birtist sitjandi yfir spilum m/tregafullan glampa í augum.
 Henriqe hefur komið mér í margs konar ástand frá því hann byrjaði fyrst að busast v.píanóið í fyrrahaust.
 
@@ -20,14 +20,14 @@ Eftirfarandi atriði ergja mig við vinnu:
 -Þegar gelt er á mig "KÓK" e.að ég hef kurteisislega sagt kvöldið vera gott.
 -Flugur sem verpa í gosvélarnar
 
-Þrátt f.þetta söng ég m/fiðlunum í "Stand by me" á leiðinni heim.
+Þrátt f.þetta söng ég m/fiðlunum í ("Stand by me")∞(eng) á leiðinni heim.
 Hlakkaði í mér þegar ég mætti strætó.
 Mikið er líf m/bílprófi gefandi.
 Garðar Cortes (yngri) sótti í annað skiptið á innan v.viku e.afgreiðslu minni.
 Hef ákveðið að túlka atferli hans sem velþóknun í minn garð.
 Hvað er að vera of stærðfræðilegur? Því það er álit peningavaktar á honum.
 Líklegast vegna þess að hann gengur m/ferköntuð gleraugu og í bláum flauelsjakka.
-Peningavaktin er í vessló€Verslunarskólanum).
+Peningavaktin er í vessló€Verslunarskólanum.
 Tölum samt ekki meira um Garðar svo að sumir telji sig ekki þurfa að veitast að einhverjum.
 
 Saumaklúbbur hjá mömmu.
