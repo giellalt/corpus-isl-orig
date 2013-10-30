@@ -7,7 +7,7 @@ Fram kemur í dómnum að ákærðu játuðu báðir fyrir dómi að hafa svipt 
 
 Eins og fram hefur komið héldu mennirnir fórnarlambinu þar til klukkan ellefu daginn eftir, þegar vinnufélagar hans£(x|þess) fóru að óttast um hann£(x|það) og vitjuðu hans£(x|þess) á heimili hans£(x|þess).
 
-Auk þessa dóms var Daníel dæmdur fyrir fjölmörg fíkniefna(abp,0-1|fíkniefna-) og umferðarlagabrot. Hann var sviptur ökuleyfi ævilangt. Snorri á líka margra ára brotasögu að baki. 
+Auk þessa dóms var Daníel dæmdur fyrir fjölmörg fíkniefna€(abp,0-1|fíkniefna-) og umferðarlagabrot. Hann var sviptur ökuleyfi ævilangt. Snorri á líka margra ára brotasögu að baki. 
 
 Mennirnir voru að auki dæmdir til að greiða fórnarlambinu 1.265 þúsund krónur auk vaxta í skaðabætur.
 
