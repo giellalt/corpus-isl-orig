@@ -1,11 +1,11 @@
 {http://www.visir.is/samningurinn-vid-hong-kong-tekur-gildi-a-manudag/article/2012120928771}∞{url}
 Fríverslunarsamningur milli EFTA-ríkjanna og Hong Kong, sem Össur Skarphéðinsson utanríkisráðherra skrifaði undir fyrir Íslands hönd síðastliðið sumar, tekur gildi á mánudag.
 
-Þessu greindi talsmaður yfirvalda í Hong Kong frá í gær. Undirritun á samningnum fór fram á ráðherrafundi EFTA í Liechtenstein þann {21.júní}${cmp,num+noun,1-2|21. júní} í fyrra.€, en þetta er fyrsti fríverslunarsamningur sem Hong Kong gerir við {Evópuríki}${typo,stem,0-1|Evrópuríki}, og tekur hann bæði til vöru- og þjónustuviðskipta og tryggir tollfrelsi íslenskra fiskafurða og iðnaðarvarnings. 
+Þessu greindi talsmaður yfirvalda í Hong Kong frá í gær. Undirritun á samningnum fór fram á ráðherrafundi EFTA í Liechtenstein þann {21.júní}${cmp,num+noun,1-2|21. júní} í fyrra{.}€{,} en þetta er fyrsti fríverslunarsamningur sem Hong Kong gerir við {Evópuríki}${typo,stem,0-1|Evrópuríki}, og tekur hann bæði til vöru- og þjónustuviðskipta og tryggir tollfrelsi íslenskra fiskafurða og iðnaðarvarnings.
 
-Í grein Össurar Skarphéðinssonar {Utanríkisráðherra}¢{cap,stem,U-u|utanríkisráðherra}, sem birtist í Fréttablaðinu rétt eftir undirritun segir að samningurinn muni skapa öruggara og auðveldara umhverfi fyrir Íslendinga til almennra viðskipta og fjárfestinga í Hong Kong en í fyrra voru íslensk fyrirtæki með ríflega 800 manns þar í vinnu. 
+Í grein Össurar Skarphéðinssonar {Utanríkisráðherra}¢{cap,stem,U-u|utanríkisráðherra}, sem birtist í Fréttablaðinu rétt eftir undirritun segir að samningurinn muni skapa öruggara og auðveldara umhverfi fyrir Íslendinga til almennra viðskipta og fjárfestinga í Hong Kong en í fyrra voru íslensk fyrirtæki með ríflega 800 manns þar í vinnu.
 
-Hong Kong er vaxandi miðstöð viðskipta inn á hin öflugu og rísandi markaðssvæði í Suðaustur-Asíu að sögn Össurar og hefur Hong Kong, sem er hluti Kínverska {Alþýðulýðveldisins}¢{cap,stem,A-a|alþýðulýðveldisins}, sett í sérstakan forgang aukin viðskiptatengsl við meginland Kína. 
+Hong Kong er vaxandi miðstöð viðskipta inn á hin öflugu og rísandi markaðssvæði í Suðaustur-Asíu að sögn Össurar og hefur Hong Kong, sem er hluti Kínverska {Alþýðulýðveldisins}¢{cap,stem,A-a|alþýðulýðveldisins}, sett í sérstakan forgang aukin viðskiptatengsl við meginland Kína.
 
 Tækifærin sem nýi fríverslunarsamningurinn opnar liggja því ekki aðeins í aðgangi að mörkuðum Hong Kong heldur líka í tækifærunum sem hann skapar til að koma íslenskri framleiðslu á framfæri gegnum frumkvöðla í Hong Kong á hinn risastóra markað á meginlandi Kína, og Suðaustur-Asíu, segir Össur jafnframt.
 

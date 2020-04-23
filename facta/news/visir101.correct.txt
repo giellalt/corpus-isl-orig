@@ -1,11 +1,11 @@
 {http://visir.is/steingrimur--kodnum-ekki-nidur-vegna-thessarar-samthykktar/article/2012120919630}∞{url}
-„Það er í sjálfu sér ágætt að Evrópusambandið hafi áhyggjur af sjálfbærni fiskveiða, en þeir eiga sjálfir langt í land þar, ég geri svo sem engar athugasemdir við það," segir Steingrímur J. Sigfússon atvinnuvegaráðherra um samþykkt Evrópuþingsins um viðskiptaþvinganir gegn Íslendingum vegna makríldeilunnar svokölluðu. 
+„Það er í sjálfu sér ágætt að Evrópusambandið hafi áhyggjur af sjálfbærni fiskveiða, en þeir eiga sjálfir langt í land þar, ég geri svo sem engar athugasemdir við það," segir Steingrímur J. Sigfússon atvinnuvegaráðherra um samþykkt Evrópuþingsins um viðskiptaþvinganir gegn Íslendingum vegna makríldeilunnar svokölluðu.
 
-Evrópuþingið samþykkti í dag að beita Íslendinga og Færeyinga viðskiptaþvingunum vegna makríldeilunnar, eftir því sem fram kemur í fréttum BBC. Íslendingar og Færeyingar hafa verið gagnrýndir harðlega á síðustu dögum fyrir of miklar veiðar úr makrílstofninum og er talið að þær séu ósjálfbærar. 
+Evrópuþingið samþykkti í dag að beita Íslendinga og Færeyinga viðskiptaþvingunum vegna makríldeilunnar, eftir því sem fram kemur í fréttum BBC. Íslendingar og Færeyingar hafa verið gagnrýndir harðlega á síðustu dögum fyrir of miklar veiðar úr makrílstofninum og er talið að þær séu ósjálfbærar.
 
 Steingrímur hefur margt við þetta að athuga, hann bendir meðal annars á að rannsóknir hér á landi á {markrílstofninum}${typo,stem,1-0|makrílstofninum} hafi leitt í ljós að stofninn sé að langmestu leytinu í góðu ástandi og nýttur á {sjálfbærann}${con,suff,nn-n|sjálfbæran} og ábyrgan hátt.
 
-„En þá kemur að alvöru málsins," segir Steingrímur. „Því er ekki að leyna, að {síðasta}¢{typo,suff,1-0|síðast} þegar ég skoðaði þessar reglur, (að þær myndu)¥0 {rúma}£{rúmuðu}  {víðtækari}¥{þær víðtækari} aðgerðir en við teljum réttar og við drögum línuna þar," bætir Steingrímur við. 
+„En þá kemur að alvöru málsins," segir Steingrímur. „Því er ekki að leyna, að {síðasta}¢{typo,suff,1-0|síðast} þegar ég skoðaði þessar reglur, {að þær myndu}¥{0} {rúma}£{rúmuðu}  {víðtækari}¥{þær víðtækari} aðgerðir en við teljum réttar og við drögum línuna þar," bætir Steingrímur við.
 
 „Það að blanda {þessu}¥{þessu við} sölu á afurðum, svo ég tali ekki um meðaflategundum eða veiðarfærum eða búnaði við þessar reglur - við myndum taka {því}£{það} óstinnt upp ef útfærsla aðgerðanna {fari}£{fer} út fyrir þann ramma sem við teljum lög heimila," segir hann en í niðurstöðu þingsins segir meðal annars að þvinganirnar nái yfir aðra tegundir fiska, Steingrímur áréttar að reglurnar nái þó ekki yfir bolfisk.
 

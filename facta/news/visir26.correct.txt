@@ -1,7 +1,7 @@
 {http://visir.is/arsenal-ad-fa-tvo-sterka-landslidsmenn/article/2012120809804}∞{url}
-Forráðamenn {Arsenal}∞{eng} vinna hörðum höndum þessa stundina ¥(x|að því) að ganga frá kaupum á {Santi Cazorla}∞{spa} frá {Malaga}∞{spa} og lánssamningi við {Nuri Sahin}∞{spa} frá {Real Madrid}∞{spa}. Ljóst er að þessir tveir sterku leikmenn væru mikill liðstyrkur fyrir lið {Arsene Wenger}∞{eng}.
+Forráðamenn {Arsenal}∞{eng} vinna hörðum höndum þessa stundina {}¥(x|að því) að ganga frá kaupum á {Santi Cazorla}∞{spa} frá {Malaga}∞{spa} og lánssamningi við {Nuri Sahin}∞{spa} frá {Real Madrid}∞{spa}. Ljóst er að þessir tveir sterku leikmenn væru mikill liðstyrkur fyrir lið {Arsene Wenger}∞{eng}.
 
-{Cazorla}∞{spa} er 27 ára vængmaður og meðlimur í Evrópumeistaraliði Spánverja en {Sahin}∞{spa} er 23 ára miðjumaður sem spilaði lítið á sínu fyrsta ári með {Real Madrid}∞{spa}. {Sahin}∞{spa} sem er tyrkneskur landsliðsmaður var {hinsvegar}${cmp,dem+adv,1-2|hins vegar} allt í öllu hjá þýska liðinu {Dortmund}∞{tys} tímabilin á undan en gerði sex ára samning við {Real}∞{spa} fyrir aðeins einu ári síðan. 
+{Cazorla}∞{spa} er 27 ára vængmaður og meðlimur í Evrópumeistaraliði Spánverja en {Sahin}∞{spa} er 23 ára miðjumaður sem spilaði lítið á sínu fyrsta ári með {Real Madrid}∞{spa}. {Sahin}∞{spa} sem er tyrkneskur landsliðsmaður var {hinsvegar}${cmp,dem+adv,1-2|hins vegar} allt í öllu hjá þýska liðinu {Dortmund}∞{tys} tímabilin á undan en gerði sex ára samning við {Real}∞{spa} fyrir aðeins einu ári síðan.
 
 BBC hefur eftir heimildarmönnum sínum hjá {Arsenal}∞{eng} að vonir standi til þess að ganga frá þessum samningum áður en tímabilið hefst en Wenger hefur þegar styrkt liðið með mönnum eins og {Lukas Podolski}∞{pol} frá Köln og {Olivier Giroud}∞{fra} frá {Montpellier}∞{fra}.
 

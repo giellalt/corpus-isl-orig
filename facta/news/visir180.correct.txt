@@ -1,13 +1,13 @@
 {http://www.visir.is/bradalungnabolgan-smitast-ekki-audveldlega/article/2012120928770}∞{url}
-Nýtt afbrigði bráðalungnabólgu smitast ekki jafn auðveldlega á milli manna og áður var talið, að sögn sérfræðinga frá Alþjóðaheilbrigðisstofnuninni. Minnst einn er þegar látinn vegna veirunnar. 
+Nýtt afbrigði bráðalungnabólgu smitast ekki jafn auðveldlega á milli manna og áður var talið, að sögn sérfræðinga frá Alþjóðaheilbrigðisstofnuninni. Minnst einn er þegar látinn vegna veirunnar.
 
-Um er að ræða svonefnda kórónaveiru sem greindist nýverið og svipar mjög til lungnabólgunnar HABL sem kom fram í Kína í febrúar 2002, eða SARS eins og hún kallast á ensku. Sú sýking varð að heimsfaraldri og á áttunda hundrað manns létust. 
+Um er að ræða svonefnda kórónaveiru sem greindist nýverið og svipar mjög til lungnabólgunnar HABL sem kom fram í Kína í febrúar 2002, eða SARS eins og hún kallast á ensku. Sú sýking varð að heimsfaraldri og á áttunda hundrað manns létust.
 
-BBC hefur fjallað ítarlega um nýja afbrigðið síðustu daga. Þar kemur fram að tveir menn á Arabíuskaga veiktust nýverið af veirunni. Annar þeirra lést í {Saudi-Arabíu}€{foreign,eng|Sádi-Arabíu}, og er það eina staðfesta dauðsfallið vegna veirunnar. Hinn maðurinn var fluttur alvarlega veikur á sjúkrahús í Englandi. Þeir þjáðust báðir af nýrnabilun. 
+BBC hefur fjallað ítarlega um nýja afbrigðið síðustu daga. Þar kemur fram að tveir menn á Arabíuskaga veiktust nýverið af veirunni. Annar þeirra lést í {Saudi-Arabíu}€{foreign,eng|Sádi-Arabíu}, og er það eina staðfesta dauðsfallið vegna veirunnar. Hinn maðurinn var fluttur alvarlega veikur á sjúkrahús í Englandi. Þeir þjáðust báðir af nýrnabilun.
 
-Þá óttuðust heilbrigðisyfirvöld í Danmörku að veiran hefði greinst þar og voru fimm manns settir í sóttkví. Komið hefur í ljós að þeir voru ekki með þessa tilteknu veiru. 
+Þá óttuðust heilbrigðisyfirvöld í Danmörku að veiran hefði greinst þar og voru fimm manns settir í sóttkví. Komið hefur í ljós að þeir voru ekki með þessa tilteknu veiru.
 
-Alþjóðaheilbrigðisstofnunin fylgist náið með útbreiðslu veirunnar. Enn hefur verið talið ástæða til að setja hömlur á ferðir til {Saudi Arabíu}€{foreign,eng|Sádi-Arabíu} eða {Quatar}€{foreign,eng|Katar}. Stofnunin vinnur þó náið með þarlendum yfirvöldum vegna þess að á næstunni flykkjast pílagrímar til Mekka vegna árlegar trúarhátíðar. 
+Alþjóðaheilbrigðisstofnunin fylgist náið með útbreiðslu veirunnar. Enn hefur verið talið ástæða til að setja hömlur á ferðir til {Saudi Arabíu}€{foreign,eng|Sádi-Arabíu} eða {Quatar}€{foreign,eng|Katar}. Stofnunin vinnur þó náið með þarlendum yfirvöldum vegna þess að á næstunni flykkjast pílagrímar til Mekka vegna árlegar trúarhátíðar.
 
-Ítarlegar rannsóknir fara fram á veirunni og fyrstu niðurstöður benda til þess að hún eigi uppruna sinn í dýrum, og hagi sér á annan hátt en HABL(:)€.
+Ítarlegar rannsóknir fara fram á veirunni og fyrstu niðurstöður benda til þess að hún eigi uppruna sinn í dýrum, og hagi sér á annan hátt en HABL{:}€{.}
 

@@ -1,5 +1,5 @@
 {http://www.visir.is/sabella--messi-er-hamingjusamur/article/2012120908982}∞{url}
-Þó svo að {Cristiano Ronaldo}∞{spa} segist vera óhamingjusamur hjá {Real Madrid}∞{spa} er (Lionel Messi)∞spa) í skýjunum, bæði með {félasgliði}${meta,stem,sg-gs|félagsliði} sínu og landsliði.
+Þó svo að {Cristiano Ronaldo}∞{spa} segist vera óhamingjusamur hjá {Real Madrid}∞{spa} er {Lionel Messi}∞{spa} í skýjunum, bæði með {félasgliði}${meta,stem,sg-gs|félagsliði} sínu og landsliði.
 
 {Messi}∞{spa} hefur unnið allt sem hægt er að vinna með félagsliði sínu og nú loksins er honum farið að ganga vel með landsliðinu líka.
 
