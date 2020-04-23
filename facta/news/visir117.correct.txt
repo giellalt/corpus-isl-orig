@@ -1,4 +1,4 @@
-(http://visir.is/othekkjanleg-tyra-banks/article/2012120919060)∞(url)
-(America’s Next Top Model)∞(eng) sjónvarpsstjarnan (Tyra Banks)∞(eng), 38 ára, var nánast óþekkjanleg þegar hún skokkaði um götur (New York)∞(eng) snemma í morgun. Tyra∞(eng) var með derhúfu á höfðinu eins og sjá má í myndsasafni$(typo,suff,1-0|myndasafni).
+{http://visir.is/othekkjanleg-tyra-banks/article/2012120919060}∞{url}
+{America’s Next Top Model}∞{eng} sjónvarpsstjarnan {Tyra Banks}∞{eng}, 38 ára, var nánast óþekkjanleg þegar hún skokkaði um götur {New York}∞{eng} snemma í morgun. Tyra∞(eng) var með derhúfu á höfðinu eins og sjá má í myndsasafni$(typo,suff,1-0|myndasafni).
 
-Ef myndir sem teknar voru á tískuvikunni í (New York)∞(eng) eru bornar saman við þær sem teknar voru af henni í morgun er munurinn mikill.
+Ef myndir sem teknar voru á tískuvikunni í {New York}∞{eng} eru bornar saman við þær sem teknar voru af henni í morgun er munurinn mikill.

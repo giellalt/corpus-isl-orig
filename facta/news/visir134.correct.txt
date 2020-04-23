@@ -1,4 +1,4 @@
-(http://www.visir.is/kjosa-um-sameiningu-gardabaejar-og-alftaness/article/2012120929683)∞(url)
+{http://www.visir.is/kjosa-um-sameiningu-gardabaejar-og-alftaness/article/2012120929683}∞{url}
 Skuldir og skuldbindingar Álftaness sem voru 7,2 milljarðar í árslok 2009 fara niður í 3,2 milljarða í lok þessa árs verði af sameiningu sveitarfélagsins við Garðabæ. Íbúar kjósa um málið í október. 
 
 Bæjarstjórnir Garðabæjar og Sveitarfélagsins Álftaness hafa báðar komist að þeirri niðurstöðu að það sé skynsamlegur kostur að sameina þessi tvö sveitarfélög. 
@@ -21,5 +21,5 @@ Skipulagsvald á svæðinu vegur auk þess þungt í þessu máli.
 
 "Síðast en ekki síst, sem er mikilvægasta atriðið að mínu mati, er að Garðbær¢(cmp,suff,st-genpl|Garðabær) hefur þá skipulagsvald út á Álftanesið. Við eigum þá ekki hættu á að annað sveitarfélag, til dæmis Reykjavík, sem¥0 hefði skipulagsvaldið ef Álftanes myndi sameinast því sem mun væntanlega gerast hafni fólk sameiningunni. Þá gæti maður séð fyrir sér að menn færu að velta fyrir sér flugvelli á Lönguskerjum og svo framvegis og það myndi ég ekki vilja sjá," segir Gunnar. 
 
-Hægt er að kynna sér tillögurnar nánar á síðunni (okkarval.is)∞(url).
+Hægt er að kynna sér tillögurnar nánar á síðunni {okkarval.is}∞{url}.
 

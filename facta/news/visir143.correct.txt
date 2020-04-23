@@ -1,14 +1,14 @@
-(http://visir.is/nytt-synishorn-ur-hobbitanum/article/2012120918805)∞(url)
+{http://visir.is/nytt-synishorn-ur-hobbitanum/article/2012120918805}∞{url}
 Vísir frumsýnir hér glænýtt sýnishorn úr einni stærstu mynd ársins, Hobbitanum.
-Myndin verður frumsýnd um jólin og er sú fyrsta í þríleik leikstjórans (Peter Jackson)∞(eng) eftir samnefndri bók J.R.R. Tolkien∞(eng). Sagan er einskonar$(cmp,dem+adv,1-2|eins konar) undanfari Hringadróttinssögu og hefur Jackson∞(eng) fengið sömu snillinga til liðs við sig og þegar hann gerði þann þríleik. 
+Myndin verður frumsýnd um jólin og er sú fyrsta í þríleik leikstjórans {Peter Jackson}∞{eng} eftir samnefndri bók J.R.R. Tolkien∞(eng). Sagan er einskonar$(cmp,dem+adv,1-2|eins konar) undanfari Hringadróttinssögu og hefur Jackson∞(eng) fengið sömu snillinga til liðs við sig og þegar hann gerði þann þríleik. 
 
-(The Hobbit: An Unexpected Journey)∞(eng) fjallar um hobbitann Bilbó Bagga (Freeman∞(eng)) og ævintýraför hans til hins forna konungsríkis Erebor∞(eng), en þar hefur drekinn Smeyginn (Cumberbatch∞(eng)) sölsað undir sig völdin. 
+{The Hobbit: An Unexpected Journey}∞{eng} fjallar um hobbitann Bilbó Bagga (Freeman∞(eng)) og ævintýraför hans til hins forna konungsríkis Erebor∞(eng), en þar hefur drekinn Smeyginn (Cumberbatch∞(eng)) sölsað undir sig völdin. 
 
 Bilbó slæst í hóp með vitkanum Gandalfi (McKellen∞(eng)) og þréttan$(vow,stem,á-a;vow,stem,a-á|þrettán) dvergum sem eru undir forystu hins mikla stríðsmanns (eða dvergs) Þorins Eikinskjaldar (Armitage∞(eng)). Á ferðalagi sínu þurfa þeir að fara um víðlendur¢(infl|víðlendi) sem eru£er morandi í dríslum, vörgum og risastórum kóngulóm. 
 
 Þó að markmið þeirra sé að komast austur yfir auðnirnar og að Fjallinu Eina, verða þeir fyrst að sleppa úr dríslahellunum þar sem Bilbó kemst í kynni við veruna sem á eftir að breyta lífi hans að eilífu... Gollri. Í hellunum finnur Bilbó djásnið hans Gollris: töfrahring sem hefur yfir ýmsum óvæntum og gagnlegum kostum að búa. 
 
-(Martin Freeman)∞(eng) leikur Bilbó, (Ian McKellen)∞(eng) mætir aftur til leiks í hlutverki Gandalfs og (Richard Armitage)∞(eng) leikur Þorinn£Þorin Eikinskjöld. 
+{Martin Freeman}∞{eng} leikur Bilbó, {Ian McKellen}∞{eng} mætir aftur til leiks í hlutverki Gandalfs og {Richard Armitage}∞{eng} leikur Þorinn£Þorin Eikinskjöld. 
 
 Hobbitinn verður frumsýnd£frumsýndur annan í jólum.
 

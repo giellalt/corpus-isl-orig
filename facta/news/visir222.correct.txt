@@ -1,11 +1,11 @@
-(http://visir.is/nuddari-grunadur-um-naudgun/article/2012120928977)∞(url)
+{http://visir.is/nuddari-grunadur-um-naudgun/article/2012120928977}∞{url}
 Farbann yfir íslenskum nuddara, sem grunaður er um nauðgun á viðskiptavini, var staðfest í Hæstarétti í dag. Maðurinn er í farbanni að minnsta kosti til 16. október næstkomandi vegna málsins en í dómnum segir að maðurinn hafi búið erlendis um árabil.
 
 Ákæra var gefin út í málinu í júlí síðastliðnum. Þar er honum gefið að sök að hafa í lok júní á nuddstofu, sem hann starfrækti, haft önnur kynferðismök en samræði við konu, með því að beita hana ofbeldi eða ólögmætri nauðung. 
 
 Konan lagði fram kæru á hendur manninum í byrjun júlí en í greinargerð ríkissaksóknara segir að þegar hún kom í nuddtíma til hans hafi hann beðið hana að fara úr nærbuxunum og leggjast á bakið. Þá hefði£hafi hann nuddað yfir lífbein hennar og óþægilega nálægt kynfærasvæðinu. Því næst hefði£hafi hann rennt hendi um klof hennar svo hann snerti skapabarma hennar og sett fingur í klof hennar. 
 
-Við yfirheyrslu hjá lögreglu sagði maðurinn að hann hafi£hefði verið að beita tækni sem hann taldi að myndi gagnast konunni. Hinsvegar$(cmp,dem+adv,1-2|Hins vegar) hefði einn fingur hans runnið til og farið inn í leggöng hennar. Hann (sagðist£sagði)¥(sagði að sér) hafa£hefði brugðið mjög og gat ekki gefið skýringar á því sem hafði gerst. 
+Við yfirheyrslu hjá lögreglu sagði maðurinn að hann hafi£hefði verið að beita tækni sem hann taldi að myndi gagnast konunni. Hinsvegar$(cmp,dem+adv,1-2|Hins vegar) hefði einn fingur hans runnið til og farið inn í leggöng hennar. Hann {sagðist£sagði}¥{sagði að sér} hafa£hefði brugðið mjög og gat ekki gefið skýringar á því sem hafði gerst. 
 
 Brotið varðar allt að 16 ára fangelsi.
 

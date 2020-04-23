@@ -1,8 +1,8 @@
-(http://visir.is/hustokumadur-fangelsadur-i-fyrsta-sinn/article/2012120928903)∞(url)
+{http://visir.is/hustokumadur-fangelsadur-i-fyrsta-sinn/article/2012120928903}∞{url}
 Rúmlega tvítugur maður var nýverið dæmdur til fangelsisvistar í Bretlandi fyrir að gera hús sem hann átti ekki að dvalarstað sínum. Þetta er í fyrsta sinn sem hústökumaður er dæmdur eftir nýrri löggjöf um hústökur sem tók gildi 1. september í ár í landinu.
 
-Það var (Alex Haigh)∞(eng) sem var dæmdur til 12 vikna fangelsisvistar fyrir hústöku en frá þessu er greint í breska blaðinu (The Guardian)∞(eng). Breska lögreglan handtók Haigh∞(eng) ásamt tveimur öðrum í íbúð á (Cumberland Street)∞(eng) í byrjun september. Þeir voru allir ákærðir fyrir hústöku, Haigh∞(eng) hefur þegar verið sakfelldur en hinir tveir bíða dóms.
+Það var {Alex Haigh}∞{eng} sem var dæmdur til 12 vikna fangelsisvistar fyrir hústöku en frá þessu er greint í breska blaðinu {The Guardian}∞{eng}. Breska lögreglan handtók Haigh∞(eng) ásamt tveimur öðrum í íbúð á {Cumberland Street}∞{eng} í byrjun september. Þeir voru allir ákærðir fyrir hústöku, Haigh∞(eng) hefur þegar verið sakfelldur en hinir tveir bíða dóms.
 
 Löggjöfin sem um ræðir gerir hústökur refsiverðar, þ.e. að slá eign sinni á hús sem standa auð eða gera þau að dvalarstað sínum. Hér eftir liggur allt að sex mánaða fangelsi eða fimm þúsund punda sekt við hústökum í Bretlandi.
 
-Talsmenn samtaka hústökufólks segja lögin ósanngjörn. ,,Þetta er sorgardagur í sögu þjóðar okkar, þegar ungur, ómótaður einstaklingur er settur í fangelsi fyrir það eitt að reyna að hafa þak yfir höfuðið,'' sagði (Rueben Taylor)∞(eng), frá samtökunum þegar hann heyrði af dómnum. ,,Raunverulegi glæpurinn eru þær 930 þúsund íbúðir sem standa auðar víðsvegar$(cmp,adj+adv,1-2|víðs vegar) um Bretland, ekki fólkið sem reynir að koma þeim aftur í notkun.''
+Talsmenn samtaka hústökufólks segja lögin ósanngjörn. ,,Þetta er sorgardagur í sögu þjóðar okkar, þegar ungur, ómótaður einstaklingur er settur í fangelsi fyrir það eitt að reyna að hafa þak yfir höfuðið,'' sagði {Rueben Taylor}∞{eng}, frá samtökunum þegar hann heyrði af dómnum. ,,Raunverulegi glæpurinn eru þær 930 þúsund íbúðir sem standa auðar víðsvegar$(cmp,adj+adv,1-2|víðs vegar) um Bretland, ekki fólkið sem reynir að koma þeim aftur í notkun.''

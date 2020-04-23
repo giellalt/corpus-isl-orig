@@ -1,8 +1,8 @@
-(http://visir.is/teitur-syknadur---gunnlaugi-gert-ad-greida-honum-1,5-milljonir-/article/2012120918836)∞(url)
+{http://visir.is/teitur-syknadur---gunnlaugi-gert-ad-greida-honum-1,5-milljonir-/article/2012120918836}∞{url}
 Bloggarinn Teitur Atlason var sýknaður í Héraðsdómi Reykjavíkur fyrir stundu af bótakröfu Gunnlaugs M. Sigmundssonar og eiginkonu hans, sem höfðu stefnt honum vegna ummæla Teits á bloggsíðu sinni. Kröfu um ógildingu ummæla var vísað frá dómi.
 
 Gunnlaugur og eiginkona hans stefndu Teiti fyrir meiðyrði vegna bloggfærslna
-sem birtist£birtust á (dv.is)∞(url) á síðasta ári. Gunnlaugur og eiginkona hans þurfa að greiða Teiti eina og hálfa milljón í málskostnað.
+sem birtist£birtust á {dv.is}∞{url} á síðasta ári. Gunnlaugur og eiginkona hans þurfa að greiða Teiti eina og hálfa milljón í málskostnað.
 
 Skrifin byggðust að stærstu leyti á umfjöllun Agnesar Bragadóttir í Morgunblaðinu árið 1998 um Kögunamálið$(typo,suff,0-1|Kögunarmálið), þar sem Gunnlaugur var sagður hafa hagnýtt sér upplýsingar sem hann bjó yfir sem framkvæmdastjóri Kögunar.
 Við aðalmeðferð málsins sagðist Gunnlaugur aldrei hafa sölsað undir sig Kögun, eins og Teitur hafi gefið í skyn. Þá hefði skrifin dregið úr trúverðugleika hans sem viðskiptamanns.

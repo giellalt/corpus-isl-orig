@@ -1,5 +1,5 @@
-(http://visir.is/kim-kardashian-i-dekri/article/2012120809842)∞(url)
-Raunveruleikastjarnan (Kim Kardashian)∞(eng) var mynduð í bak og fyrir er hún skrapp í dekur á dögunum.
+{http://visir.is/kim-kardashian-i-dekri/article/2012120809842}∞{url}
+Raunveruleikastjarnan {Kim Kardashian}∞{eng} var mynduð í bak og fyrir er hún skrapp í dekur á dögunum.
 
 Kim fór í hand$(abp,0-1|hand-) og fótsnyrtingu og axlarnudd£(x|axlanudd) og naut þess vel þrátt fyrir alla athyglina sem hún fékk á snyrtistofunni. 
 

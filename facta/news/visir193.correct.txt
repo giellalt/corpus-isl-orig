@@ -1,4 +1,4 @@
-(http://visir.is/kaninan-hefur-ekki-thegnrett-i-natturu-islands/article/2012120928809)∞(url)
+{http://visir.is/kaninan-hefur-ekki-thegnrett-i-natturu-islands/article/2012120928809}∞{url}
 Náttúrufræðistofnun Íslands telur kanínu ekki hluta af dýraríki Íslands heldur sé hún „framandi tegund sem beri að útrýma í villtri náttúru landsin$(typo,suff,0-1|landsins)". Þetta kemur fram á vefsíðu stofnunarinnar.
 
 Í Fréttablaðinu í gær var fjallað um álit sérfræðings hjá Náttúrufræðistofnun sem taldi að kanínur væru orðnar hluti af fánu landsins. Þetta er ekki í samræmi við mat stofnunarinnar sjálfrar sem segir á heimasíðu sinni að umræddur sérfræðingur hafi þarna viðað¢(typo,stem,0-1|viðrað) persónulegar skoðanir sínar.

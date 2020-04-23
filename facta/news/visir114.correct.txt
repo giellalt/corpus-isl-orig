@@ -1,14 +1,14 @@
-(http://visir.is/danski-islendingurinn-er-markahaestur-i-thysku-deildinni/article/2012120919124)∞(url)
-Danski landsliðsmaðurinn (Hans Lindberg)∞(dan) hefur byrjað vel í þýsku úrvalsdeildinni í handbolta á þessu tímabili og er markahæsti leikmaður deildarinnar eftir leiki helgarinnar. Foreldrar Hanes$(typo,stem,1-0|Hans)eru eins og kunnugt er báðir íslenskir en Lindberg∞(dan) er uppalinn í Danmörku.
+{http://visir.is/danski-islendingurinn-er-markahaestur-i-thysku-deildinni/article/2012120919124}∞{url}
+Danski landsliðsmaðurinn {Hans Lindberg}∞{dan} hefur byrjað vel í þýsku úrvalsdeildinni í handbolta á þessu tímabili og er markahæsti leikmaður deildarinnar eftir leiki helgarinnar. Foreldrar Hanes$(typo,stem,1-0|Hans)eru eins og kunnugt er báðir íslenskir en Lindberg∞(dan) er uppalinn í Danmörku.
 
-(Hans Lindberg)∞(dan) er búinn að skora 41 mark í fyrstu fimm leikjum HSV Hamburg∞(tys) á tímabilinu eða 8,2 mörk að meðaltali í leik. Lindberg∞(dan) skoraði 9 mörk um helgina þegar liðið vann (Hannover-Burgdorf)∞(tys).
+{Hans Lindberg}∞{dan} er búinn að skora 41 mark í fyrstu fimm leikjum HSV Hamburg∞(tys) á tímabilinu eða 8,2 mörk að meðaltali í leik. Lindberg∞(dan) skoraði 9 mörk um helgina þegar liðið vann {Hannover-Burgdorf}∞{tys}.
 
 Lindberg∞(dan) skorað 7,0 mörk að meðaltali í leik á síðasta tímabili og var með 6,2 mörk í leik tímabilið 2010-11. Hann hefur spilað með HSV Hamburg∞(dan) frá 2007 og er þegar búinn að brjóta þúsund marka múrinn í þýsku úrvalsdeildinni.
 
-Hans Lindberg∞(dan) hefur reyndar bara eins marks forskot á (Uwe Gensheimer)∞(tys), lærisvein Guðmundar Guðmundssonar hjá (Rhein-Neckar Löwen)∞(tys) en í 3. til 4. sæti eru síðan Daninn (Morten Olsen)∞(dan) og Þjóðverjinn (Timm Schneider)∞(tys).
+Hans Lindberg∞(dan) hefur reyndar bara eins marks forskot á {Uwe Gensheimer}∞{tys}, lærisvein Guðmundar Guðmundssonar hjá {Rhein-Neckar Löwen}∞{tys} en í 3. til 4. sæti eru síðan Daninn {Morten Olsen}∞{dan} og Þjóðverjinn {Timm Schneider}∞{tys}.
 
 Markahæstir í þýsku úrvalsdeildinni:
-(1. Hans Lindberg, HSV Hamburg 41/15
+{1. Hans Lindberg, HSV Hamburg 41/15
 2. Uwe Gensheimer, Rhein-Neckar Löwen 40/13
 3. Morten Olsen, TSV Hannover-Burgdorf 37/14
 3. Timm Schneider, TBV Lemgo 37/17
@@ -18,5 +18,5 @@ Markahæstir í þýsku úrvalsdeildinni:
 7. Rolf Hermann, TBV Lemgo 30/0
 9. Nenad Bilbija, TSV GWD Minden 29/0
 10. Pavel Horak, Frisch Auf Göppingen 28/0
-10. Steffen Fäth, HSG Wetzlar 28/4)∞(dan,tys)
+10. Steffen Fäth, HSG Wetzlar 28/4}∞{dan,tys}
 

@@ -1,6 +1,6 @@
-(http://visir.is/farthegar-i-hauki-fengu-fraedslu-um-afallahjalp-/article/2012120809808)∞(url)
+{http://visir.is/farthegar-i-hauki-fengu-fraedslu-um-afallahjalp-/article/2012120809808}∞{url}
 Rauði krossinn á Húsavík opnaði fjöldahjálparstöð í Nausti, húsnæði Rauða krossins á Húsavík, fyrir farþega hvalaskoðunarbátsins Hauks sem strandaði við Lundey á Skjálfanda í morgun. 
 Fimm manns frá Rauða krossinum á Húsavík tóku á móti farþegunum með teppi eftir að þeir höfðu verið fluttir í land með slöngubátum og kvennadeild Slysavarnarfélagsins Landsbjargar á Húsavík bauð þeim upp á kaffi og kökur.
-Samkvæmt upplýsingum frá Rauða krossinum ávörpuðu læknar frá sjúkrahúsinu á Húsavík farþegahópinn, lýstu síðbúnum einkennum áfalla og hvöttu fólkið til að styðja (við hvort)¥(x|hvort við) annað og leita sér aðstoðar ef það finndi$(infl|fyndi) fyrir vanlíðan í kjölfar strandsins.
+Samkvæmt upplýsingum frá Rauða krossinum ávörpuðu læknar frá sjúkrahúsinu á Húsavík farþegahópinn, lýstu síðbúnum einkennum áfalla og hvöttu fólkið til að styðja {við hvort}¥{x|hvort við} annað og leita sér aðstoðar ef það finndi$(infl|fyndi) fyrir vanlíðan í kjölfar strandsins.
 Eigendur Norðursiglingar sem rekur hvalaskoðunarbátinn Hauk ávarpaði£(x|ávörpuðu) einnig fólkið og var því boðið í heita súpu á veitingastað eftir að fundinum lauk nú um hádegið.
 Að sögn Guðnýjar Björnsdóttur, verkefnisstjóra Rauða krossins á Norðurlandi, amaði ekkert að fólkinu, flestir farþeganna héldu ró sinni og engum virtist illa brugðið. Þegar klukkan var tíu mínútur yfir tólf sagði hún hvalaskoðunarbátinn Hauk vera að sigla fyrir eigin afli inn í Húsavíkurhöfn.

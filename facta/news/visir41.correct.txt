@@ -1,4 +1,4 @@
-(http://www.visir.is/styrivextir-obreyttir/article/2012120829703)∞(url)
+{http://www.visir.is/styrivextir-obreyttir/article/2012120829703}∞{url}
 Peningastefnunefnd Seðlabanka Íslands hefur ákveðið að halda stýrivöxtum óbreyttum. Ástæðan fyrir þeirri ákvörðun er meðal annars sú að horfur eru á meiri hagvexti í ár enn Seðlbankinn$(cmp,suff,st-genpl|Seðlabankinn) spáði í maí, en horfur fyrir árin 2013 og 2014 eru á heildina litið svipaðar. Batinn á vinnumarkaði hefur einnig reynst meiri en spáð var. Stýrivextir eru því núna 6,25 prósent. 
 
 „Efnahagsbatinn verður því æ skýrari. Erlend efnahagsframvinda er þó enn tvísýn, m.a. vegna fjármálakreppunnar í Evrópu, sem veldur sem fyrr óvissu um innlendar efnahags- og verðbólguhorfur.

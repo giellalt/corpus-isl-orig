@@ -1,4 +1,4 @@
-(http://www.visir.is/svartri-skyrslu-um-gifurleg-fjarutlat-rikisins-haldid-leyndri/article/2012120929362)∞(url)
+{http://www.visir.is/svartri-skyrslu-um-gifurleg-fjarutlat-rikisins-haldid-leyndri/article/2012120929362}∞{url}
 Umfjöllun í Kastljósi í gærkvöldi um svarta skýrslu um gífurlega framúrkeyrslu við kaup ríkisins á nýju fjárhags- og bókhaldskerf$(typo,suff,0-1|bókhaldskerfi) hefur vakið mikla athygli. Svo virðist sem skýrslunni hafi verið haldið leyndri árum saman. 
 
 Íslenska ríkið keypti nýtt fjárhags- og bókhaldskerfi árið 2001 sem í fjárlögum var gert ráð fyrir að kostaði 160 milljónir króna. Samkvæmt samningi kostaði það hins vegar rúmlega einn milljarð króna. 

@@ -1,5 +1,5 @@
-(http://visir.is/hushjalpin-stal-peningum-af-eldri-konu/article/2011110619323)∞(url)
+{http://visir.is/hushjalpin-stal-peningum-af-eldri-konu/article/2011110619323}∞{url}
 Myndband sem sýnir húshjálp stela peningum af eldri konu hefur vakið hörð viðbrögð í Danmörku. Á myndbandinu sem sýnt var í dönskum fjölmiðlum í gær sést starfsmaðurinn taka peninga úr verski$(typo,stem,1-0|veski) konunnar sem býr í þjónustuíbúð í suðvestur af Kaupmannahöfn.
-Á vef (Berlingske Tidende)∞(dan) kemur fram að ættingjar konunnar komu myndvélinni¢(typo,suff,0-1|myndavélinni) upp þar sem konan hafði í fleiri mánuði grunað starfsmanninn um græsku, en ættingjarnir trúðu konunni lengi vel ekki og töldu hana einfaldlega fara með rangt mál.
+Á vef {Berlingske Tidende}∞{dan} kemur fram að ættingjar konunnar komu myndvélinni¢(typo,suff,0-1|myndavélinni) upp þar sem konan hafði í fleiri mánuði grunað starfsmanninn um græsku, en ættingjarnir trúðu konunni lengi vel ekki og töldu hana einfaldlega fara með rangt mál.
 Yfirmaður starfsmannsins er fullur hneykslunar og segir málið alvarlegt. Starfsmanninum var sagt upp skömmu eftir að myndbandið var gert opinbert.
 

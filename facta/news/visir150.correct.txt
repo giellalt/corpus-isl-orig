@@ -1,4 +1,4 @@
-(http://visir.is/hulunni-svipt-af-storfelldum-fjarsvikum-vitisengla/article/2012120929415)∞(url)
+{http://visir.is/hulunni-svipt-af-storfelldum-fjarsvikum-vitisengla/article/2012120929415}∞{url}
 Hlé hefur verið gert á aðalmeðferð í Íbúðalánasjóðsmálinu. Þinghald hófst snemma í morgun þar sem fjórir af fimm sakborningum gáfu vitnisburð.
 
 Um er að ræða stórfellt fjársvikamál en sakborningum er gefið að sök að hafa svikið hátt í fimmtíu milljónir út úr Íbúðalánasjóði á sumarmánuðum 2009. Þetta var gert með því að breyta prófkúruhöfum$(infl|prókúruhöfum) og stjórn félaganna og það með fölsuðu undirskriftum.
@@ -17,7 +17,7 @@ Við húsleit á heimili Helga Ragnars í Hafnarfirði fannst mikið magn gagna 
 
 Þá bera Vilhjálmur, Jón og Hans því fyrir sig að þeir hafi verið í mikilli neyslu þegar umrædd atburðarrás¢(cmp,gensg-genpl|atburðarás) átti sér stað árið 2009.
 
-Svikin þykja afar yfirgripsmikil og flókin. Falsa þurfti undirskriftir prófkúruhafa$(infl|prókúruhafa) og stjórnarmanna félaganna Saffran ehf. og (Guðmund Kristinsson)£(Guðmundar Kristinssonar) ehf. Í ákæru saksóknara kemur fram að Vilhjálmur og Hans hafi skráð sig í stjórnir félaganna. Í krafti prófkúruhafa$(infl|prókúruhafa) gátu hinir ákærðu stofnað reikninga, slegið lán hjá Íbúðalánasjóði og falsað kauptilboð í fasteignir.
+Svikin þykja afar yfirgripsmikil og flókin. Falsa þurfti undirskriftir prófkúruhafa$(infl|prókúruhafa) og stjórnarmanna félaganna Saffran ehf. og {Guðmund Kristinsson}£{Guðmundar Kristinssonar} ehf. Í ákæru saksóknara kemur fram að Vilhjálmur og Hans hafi skráð sig í stjórnir félaganna. Í krafti prófkúruhafa$(infl|prókúruhafa) gátu hinir ákærðu stofnað reikninga, slegið lán hjá Íbúðalánasjóði og falsað kauptilboð í fasteignir.
 
-Eins og áður segir hefur nú verið gert hlé á þinghaldinu. Eftir að Vilhjálmur, Jón, Hans og Helgi Ragnar höfðu gefið vitnisburð voru stjórnarmenn úr Saffran ehf. og (Guðmund Kristinsson)£(Guðmundi Kristinssyni) ehf. kallaðir til. Saksóknari bar fyrir þá samþykktir um breytingar á stjórnum félaganna. Enginn af þeim kannaðist við að hafa skrifað undir plöggin.
+Eins og áður segir hefur nú verið gert hlé á þinghaldinu. Eftir að Vilhjálmur, Jón, Hans og Helgi Ragnar höfðu gefið vitnisburð voru stjórnarmenn úr Saffran ehf. og {Guðmund Kristinsson}£{Guðmundi Kristinssyni} ehf. kallaðir til. Saksóknari bar fyrir þá samþykktir um breytingar á stjórnum félaganna. Enginn af þeim kannaðist við að hafa skrifað undir plöggin.
 

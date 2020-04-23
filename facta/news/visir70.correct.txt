@@ -1,5 +1,5 @@
-(http://www.visir.is/slokkvilidid-kallad-ut-ad-videyjarkirkju/article/2012120909375)∞(url)
+{http://www.visir.is/slokkvilidid-kallad-ut-ad-videyjarkirkju/article/2012120909375}∞{url}
 Slökkviliðið fékk brunaboð frá Viðeyjarkirkju laust fyrir miðnætt$(typo,suff,0-1|miðnætti). Viðeyjarferjan var þegar ræst út samkvæmt viðbragðsáætlun og fimm slökkvliðsmenn$(typo,stem,0-1|slökkviliðsmenn) sendir með henni með búnað.
 Annars er öflug dæla, slöngur og fleira til taks í eyjunni, enda menningarverðmæti þar í húfi. Þegar til kom reyndist skynjari hafa bilað og gefið fölsk boð. 
 
-Fyrr um kvöldið var slökkviliðið kallað að brennandi bíl á Hvaleyrarholti í Hafnarfirði. Bíllinn er (stór skemmdur)¥(x|stórskemmdur) og er grunur um íkveikju.
+Fyrr um kvöldið var slökkviliðið kallað að brennandi bíl á Hvaleyrarholti í Hafnarfirði. Bíllinn er {stór skemmdur}¥{x|stórskemmdur} og er grunur um íkveikju.

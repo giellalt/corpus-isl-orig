@@ -1,6 +1,6 @@
-(http://visir.is/suu-kyi-til-bandarikjanna/article/2012120919104)∞(url)
-Friðarverðlaunahafinn og stjórnarandstöðuleiðtoginn frá Búrma, (Aung San Suu Kyi)∞(bur), lagði í dag af stað í sína fyrstu heimsókn til Bandaríkjanna síðan hún var vistuð í stofufangelsi árið 1990. Í Bandaríkjunum mun hún taka við æðstu heiðursverðlaunum sem Bandaríkjaþingið getur veitt.
+{http://visir.is/suu-kyi-til-bandarikjanna/article/2012120919104}∞{url}
+Friðarverðlaunahafinn og stjórnarandstöðuleiðtoginn frá Búrma, {Aung San Suu Kyi}∞{bur}, lagði í dag af stað í sína fyrstu heimsókn til Bandaríkjanna síðan hún var vistuð í stofufangelsi árið 1990. Í Bandaríkjunum mun hún taka við æðstu heiðursverðlaunum sem Bandaríkjaþingið getur veitt.
 
-(Suu Kyi)∞(bur) mun ferðast í 18 daga um Bandaríkin og funda með ýmsum stjórnarmönnum landsins. Ferðina ber upp á sama tíma og ríkisstjórn Obama∞(eng) veltir fyrir sér að afnema innflutningsbann af vörum frá (Myanmar/Búrma)$(typo,stem,y-j|Mjanmar/Búrma), en töluverðar umbætur hafa átt sér stað í landinu að undanförnu.
+{Suu Kyi}∞{bur} mun ferðast í 18 daga um Bandaríkin og funda með ýmsum stjórnarmönnum landsins. Ferðina ber upp á sama tíma og ríkisstjórn Obama∞(eng) veltir fyrir sér að afnema innflutningsbann af vörum frá {Myanmar/Búrma}${typo,stem,y-j|Mjanmar/Búrma}, en töluverðar umbætur hafa átt sér stað í landinu að undanförnu.
 
-(Suu Kyi)∞(bur) er talskona friðar og mannréttinda og nánast tilbeðin í heimalandi sínu. Henni var sleppt úr stofufangelsi árið 2010 eftir að hafa setið þar tuttugu ár. Frá árinu 1989 hefur hún verið í ferðabanni og ekkert farið út fyrir Búrma. Í sumar fór hún í fyrstu ferðalögin út fyrir Búrma í áratugi og tók meðal annars við friðarverðlaunum Nóbels sem hún hlaut árið 1991.
+{Suu Kyi}∞{bur} er talskona friðar og mannréttinda og nánast tilbeðin í heimalandi sínu. Henni var sleppt úr stofufangelsi árið 2010 eftir að hafa setið þar tuttugu ár. Frá árinu 1989 hefur hún verið í ferðabanni og ekkert farið út fyrir Búrma. Í sumar fór hún í fyrstu ferðalögin út fyrir Búrma í áratugi og tók meðal annars við friðarverðlaunum Nóbels sem hún hlaut árið 1991.

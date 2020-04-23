@@ -1,7 +1,7 @@
-(http://visir.is/veigar-pall-maettur-i-fallbarattuna-med-stabaek/article/2012120829946)∞(url)
+{http://visir.is/veigar-pall-maettur-i-fallbarattuna-med-stabaek/article/2012120829946}∞{url}
 Veigar Páll Gunnarsson var í dag kynntur með formlegum hætti sem leikmaður norska úrvalsdeildarliðsins Stabæk∞(nor). Veigar gerði starfslokasamning við Vålerenga∞(nor) en þar lék hann aðeins 23 leiki og skoraði 3 mörk. Veigar þekkir vel til hjá Stabæk∞(nor) en þar skoraði hann 79 mörk í 175 leikjum.
 
 Stabæk∞(nor) er sem stendur í neðsta sæti norsku úrvalsdeildarinnar en liðið hefur glímt við erfiða fjárhagsstöðu á undanförnum misserum. „Ég vonast til þess að geta hjálpa£(x|hjálpað) liðinu, og mér hefur alltaf liðið vel hjá Stabæk∞(nor)," sagði Veigar við fjölmiðlamenn í dag. „Hlutirnir gengu ekki upp hjá mér hjá Vålerenga∞(nor)," sagði Veigar en hann átti eftir 1 ½ ár af samningi sínum við Vålerenga∞(nor) sem keypti hann frá Stabæk∞(nor) í umdeildri sölu sem er til rannsóknar hjá norsku lögreglunni.
 
-Staða Stabæk∞(nor) í deildinni er ekki góð. Liðið er með 10 stig efti$(typo,stem,0-1|eftir) 19 leiki, og er 7 stigum á eftir (Sandnes Ulf)∞(nor) sem er í þriðja neðsta sæti með 17 stig. Fredrikstad∞(nor) er í (næst neðsta)¥(x|næstneðsta) sæti með 15 stig.
+Staða Stabæk∞(nor) í deildinni er ekki góð. Liðið er með 10 stig efti$(typo,stem,0-1|eftir) 19 leiki, og er 7 stigum á eftir {Sandnes Ulf}∞{nor} sem er í þriðja neðsta sæti með 17 stig. Fredrikstad∞(nor) er í {næst neðsta}¥{x|næstneðsta} sæti með 15 stig.
 

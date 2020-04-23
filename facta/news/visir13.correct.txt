@@ -1,8 +1,8 @@
-(http://www.visir.is/utlendingar-sprautudu-piparuda-i-leigubilarodinni/article/2011110819523)∞(url)
+{http://www.visir.is/utlendingar-sprautudu-piparuda-i-leigubilarodinni/article/2011110819523}∞{url}
 Fjórir karlmenn ruddust fram fyrir í leigubílaröðina við Lækjargötu um klukkan sex í morgun við litla hrifningu þeirra sem höfðu beðið í röðinni í nokkrun$(meta,stem,ru-ur|nokkurn) tíma. Þegar maður sem var í röðinni ætlaði að hafa afskipti af mönnunum og benda þeim á að fara aftast í röðina og bíða, eins og allir hinir, tóku mennirnir upp piparúða og úðuðu framan í manninn. 
 Þegar lögregla kom á vettvang voru mennirnir farnig$(typo,suff,g-r|farnir) og fundust ekki. Þeir eru taldir vera útlendingar. Varðstjóri hjá lögreglunni segir að ólöglegt sé að eiga piparúða á Íslandi en í mörgum öðrum löndum er algengara að fólk gangi um með piparúða. 
 Sá sem varð fyrir piparúðanum leitaði sér aðstoðar á slysadeild.
 Þá voru fjórir ökumenn teknir fyrir að keyra undir áhrifum fíkniefna og tveir fyrir ölvunarakstur. Þá lagði lögreglan hald á nokkuð magn af fíkniefnum í umferðareftirliti.
-Kveikt var í blaðabunka fyrir utan Rimaskóla í Grafarvogi klukkan ellefu í gærkvöldi. Slökkvilið slökkti eldinn áður en hann náði að (breiða sig)¥(x|breiðast) út. Um hefðbundin€(x|dæmigerð) unglingaskemmdarverk er að ræða, segir varðstjóri hjá lögreglunni.
+Kveikt var í blaðabunka fyrir utan Rimaskóla í Grafarvogi klukkan ellefu í gærkvöldi. Slökkvilið slökkti eldinn áður en hann náði að {breiða sig}¥{x|breiðast} út. Um hefðbundin€(x|dæmigerð) unglingaskemmdarverk er að ræða, segir varðstjóri hjá lögreglunni.
 
 

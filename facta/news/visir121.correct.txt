@@ -1,4 +1,4 @@
-(http://www.visir.is/stefnir-a-thusund-ilmvatnsglos/article/2012120929624)∞(url)
+{http://www.visir.is/stefnir-a-thusund-ilmvatnsglos/article/2012120929624}∞{url}
 Lovísa Jónsdóttir á Selfossi hefur alltaf haft mikinn áhuga á ilmvötnum enda hefur hún safnað ilmvatnsglösum í gegnum árin. Hún á í dag sjöhundruð og tíu glös en setur stefnuna á eitt þúsund glös. 
 
 Lovísa er með sérstakan glerskáp undir ilmvatnsglösins$(typo,suff,1-0|ilmvatnsglösin) sín í Álftarima á Selfossi þar sem hún og Hafsteinn Steindórsson búa. Glösin eru af öllum stærðum og gerðum. Sum þeirra eru full af ilmvötnum en önnur tóm. En af hverju allur þessi áhugi á ilmvötnum?

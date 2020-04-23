@@ -1,8 +1,8 @@
-(http://visir.is/jatadi-mordid-i-tulsa/article/2012120928805)∞(url)
+{http://visir.is/jatadi-mordid-i-tulsa/article/2012120928805}∞{url}
 Andri Ólafsson skrifar:
 Maðurinn sem grunaður er um að hafa skotið Kristján Hinrik Thorson í Bandaríkjunum í byrjun mánaðarins til bana viðurkenndi fyrir vini sínum skömmu eftir atburðinn að hafa skotið Hinrik.
 
-Hinn grunaði í málinu heitir (Jermaine Jackson)∞(eng) en hann hafði undir höndum 22kalibera skambyssu$(con,stem,1-2|skammbyssu) af sömu gerð og notuð var í skotárásinni.
+Hinn grunaði í málinu heitir {Jermaine Jackson}∞{eng} en hann hafði undir höndum 22kalibera skambyssu$(con,stem,1-2|skammbyssu) af sömu gerð og notuð var í skotárásinni.
 
 Á meðal þess sem kemur fram í gögnum lögreglu er að Jackson∞(eng) hafi rétt fyrir árásina gengið upp að bílstjórahlið bílsins sem Kristján Hinrik var í og öskrað á bílstjórann að hann hafi næstum því keyrt á hann. Því næst hafi hann tekið upp skambyssu$(con,stem,1-2|skammbyssu) og skotið alls 10 sinnum inn í bílinn með þeim afleiðingum að bæði bílstjórinn og Kristján Hinrik létust.
 

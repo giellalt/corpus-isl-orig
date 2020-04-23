@@ -1,4 +1,4 @@
-(http://visir.is/skuldin-snerist-um-hluta-af-lottovinningi/article/2012120919106)∞(url)
+{http://visir.is/skuldin-snerist-um-hluta-af-lottovinningi/article/2012120919106}∞{url}
 Maður sem vann tíu milljónir í Víkingalottó lét þjónustufulltrúa sinn í Íslandsbanka í Grafarvogi hringja á lögregluna á meðan dæmdur ofbeldismaður beið eftir honum í bankanum. Sá taldi vinningshafann skulda sér pening.
 
 Elís Helgi Ævarsson og Steindór Hreinn Veigarson neituðu í morgun fyrir dómara í Héraðsdómi Reykjavíkur að hafa svipt tvo bræður frelsi og reynt að ræna þá í september í fyrra. Þeir segjast ekki haft uppi neinar hótanir heldur hafi einungis verið að rukka pening, sem annar þeirra taldi sig eiga inni hjá öðrum bróðurnum.
@@ -53,7 +53,7 @@ Hinn bróðirinn sagðist vera óttasleginn og þegar bankað væri heima hjá h
 
 Elís Helgi og Steindór Hreinn eiga báðir langa afbrotasögu. Elís Helgi var meðal annars fundinn sekur um morð á áttræðri konu, móður Gunnars Þorsteinssonar í Krossinum og Steindór Hreinn var dæmdur fyrir að klippa fingur af manni á Akureyri.
 
-Þeir sitja báðir inni á (Litla Hrauni)¥(Litla-Hrauni) og eru einnig ákærðir fyrir önnur brot, fjárkúgun, líkamsárás, gripdeildir og fíkniefnamisferli.
+Þeir sitja báðir inni á {Litla Hrauni}¥{Litla-Hrauni} og eru einnig ákærðir fyrir önnur brot, fjárkúgun, líkamsárás, gripdeildir og fíkniefnamisferli.
 
 Búast má við að dómur verði kveðinn upp í málinu á næstu vikum.
 

@@ -1,2 +1,2 @@
-(http://www.visir.is/oktoberfest-er-hafin/article/2012120929647)∞(url)
+{http://www.visir.is/oktoberfest-er-hafin/article/2012120929647}∞{url}
 Oktoberbest∞(tys|Oktoberfest) í Munchen er hafin. Borgarstjórinn opnaði fyrstu bjórtunnuna og setti hátíðina fyrr í dag. Búist er við sex millljónum$(typo,stem,3-2|milljónum) manna á hátíðina sem stendur yfir til sjöunda október. Búist er við því að um 8 milljónir lítra af bjór verði teygaðir£teygaðar þangað til. Þess má geta að ein kolla af bjór, sem þjóverjinn$(cap,stem,þ-Þ;typo,stem,0-1|Þjóðverjinn) kallar MASS, tekur einn líter$(for|lítra) og kostar 10 evrur eða um sextánhundruð$(cmp,noun+noun,1-2|sextán hundruð) kall.

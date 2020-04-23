@@ -1,5 +1,5 @@
-(http://www.visir.is/rihanna-a-strippklubb/article/2012120929660)∞(url)
-(Barbados-bjútíið)€(foreign,eng) Rihanna∞(eng) ákvað að skella sér á strippklúbb€(foreign,eng|nektardansstaður) í vikunni og deildi auðvitað reynslu sinni á Twitter∞(eng).
+{http://www.visir.is/rihanna-a-strippklubb/article/2012120929660}∞{url}
+{Barbados-bjútíið}€{foreign,eng} Rihanna∞(eng) ákvað að skella sér á strippklúbb€(foreign,eng|nektardansstaður) í vikunni og deildi auðvitað reynslu sinni á Twitter∞(eng).
 
 Sumum finnst Rihanna∞(eng) hafa farið aðeins yfir strikið þar sem hún setti inn mynd af hálfnaktri$(infl|hálfnakinni) nektardansmær¢(infl|nektardansmey).
 

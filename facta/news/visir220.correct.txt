@@ -1,4 +1,4 @@
-(http://visir.is/islenska-logreglan-hof-rannsokn-a-risavoxnu-fikniefnamali/article/2012120928961)∞(url)
+{http://visir.is/islenska-logreglan-hof-rannsokn-a-risavoxnu-fikniefnamali/article/2012120928961}∞{url}
 Það var lögreglan á höfuðborgarsvæðinu sem hóf rannsóknina sem endaði með því að umsvifamikill fíkniefnahringur var upprættur í Danmörku. Átta Íslendingar sitja nú í gæsluvarðhaldi í Kaupmannahöfn vegna málsins, grunaðir um smygl á um 35 kílóum af amfetamíni.
 
 Í fyrstu varðist lögregla allra frétta af málinu en á þriðjudag greindi fréttastofa Stöðvar 2 frá gríðarlegu umfangi þess og því að meintur höfuðpaur væri Íslendingurinn Guðmundur Ingi Þóroddsson, sem áður hefur verið dæmdur fyrir fíkniefnasmygl. 
@@ -11,7 +11,7 @@ Til að vernda rannsóknarhagsmuni var ekkert greint frá málinu, enda vissi l�
 
 Enn hafði ekkert verið greint frá þessum handtökum enda átti lögreglan eftir að handtaka fjóra menn til viðbótar næstu daga. Þar á meðal 39 ára gamlan mann frá Síle, en sá er með íslenskan ríkisborgararétt, hinir eru Danir.
 
-Danski lögregluforinginn (Steffen Thaaning Steffensen)∞(dan) fer fyrir rannsókn málsins í Danmörku. Í samtali við fréttastofu segir hann samstarfið við Íslensku lögregluna hafa verið með miklum ágætum. Það var enda hér á landi sem málið hófst fyrir um fimmtán mánuðum síðan¥0 en lögreglan hafði umrædda menn grunaða um að skipuleggja innflutning og dreifingu á fíkniefnum í stórum stíl¥(stíl.)
+Danski lögregluforinginn {Steffen Thaaning Steffensen}∞{dan} fer fyrir rannsókn málsins í Danmörku. Í samtali við fréttastofu segir hann samstarfið við Íslensku lögregluna hafa verið með miklum ágætum. Það var enda hér á landi sem málið hófst fyrir um fimmtán mánuðum síðan¥0 en lögreglan hafði umrædda menn grunaða um að skipuleggja innflutning og dreifingu á fíkniefnum í stórum stíl¥(stíl.)
 
 „Sem kemur í ljós að tengist nokkrum evrópulöndum$(cap,stem,e-E|Evrópulöndum), þar á meðal Íslandi og Danmörku," sagði Steffen∞(dan).
 

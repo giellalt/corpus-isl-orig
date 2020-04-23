@@ -1,2 +1,2 @@
-(http://visir.is/villi-valli-og-felagar-i-edinborg-i-kvold/article/2012309289976)∞(url)
+{http://visir.is/villi-valli-og-felagar-i-edinborg-i-kvold/article/2012309289976}∞{url}
 Dúndrandi jazz€djass verður á boðstólum í Edinborgarhúsinu á Ísafirði í kvöld en þá munu þeir félagar Villi Valli, Magnús Reynir og Ólafur Kristjánsson stíga á stokk og skemmta gestum með snilli sinni. Þeir eru allir þekktir fyrir tónlistarhæfileika sína. Í kvöld verður tónlistin á léttari nótum og gamlir og sígildir slgarar$(typo,stem,0-1|slagarar) rifjaðir upp. 
