@@ -1,7 +1,7 @@
 {http://visir.is/andy-johnson-fra-ut-timabilid---krossbandid-slitid/article/2012120919126}∞{url}
-{Andy Johnson}∞{eng}, framherji {Queens Park Rangers}∞{eng}, verður væntanlega ekki meira með liðinu á tímabilinu eftir að í ljós kom að hann sleit krossband í jafnteflinu á móti Chelsea∞(eng) í ensku úrvalsdeildinni um helgina.
+{Andy Johnson}∞{eng}, framherji {Queens Park Rangers}∞{eng}, verður væntanlega ekki meira með liðinu á tímabilinu eftir að í ljós kom að hann sleit krossband í jafnteflinu á móti {Chelsea}∞{eng} í ensku úrvalsdeildinni um helgina.
 
-Johnson∞(eng) er á sínu fyrsta tímabili með {Queens Park Rangers}∞{eng} eftir að hafa verið með lausan samning hjá Fulham∞(eng) í sumar. Johnson∞(eng) meiddist í fyrri hálfleik og var skipt útaf$(cmp,pp+pp,1-2|út af) á 33. mínútu.
+{Johnson}∞{eng} er á sínu fyrsta tímabili með {Queens Park Rangers}∞{eng} eftir að hafa verið með lausan samning hjá {Fulham}∞{eng} í sumar. {Johnson}∞{eng} meiddist í fyrri hálfleik og var skipt {útaf}${cmp,pp+pp,1-2|út af} á 33. mínútu.
 
 {Queens Park Rangers}∞{eng} tilkynnti það á heimasíðu sinni í dag að {Andy Johnson}∞{eng} hafi£hefði slitið krossband í leiknum og að hann verði£yrði líklega frá meirihluta tímabilsins. 
 

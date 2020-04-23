@@ -1,7 +1,7 @@
 {http://www.visir.is/samstarfi-asdisar-og-stefans-lokid/article/2012120909369}∞{url}
 Stefán Jóhannsson er ekki lengur þjálfari spjótkastarans Ásdísar Hjálmsdóttur en þetta kom fram í fréttatilkynningu frá frjálsíþróttadeild Ármanns í morgun.
 
-Þar kemur fram að Ásdís, í samráði við forráðamenn dieldarinnar$(meta,stem,ie-ei|deildarinnar) og Stefán sjálfan, hafa£(x|hafi) ákveðið að binda endi á þjálfarasamstarfið sem hefur nú staðið yfir í ellefu ár.
+Þar kemur fram að Ásdís, í samráði við forráðamenn {dieldarinnar}${meta,stem,ie-ei|deildarinnar} og Stefán sjálfan, {hafa}£{x|hafi} ákveðið að binda endi á þjálfarasamstarfið sem hefur nú staðið yfir í ellefu ár.
 
 Ásdís varð í ellefta sæti í spjótkasti kvenna á Ólympíuleikunum í London þar sem hún setti einnig nýtt og glæsilegt Íslandsmet. Er hún nú í sextánda sæti heimslistans í sinni grein.
 

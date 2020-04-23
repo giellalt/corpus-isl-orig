@@ -1,4 +1,4 @@
 {http://www.visir.is/toku-ofurolvi-pilt-ur-umferd-eftir-busaball/article/2012120909374}∞{url}
-Lögreglan tók ofurölvi pilt úr umferð á busaballi Menntaskólans við Hamrahlíð í Vodafone höllinni undir morgun. Hann var vistaður í fangageymslum af manúðarástæðum$(con,stem,1-2|mannúðarástæðum). 
+Lögreglan tók ofurölvi pilt úr umferð á busaballi Menntaskólans við Hamrahlíð í Vodafone höllinni undir morgun. Hann var vistaður í fangageymslum af {manúðarástæðum}${con,stem,1-2|mannúðarástæðum}. 
 
 Fyrr í nótt var annar ofurölvi maður tekinn úr umferð á Skúlagötunni eftir að hafa brotið þar rúðu í húsi. Hann var vistaður í fangageymslum, en þá vegna rannsóknarhagsmuna.

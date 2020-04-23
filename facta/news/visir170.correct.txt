@@ -1,8 +1,8 @@
 {http://www.visir.is/danir-satu-hja-i-refsiadgerdum-vegna-makrildeilunnar/article/2012120929317}∞{url}
 Danir ákváðu að sitja hjá og greiða ekki atkvæði þegar kosið var um refsiaðgerðir gegn Íslendingum og Færeyingum innan Evrópusambandsins vegna makríldeilunnar.
 
-Fjallað er um málið á vefsíðu börsen∞(dan). Þar kemur fram í máli {Mette Gjordskov}∞{dan} matvælaráðherra Danmerkur að hjásetan hafi verið ákveðin með hliðsjón af aðild Færeyinga að deilunni en Færeyingar gætu orðið þeir fyrstu sem refsiaðgerðirnar bitna á.
+Fjallað er um málið á vefsíðu {börsen}∞{dan}. Þar kemur fram í máli {Mette Gjordskov}∞{dan} matvælaráðherra Danmerkur að hjásetan hafi verið ákveðin með hliðsjón af aðild Færeyinga að deilunni en Færeyingar gætu orðið þeir fyrstu sem refsiaðgerðirnar bitna á.
 
-Gjordskov∞(dan) segir að það sé gríðarlega mikilvægt að ná samkomulagi í makríldeildunni$(typo,stem,1-0|makríldeilunni) og koma þannig í veg fyrir að makrílstofninn sé ofveiddur. Hún segir jafnframt að mikilvægt sé að refsiaðgerðirnar sem ætlunin er að koma á brjóti ekki gegn alþjóðasamningum WTO þ.e. Alþjóðaviðskiptastofnunarinnar.
+{Gjordskov}∞{dan} segir að það sé gríðarlega mikilvægt að ná samkomulagi í {makríldeildunni}${typo,stem,1-0|makríldeilunni} og koma þannig í veg fyrir að makrílstofninn sé ofveiddur. Hún segir jafnframt að mikilvægt sé að refsiaðgerðirnar sem ætlunin er að koma á brjóti ekki gegn alþjóðasamningum WTO þ.e. Alþjóðaviðskiptastofnunarinnar.
 
-Samningaumleitanir milli Íslands og Færeyja annarsvegar$(cmp,dem+adv,1-2|annars vegar) og ESB hinsvegar$(cmp,dem+adv,1-2|hins vegar) halda áfram og Gjordskov∞(dan) telur að fyrirhuguðum refsiaðgerðum verði ekki beitt fyrr en í fyrsta lagi eftir að makrílkvótinn fyrir árið 2013 verður ákveðinn.
+Samningaumleitanir milli Íslands og Færeyja {annarsvegar}${cmp,dem+adv,1-2|annars vegar} og ESB {hinsvegar}${cmp,dem+adv,1-2|hins vegar} halda áfram og {Gjordskov}∞{dan} telur að fyrirhuguðum refsiaðgerðum verði ekki beitt fyrr en í fyrsta lagi eftir að makrílkvótinn fyrir árið 2013 verður ákveðinn.

@@ -1,6 +1,6 @@
 {http://www.visir.is/turistinn-curiosity---tok-sjalfsmynd-a-mars/article/2012120908963}∞{url}
-Vitjeppinn Curiosity∞(eng), sendiherra mannkyns á Mars, er greinilega ekki svo frábrugðin£(x|frábrugðinn) okkur hér á jörðu niðri. Farið afhjúpaði hégóma sinn þegar það kannaði rannsóknararm sinn á dögunum og laumaðist til að taka af sér sjálfsmynd.
+Vitjeppinn {Curiosity}∞{eng}, sendiherra mannkyns á Mars, er greinilega ekki svo {frábrugðin}£{x|frábrugðinn} okkur hér á jörðu niðri. Farið afhjúpaði hégóma sinn þegar það kannaði rannsóknararm sinn á dögunum og laumaðist til að taka af sér sjálfsmynd.
 
-Síðustu daga hefur Curiosity∞(eng) rúntað á hægum hraða um sléttur rauðu plánetunnar. Frá því að farið lenti á Mars hefur það ekið rúmlega hundrað metra. Núna er hins vegar komið að því að fara í gegnum ferla til að kanna stöðu rannsóknararmsins en á honum má fnna$(typo,stem,0-1|finna) öll helstu mælingar- og rannsóknartæki sem farið þarf á að halda.
+Síðustu daga hefur {Curiosity}∞{eng} rúntað á hægum hraða um sléttur rauðu plánetunnar. Frá því að farið lenti á Mars hefur það ekið rúmlega hundrað metra. Núna er hins vegar komið að því að fara í gegnum ferla til að kanna stöðu rannsóknararmsins en á honum má {fnna}${typo,stem,0-1|finna} öll helstu mælingar- og rannsóknartæki sem farið þarf á að halda.
 
-Vitanlega er myndavél á arminum en hann er rétt rúmlega 2.1 metri á lengd. Curiosity∞(eng), rétt eins og mennskir ferðamenn (sem finna)¥0 á framandi slóðum, ákvað því að smella af mynd.
+Vitanlega er myndavél á arminum en hann er rétt rúmlega 2.1 metri á lengd. {Curiosity}∞{eng}, rétt eins og mennskir ferðamenn (sem finna)¥0 á framandi slóðum, ákvað því að smella af mynd.

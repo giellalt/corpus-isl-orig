@@ -1,9 +1,9 @@
 {http://visir.is/iphone-5-kominn-ut--lengri,-lettari-og-thynnri/article/2012120919629}∞{url}
-„Það er bara bomba komin inn á markaðinn. Þeir hafa komið okkur á óvart og sýnt að þeir geta gert miklu öflugri og betri græju - en hafa hana þó léttari og þynnri sem er eitthvað sem aðrir framleiðndur$(typo,der,0-1|framleiðendur) hafa ekki verið að gera," segir Björgvin Björgvinsson, sérfræðingur hjá Epli.is, í samtali við Reykjavík síðdegis á Bylgjunni.
+„Það er bara bomba komin inn á markaðinn. Þeir hafa komið okkur á óvart og sýnt að þeir geta gert miklu öflugri og betri græju - en hafa hana þó léttari og þynnri sem er eitthvað sem aðrir {framleiðndur}${typo,der,0-1|framleiðendur} hafa ekki verið að gera," segir Björgvin Björgvinsson, sérfræðingur hjá Epli.is, í samtali við Reykjavík síðdegis á Bylgjunni.
 
-Tæknirisinn Apple∞(eng) kynnti í dag nýja útgáfu af iPhone-símanum og nefnist sá sími einfaldlega iPhone∞(eng) 5. Síminn er töluvert frábrugðinn síðustu útgáfunni, 4S. 
+Tæknirisinn {Apple}∞{eng} kynnti í dag nýja útgáfu af iPhone-símanum og nefnist sá sími einfaldlega {iPhone}∞{eng} 5. Síminn er töluvert frábrugðinn síðustu útgáfunni, 4S. 
 
-iPhone∞(eng) 5 er 20 prósent þynnri, 18 prósent léttari, eða 112 grömm. „Hann er tvöfalt hraðari en 4S síminn. Hann er með 4G, betri grafík, sambærilega grafík og leikjatölvur eru með í dag. Það er ný myndavél, miklu betri. Þá eru þeir komnir með nýjan eiginleika sem heitir Panorama∞(eng), sem býður upp á að taka Panorama-myndir∞(eng) á afar nákvæman hátt með allt að 28 megapixlum," segir Björgvin. 
+{iPhone}∞{eng} 5 er 20 prósent þynnri, 18 prósent léttari, eða 112 grömm. „Hann er tvöfalt hraðari en 4S síminn. Hann er með 4G, betri grafík, sambærilega grafík og leikjatölvur eru með í dag. Það er ný myndavél, miklu betri. Þá eru þeir komnir með nýjan eiginleika sem heitir {Panorama}∞{eng}, sem býður upp á að taka {Panorama-myndir}∞{eng} á afar nákvæman hátt með allt að 28 megapixlum," segir Björgvin. 
 
 Þá er skjárinn stærri eða 4 tommur í staðinn fyrir 3,5 tommur eins og er á 4S. „Síminn er ekki breiðari heldur lengri. Betri rafhlöðuending þó hann sé léttari og þynnri. 40 prósent betri litadýpt og með nákvæmustu snertitækni sem fyrir finnst á markaðnum í dag."
 

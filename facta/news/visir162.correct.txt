@@ -1,6 +1,6 @@
 {http://visir.is/grikkir-vilja-stridsskadabaetur-fra-thjodverjum/article/2012120929520}∞{url}
-Nýjasta tilraun Grikkja til að ná meiru fé í tómann$(con,suff,nn-n|tóman) ríkiskassann sinn hefur vakið hörð viðbrögð í Þýskalandi. 
+Nýjasta tilraun Grikkja til að ná meiru fé í {tómann}${con,suff,nn-n|tóman} ríkiskassann sinn hefur vakið hörð viðbrögð í Þýskalandi. 
 
-Grísk stjórnvöld hafa sett á laggirnar fjögurra manna nefnd til að fara í gegnum skjalasöfn frá seinni heimstryjöldinni$(meta,stem,ry-yr;typo,stem,1-2|heimsstyrjöldinni) til að kanna hvort landið eigi rétt á stríðsskaðabótum frá Þjóðverjum. Nefndin á að skila áliti fyrir áramót. 
+Grísk stjórnvöld hafa sett á laggirnar fjögurra manna nefnd til að fara í gegnum skjalasöfn frá seinni {heimstryjöldinni}${meta,stem,ry-yr;typo,stem,1-2|heimsstyrjöldinni} til að kanna hvort landið eigi rétt á stríðsskaðabótum frá Þjóðverjum. Nefndin á að skila áliti fyrir áramót. 
 
 Þjóðverjar hafa brugðist hart við þessu og segir {Gudio Westerweele}∞{tys} utanríkisráðherra landsins það af og frá að Þjóðverjum beri að greiða Grikkjum stríðsskaðabætur. Það mál hafi verið endanlega útkljáð fyrir löngu síðan.

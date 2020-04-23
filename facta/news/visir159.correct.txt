@@ -1,6 +1,6 @@
 {http://visir.is/svisslendingar-hofnudu-algeru-reykingarbanni/article/2012120929521}∞{url}
 Svisslendingar höfnuðu algeru banni við reykingum á opinberum stöðum í landinu í þjóðaratkvæðagreiðslu um helgina. 
 
-Löggjöfin sem fyrir er takmarkar töluvert reykingar á opinberum stöðum en með undantekningum þannig að veitingarstaðir$(cmp,suff,gensg-genpl|veitingastaðir), barir og hótel geta haft lokuð reykherbergi hjá sér. 
+Löggjöfin sem fyrir er takmarkar töluvert reykingar á opinberum stöðum en með undantekningum þannig að {veitingarstaðir}${cmp,suff,gensg-genpl|veitingastaðir}, barir og hótel geta haft lokuð reykherbergi hjá sér. 
 
-Tillagan um algert bann var felld í öllum kantónum Sviss nema einni með um 70% meirihluta. Hinsvegar$(cmp,dem+adv,1-2|Hins vegar) var naumur meirihluti borgarbúa í Genf hlynntur algeru banni.
+Tillagan um algert bann var felld í öllum kantónum Sviss nema einni með um 70% meirihluta. {Hinsvegar}${cmp,dem+adv,1-2|Hins vegar} var naumur meirihluti borgarbúa í Genf hlynntur algeru banni.

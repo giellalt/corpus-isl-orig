@@ -3,7 +3,7 @@ Hafrannsóknarstofnun mældi í vor ástand ýsustofnsins og komst að því að
 
 Þetta kemur fram á vef Landssambands smábátaeigenda og þar segir að þetta komi ekki á óvart, „því það vill fylgjast að, að Hafró tilkynni um hræðilegt ástand einstakra stofna og í kjölfarið er ekki friður fyrir viðkomandi kvikindum á miðunum."
 
-Vísað er til bókunnar$(con,der,2-1|bókunar) af fundi bæjarstjórnar Ísafjarðarbæjar, þar sem fram kemur að sjómenn hafi komist í vandræði vegna mikillar ýsugengdar á miðunum. „Þó¥(Þó að) reynt sé að sneiða fram hjá ýsunni er hún bókstaflega út um allt. Ljóst má vera að eitthvað mikið er að í ráðgjöf Hafrannsóknarstofnunar varðandi ástand ýsustofnsins," segir í bókuninni.
+Vísað er til {bókunnar}${con,der,2-1|bókunar} af fundi bæjarstjórnar Ísafjarðarbæjar, þar sem fram kemur að sjómenn hafi komist í vandræði vegna mikillar ýsugengdar á miðunum. {„Þó}¥{Þó að} reynt sé að sneiða fram hjá ýsunni er hún bókstaflega út um allt. Ljóst má vera að eitthvað mikið er að í ráðgjöf Hafrannsóknarstofnunar varðandi ástand ýsustofnsins," segir í bókuninni.
 
 Sjómenn vilja að ráðherra sjávarútvegsmála láti fara yfir ráðgjöf Hafrannsóknarstofnunar og að samráð verði haft við sjómenn.
 

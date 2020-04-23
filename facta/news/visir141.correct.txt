@@ -4,10 +4,10 @@ Bloggarinn Teitur Atlason var sýknaður í Héraðsdómi Reykjavíkur fyrir stu
 Gunnlaugur og eiginkona hans stefndu Teiti fyrir meiðyrði vegna bloggfærslna
 sem birtist£birtust á {dv.is}∞{url} á síðasta ári. Gunnlaugur og eiginkona hans þurfa að greiða Teiti eina og hálfa milljón í málskostnað.
 
-Skrifin byggðust að stærstu leyti á umfjöllun Agnesar Bragadóttir í Morgunblaðinu árið 1998 um Kögunamálið$(typo,suff,0-1|Kögunarmálið), þar sem Gunnlaugur var sagður hafa hagnýtt sér upplýsingar sem hann bjó yfir sem framkvæmdastjóri Kögunar.
+Skrifin byggðust að stærstu leyti á umfjöllun Agnesar Bragadóttir í Morgunblaðinu árið 1998 um {Kögunamálið}${typo,suff,0-1|Kögunarmálið}, þar sem Gunnlaugur var sagður hafa hagnýtt sér upplýsingar sem hann bjó yfir sem framkvæmdastjóri Kögunar.
 Við aðalmeðferð málsins sagðist Gunnlaugur aldrei hafa sölsað undir sig Kögun, eins og Teitur hafi gefið í skyn. Þá hefði skrifin dregið úr trúverðugleika hans sem viðskiptamanns.
 
-Teitur sagði við aðalmeðferðina að honum fyndist umfjöllun um Kögun eiga fullt erindi í þjóðfélagsumræðuna á umbrotatímum líkt og í dag. Ástæða þess að hann skrifaði upphaflega um það var að sonur Gunnlaugs, Sigmundur Davíð, formaður Framsóknarflokksins, ræddi um þá sem vildu semja um Icesave∞(eng) sem elítu, en Teitur hefði sjálfur alltaf litið á Sigmund sem hluta af elítunni.
+Teitur sagði við aðalmeðferðina að honum fyndist umfjöllun um Kögun eiga fullt erindi í þjóðfélagsumræðuna á umbrotatímum líkt og í dag. Ástæða þess að hann skrifaði upphaflega um það var að sonur Gunnlaugs, Sigmundur Davíð, formaður Framsóknarflokksins, ræddi um þá sem vildu semja um {Icesave}∞{eng} sem elítu, en Teitur hefði sjálfur alltaf litið á Sigmund sem hluta af elítunni.
 
 Hvorki Gunnlaugur né Teitur voru viðstaddir dómsuppsögu í dag.
 

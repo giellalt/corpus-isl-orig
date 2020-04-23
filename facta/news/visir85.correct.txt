@@ -1,6 +1,6 @@
 {http://visir.is/logreglan-a-akureyri-leitar-ad-thessu-folki/article/2012120909284}∞{url}
 Lögreglan á Akureyri leitar fjögurra aðila í tengslum við rannsókn á þjófnaðarmáli. Þessir aðilar voru staddir á Akureyri þann 03.09.2012. Líklegast er um erlenda aðila að ræða. Meðfylgjandi myndir voru teknar af þremur þessara aðila í hraðbanka á Akureyri.
 
-Óskar lögreglan eftir upplýsingum um hverjir þessir aðilar gætu verið og þá jafnframt hvort þeir dvelja ennþá$(cmp,adv+adv,1-2|enn þá) á Íslandi og þá hvar.
+Óskar lögreglan eftir upplýsingum um hverjir þessir aðilar gætu verið og þá jafnframt hvort þeir dvelja {ennþá}${cmp,adv+adv,1-2|enn þá} á Íslandi og þá hvar.
 
-Þeir sem geta veitt upplýsingar varðandi þessa aðila eru vinsamlegast beðnir um að hafa samband við lögregluna á Akureyri í síma 464 7705¥(5.)
+Þeir sem geta veitt upplýsingar varðandi þessa aðila eru vinsamlegast beðnir um að hafa samband við lögregluna á Akureyri í síma 464 {7705}¥{5.}

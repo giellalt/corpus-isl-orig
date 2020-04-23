@@ -1,3 +1,3 @@
 {http://www.visir.is/bryndisarsjoppa-brann/article/2012120829706}∞{url}
-Eldur kom upp í yfirgefnu húsi nærri Flensborgarskólanum í Hafnarfirði í morgun, en húsið er yfirleitt kallað Bryndísarsjoppa. Eldurinn kom upp klukkan sjö í morgun. Slökkviliðismenn$(typo,suff,1-0|Slökkviliðsmenn) voru að störfum í tvo klukkutíma áður en þeir náðu að slökkva eldinn. Ekkert rafmagn er í húsinu og byrjað var að rífa það niður, grunur er um íkveikju. Mikill eldur var í sjoppunni.
+Eldur kom upp í yfirgefnu húsi nærri Flensborgarskólanum í Hafnarfirði í morgun, en húsið er yfirleitt kallað Bryndísarsjoppa. Eldurinn kom upp klukkan sjö í morgun. {Slökkviliðismenn}${typo,suff,1-0|Slökkviliðsmenn} voru að störfum í tvo klukkutíma áður en þeir náðu að slökkva eldinn. Ekkert rafmagn er í húsinu og byrjað var að rífa það niður, grunur er um íkveikju. Mikill eldur var í sjoppunni.
 

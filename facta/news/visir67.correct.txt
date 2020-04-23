@@ -1,5 +1,5 @@
 {http://www.visir.is/fraegir-fjolmenntu-a-frost/article/2012120909370}∞{url}
-Fjöldi þjóðþekktra einstaklinga mættu£(x|mætti) á frumsýningu kvikmyndarinnar Frost í leikstjórn Reynis Lyngdal í Sambíó Egilshöll i$(vow,stem,a-á|í) gærkvöldi. Eins og sjá má skein gleðin úr hverju andliti. 
+Fjöldi þjóðþekktra einstaklinga {mættu}£{x|mætti} á frumsýningu kvikmyndarinnar Frost í leikstjórn Reynis Lyngdal í Sambíó Egilshöll {i}${vow,stem,a-á|í} gærkvöldi. Eins og sjá má skein gleðin úr hverju andliti. 
 
 Þá má einnig sjá myndir úr eftirpartý sem haldið var á veitingahúsinu B5 í Bankastræti.
 

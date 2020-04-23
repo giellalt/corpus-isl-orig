@@ -1,5 +1,5 @@
 {http://www.visir.is/umfjollun-og-vidtol--stjarnan---breidablik-3-1-/article/2012120829797}∞{url}
-Stjarnan vann í kvöld gríðarlega mikilvægan 3-1 sigur á Breiðablik í Pepsi deild kvenna. Róðurinn varð þungur þegar þær misstu Önnu Maríu Baldursdóttir af velli eftir 28. mínútur en frábær mörk Hörpu Þorsteinsdóttir skildi£(x|skildu) liðin að í dag.
+Stjarnan vann í kvöld gríðarlega mikilvægan 3-1 sigur á Breiðablik í Pepsi deild kvenna. Róðurinn varð þungur þegar þær misstu Önnu Maríu Baldursdóttir af velli eftir 28. mínútur en frábær mörk Hörpu Þorsteinsdóttir {skildi}£{x|skildu} liðin að í dag.
 
 Fyrir leikinn var víst að bæði liðin þurftu á sigri að halda í baráttu sinni. Lið Stjörnunnar vissi að með tapi væru möguleikar þeirra á sigri í deildinni nánast úr sögunni eftir sigur {Þór/Ka}£{x|Þórs/KA} á Akureyri. Blikar gátu blandað sér með sigri í baráttuna um 2-4 sæti í deildinni en 10 stig eru í næsta lið.
 
@@ -9,9 +9,9 @@ Aðeins átján mínútum síðar átti sér stað dýrt atvik fyrir Stjörnuna,
 
 Blikar komu sterkari inn í seinni hálfleik og voru að ná undirtökum þegar næsta mark leiksins kom. Þar var að verki Harpa Þorsteinsdóttir, hún fékk sendingu að vítateigsboganum þar sem hún stýrði boltanum upp í loftið og hamraði boltann viðstöðulaust¥0 í boga yfir Birnu Kristjánsdóttir í marki Breiðabliks.
 
-Harpa var svo aftur á ferðinni aðeins fimm mínútum seinna, þá nýtti hún sér sofandihátt$(infl|sofandahátt) í vörn Blika, stakk sér inn fyrir varnarmennina og potaði boltanum framhjá$(cmp,adv+pp,1-2|fram hjá) Birnu. Markið verður að skrifast algerlega á varnarleik gestanna, boltinn skoppaði tilviljanakennt inn í teig þeirra og virtist engin vera of áhugasöm allt þar til Harpa nýtti sér sofandihátt$(infl|sofandahátt) þeirra.
+Harpa var svo aftur á ferðinni aðeins fimm mínútum seinna, þá nýtti hún sér {sofandihátt}${infl|sofandahátt} í vörn Blika, stakk sér inn fyrir varnarmennina og potaði boltanum {framhjá}${cmp,adv+pp,1-2|fram hjá} Birnu. Markið verður að skrifast algerlega á varnarleik gestanna, boltinn skoppaði tilviljanakennt inn í teig þeirra og virtist engin vera of áhugasöm allt þar til Harpa nýtti sér {sofandihátt}${infl|sofandahátt} þeirra.
 
-Blikar fundu engin svör við þessum mörkum frá Hörpu og lauk leiknum því með 3-1 sigri Stjörnunnar. Gríðarlega mikilvægur sigur fyrir Stjörnuna sem halda spennu í toppbaráttunni en lið Breiðabliks hlýtur að naga sig í handabökin¢(cmp,suf,genpl-gensg|handarbökin). Þær fengu í kvöld möguleika á að saxa á forskot Stjörnunnar og komast yfir Valsliðið en nýttu sér það ekki þrátt fyrir að vera manni fleiri í meira en klukkutíma.
+Blikar fundu engin svör við þessum mörkum frá Hörpu og lauk leiknum því með 3-1 sigri Stjörnunnar. Gríðarlega mikilvægur sigur fyrir Stjörnuna sem halda spennu í toppbaráttunni en lið Breiðabliks hlýtur að naga sig í {handabökin}¢{cmp,suf,genpl-gensg|handarbökin}. Þær fengu í kvöld möguleika á að saxa á forskot Stjörnunnar og komast yfir Valsliðið en nýttu sér það ekki þrátt fyrir að vera manni fleiri í meira en klukkutíma.
 
 
 Harpa: Vorum ekkert að spila sambabolta frammi
@@ -31,9 +31,9 @@ Liðsmenn Stjörnunnar komu grimmari inn í leikinn og byrjuðu leikinn betur.
 
 
 Hans: Kalla eftir meiri ábyrgð hjá leikmönnunum mínum
-„Þegar lið skorar mark þá fylgja liðin yfirleitt áfram og láta kné fylgja kviði. Sagan okkar í sumar segir hinsvegar$(cmp,dem+adv,1-2|hins vegar) að við erum yfirleitt að fá á okkur mörk á næstu 5-8 mínútum eftir markið og þetta skrifast bara á einbeitingarleysi sem við verðum að laga fyrir næsta sumar," sagði Hans Sævar Sævarsson, þjálfari Breiðabliks eftir leikinn.
+„Þegar lið skorar mark þá fylgja liðin yfirleitt áfram og láta kné fylgja kviði. Sagan okkar í sumar segir {hinsvegar}${cmp,dem+adv,1-2|hins vegar} að við erum yfirleitt að fá á okkur mörk á næstu 5-8 mínútum eftir markið og þetta skrifast bara á einbeitingarleysi sem við verðum að laga fyrir næsta sumar," sagði Hans Sævar Sævarsson, þjálfari Breiðabliks eftir leikinn.
 
-„Við erum með undirtökin en svo kemur þetta frábæra mark hjá Hörpu, við byrjuðu£(x|byrjuðum) seinni hálfleikinn vel og fáum þetta einfaldlega í andlitið. Eftir það mætum við ekki til leiks."
+„Við erum með undirtökin en svo kemur þetta frábæra mark hjá Hörpu, við {byrjuðu}£{x|byrjuðum} seinni hálfleikinn vel og fáum þetta einfaldlega í andlitið. Eftir það mætum við ekki til leiks."
 
 Með sigri í kvöld hefðu Blikar geta lyft sér upp fyrir Valsliðið og á sama tíma stimplað sig inn í baráttuna um 2-4. sæti.
 
@@ -41,7 +41,7 @@ Með sigri í kvöld hefðu Blikar geta lyft sér upp fyrir Valsliðið og á sa
 
 „Ég veit ekki hvernig aðrir leikir fóru en við þurfum einfaldlega að mæta stemmdar í næsta leik. Í síðustu fjórum leikjum höfum við fengið aðeins eitt stig."
 
-Þriðja mark Stjörnunnar kom eftir vægast sagt slakann¢(con,suff,2-1|slakan) varnarleik hjá Blikum.
+Þriðja mark Stjörnunnar kom eftir vægast sagt {slakann}¢{con,suff,2-1|slakan} varnarleik hjá Blikum.
 
 „Munurinn á okkur og hinum toppliðunum er það að það eru fleiri í hinu liðinu sem vilja vinna leikina og hafa karakterinn í það. Við köllum eftir því að leikmenn okkar sýni meiri karakter og taki betri ábyrgð á því sem gerist inn á vellinum," sagði Hans.
 

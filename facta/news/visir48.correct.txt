@@ -1,8 +1,8 @@
 {http://www.visir.is/aron-og-heidar-byrjudu-i-markalausum-leik/article/2012120829738}∞{url}
-Aron Gunnarsson og Heiðar Helguson voru báðir í byrjunarliði {Cardiff City}∞{eng} á útivelli gegn {Brighton & Hove Albion}∞{eng} í ensku B-deildinni í kvöld en þrátt fyrir það var ekki skoraði£(x|skorað) í leiknum.
+Aron Gunnarsson og Heiðar Helguson voru báðir í byrjunarliði {Cardiff City}∞{eng} á útivelli gegn {Brighton & Hove Albion}∞{eng} í ensku B-deildinni í kvöld en þrátt fyrir það var ekki {skoraði}£{x|skorað} í leiknum.
 
-Aron Einar lék allan leikinn fyrir Cardiff∞(eng) en Heiðari var skipt útaf$(cmp,adv+pp,1-2|út af) á 77. mínútu. Cardiff∞(eng) er með 4 stig eftir tvo fyrstu leikina en þrátt fyrir fjölmörg færi og fjörugan leik var ekki skorað í Brighton∞(eng) í kvöld.
+Aron Einar lék allan leikinn fyrir {Cardiff}∞{eng} en Heiðari var skipt {útaf}${cmp,adv+pp,1-2|út af} á 77. mínútu. {Cardiff}∞{eng} er með 4 stig eftir tvo fyrstu leikina en þrátt fyrir fjölmörg færi og fjörugan leik var ekki skorað í {Brighton}∞{eng} í kvöld.
 
-Björn Bergmann Sigurðarson lék síðustu 26 mínúturnar fyrir Wolves∞(eng) sem sigruðu Barnsley∞(eng) 3-1 í kvöld. Staðan var 2-0 þegar Björn Bergmann kom inn á en liðið náði þar með að hrista af sér vonbrigðin eftir tap gegn {Leeds United}∞{eng} í fyrstu umferð deildarinnar.
+Björn Bergmann Sigurðarson lék síðustu 26 mínúturnar fyrir {Wolves}∞{eng} sem sigruðu {Barnsley}∞{eng} 3-1 í kvöld. Staðan var 2-0 þegar Björn Bergmann kom inn á en liðið náði þar með að hrista af sér vonbrigðin eftir tap gegn {Leeds United}∞{eng} í fyrstu umferð deildarinnar.
 
-Kári Árnason lék allan leikinn fyrir {Rotherham United}∞{eng} sem tapaði 2-1 á útivelli fyrir {Northampton Town}∞{eng} í ensku D-deildinni. Kári lék sem fyrr á miðjunni fyrir Rotherham∞(eng) sem er með þrjú stig eftir tvo leiki.
+Kári Árnason lék allan leikinn fyrir {Rotherham United}∞{eng} sem tapaði 2-1 á útivelli fyrir {Northampton Town}∞{eng} í ensku D-deildinni. Kári lék sem fyrr á miðjunni fyrir {Rotherham}∞{eng} sem er með þrjú stig eftir tvo leiki.

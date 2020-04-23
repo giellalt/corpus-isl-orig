@@ -1,7 +1,7 @@
 {http://www.visir.is/oskad-eftir-vitnum/article/2012120909336}∞{url}
 Lögreglan á höfuðborgarsvæðinu óskar eftir vitnum að umferðarslysi sem varð norðan við gatnamót Álfabakka og Árskóga í Reykjavík síðdegis í gær, miðvikudaginn 5. september. 
 
-Tilkynning um slysið barst klukkan 17.45 en svo virðist sem bifhjólamaður, sem átti þarna leið um, hafi misst stjórn á hjólinu og slasast illa. Rétt hjá gatnamótunum eru brú (Breiðholtsbraut) og undirgöng en bifhjólið lá við steinsteyptan vegg austanmegin$(cmp,adv+adv,1-2|austan megin) ganganna þegar komið var á vettvang. Ökumaðurinn, karl um sjötugt, var skammt frá hjólinu þegar að var komið. Meiðsli hans voru alvarleg.
+Tilkynning um slysið barst klukkan 17.45 en svo virðist sem bifhjólamaður, sem átti þarna leið um, hafi misst stjórn á hjólinu og slasast illa. Rétt hjá gatnamótunum eru brú (Breiðholtsbraut) og undirgöng en bifhjólið lá við steinsteyptan vegg {austanmegin}${cmp,adv+adv,1-2|austan megin} ganganna þegar komið var á vettvang. Ökumaðurinn, karl um sjötugt, var skammt frá hjólinu þegar að var komið. Meiðsli hans voru alvarleg.
 
 Þeir sem urðu vitni að slysinu eru vinsamlegast beðnir um að hafa samband við lögregluna í síma 444-1000 en einnig má 
-senda upplýsingar í tölvupósti á netfangið abending@lrh.is¥(is.)
+senda upplýsingar í tölvupósti á netfangið {abending@lrh.is}¥{is.}

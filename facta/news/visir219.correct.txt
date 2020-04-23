@@ -1,5 +1,5 @@
 {http://visir.is/vildi-ekki-vinna-i-alveri---bjo-i-stadinn-til-barnamat/article/2012120928939}∞{url}
-„Ég ætlaði ekki að vinna í álveri og ekki í banka, þannig það var marg$(typo,suff,0-1|margt) sem ég útilokaði," sagði Þórdís Jóhannsdóttir, sem hóf framleiðslu á íslenskum barnamat í kjölfarið á Meistararitgerð¢(cap,stem,M-m|meistararitgerð) sinni auk þess sem hún vinnur á ljósmyndastofu og hannar fylgihluti fyrir konur.
+„Ég ætlaði ekki að vinna í álveri og ekki í banka, þannig það var {marg}${typo,suff,0-1|margt} sem ég útilokaði," sagði Þórdís Jóhannsdóttir, sem hóf framleiðslu á íslenskum barnamat í kjölfarið á {Meistararitgerð}¢{cap,stem,M-m|meistararitgerð} sinni auk þess sem hún vinnur á ljósmyndastofu og hannar fylgihluti fyrir konur.
 
 Þórdís segir í viðtali við Ísland í dag að hún hafi lengi maukað íslenskt grænmeti fyrir börnin sín en það var ekki fyrr en hún ákvað einn daginn, þegar hún var að gera meistararitgerðina sína í verkfræði, að hún ætlaði að taka sér hlé frá námi og athuga hvort hugmyndin myndi virka. 
 

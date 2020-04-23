@@ -5,4 +5,4 @@ Bandaríski ísframleiðandinn {Ben & Jerry´s}∞{eng} hefur höfðað mál geg
 
 Ístegundirnar sem hér um ræðir eru m.a. {Boston Cream Pie, Chocolate Fudge Brownie}∞{eng} og {Peanut Butter Cup}∞{eng}. 
 
-Heitin á klámmyndum þeim sem hér um ræðir eru hinsvegar$(cmp,dem+adv,1-2|hins vegar) {Boston Cream Thighs, Chocolate Fudge Babes}∞{eng} og {Peanut Butter D-Cups}∞{eng}.
+Heitin á klámmyndum þeim sem hér um ræðir eru {hinsvegar}${cmp,dem+adv,1-2|hins vegar} {Boston Cream Thighs, Chocolate Fudge Babes}∞{eng} og {Peanut Butter D-Cups}∞{eng}.

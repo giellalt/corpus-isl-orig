@@ -1,5 +1,5 @@
 {http://visir.is/markadir-i-evropu-syna-raudar-tolur-laekkunar-/article/2012120919122}∞{url}
-Vísitölur hlutabréfamarkaða í Evrópu hafa víðast hvar lækkað í morgun eftir að viðskipti hófust. Lækkanirnar eru öðru fremur raktar til þess að erfiðir tímar séu framundan$(cmp,adv+adv,1-2|fram undan) í efnahagslífi margra ríkja Evrópu, ekki síst Spánar, að því er fram kemur á vef {Wall Street Journal}∞{eng} (WSJ). Í fréttaskýringu WSJ segir að búist sé við því að haustið og vetrarmánuðir á Spáni muni einkennast af fjöldamótmælum vegna niðurskurðar, og atvinnuleysis, en það mælist nú tæplega 25 prósent á Spáni.
+Vísitölur hlutabréfamarkaða í Evrópu hafa víðast hvar lækkað í morgun eftir að viðskipti hófust. Lækkanirnar eru öðru fremur raktar til þess að erfiðir tímar séu {framundan}${cmp,adv+adv,1-2|fram undan} í efnahagslífi margra ríkja Evrópu, ekki síst Spánar, að því er fram kemur á vef {Wall Street Journal}∞{eng} (WSJ). Í fréttaskýringu WSJ segir að búist sé við því að haustið og vetrarmánuðir á Spáni muni einkennast af fjöldamótmælum vegna niðurskurðar, og atvinnuleysis, en það mælist nú tæplega 25 prósent á Spáni.
 
 Í morgun lækkaði DAX vísitalan þýska um 0,3 prósent við upphaf viðskipta og FTSE 100 vísitalan breska um tæplega 0,4 prósent. 
 

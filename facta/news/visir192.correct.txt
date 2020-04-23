@@ -2,19 +2,19 @@
 Andri Ólafsson skrifar:
 Maðurinn sem grunaður er um að hafa skotið Kristján Hinrik Thorson í Bandaríkjunum í byrjun mánaðarins til bana viðurkenndi fyrir vini sínum skömmu eftir atburðinn að hafa skotið Hinrik.
 
-Hinn grunaði í málinu heitir {Jermaine Jackson}∞{eng} en hann hafði undir höndum 22kalibera skambyssu$(con,stem,1-2|skammbyssu) af sömu gerð og notuð var í skotárásinni.
+Hinn grunaði í málinu heitir {Jermaine Jackson}∞{eng} en hann hafði undir höndum 22kalibera {skambyssu}${con,stem,1-2|skammbyssu} af sömu gerð og notuð var í skotárásinni.
 
-Á meðal þess sem kemur fram í gögnum lögreglu er að Jackson∞(eng) hafi rétt fyrir árásina gengið upp að bílstjórahlið bílsins sem Kristján Hinrik var í og öskrað á bílstjórann að hann hafi næstum því keyrt á hann. Því næst hafi hann tekið upp skambyssu$(con,stem,1-2|skammbyssu) og skotið alls 10 sinnum inn í bílinn með þeim afleiðingum að bæði bílstjórinn og Kristján Hinrik létust.
+Á meðal þess sem kemur fram í gögnum lögreglu er að {Jackson}∞{eng} hafi rétt fyrir árásina gengið upp að bílstjórahlið bílsins sem Kristján Hinrik var í og öskrað á bílstjórann að hann hafi næstum því keyrt á hann. Því næst hafi hann tekið upp {skambyssu}${con,stem,1-2|skammbyssu} og skotið alls 10 sinnum inn í bílinn með þeim afleiðingum að bæði bílstjórinn og Kristján Hinrik létust.
 
-Jackson∞(eng) hljóp því næst af vettvangi.
+{Jackson}∞{eng} hljóp því næst af vettvangi.
 
-Það virðist hafa spurst hratt út að Jackson∞(eng) væri morðinginn. Því í gögnum málsins kemur fram að móðir Kristjáns Hinriks fékk mörg símtöl morguninn eftir árásina frá skólafélögum hans með ábendingum um að Jackson∞(eng) bæri ábyrgð á dauða hans.
+Það virðist hafa spurst hratt út að {Jackson}∞{eng} væri morðinginn. Því í gögnum málsins kemur fram að móðir Kristjáns Hinriks fékk mörg símtöl morguninn eftir árásina frá skólafélögum hans með ábendingum um að {Jackson}∞{eng} bæri ábyrgð á dauða hans.
 
-Í gögnunum kemur fram að eitt af vitnum lögreglunnar sé vinur Jacksons∞(eng), sá segir að hann hafi viðurkennt fyrir sér í nokkru uppnámi að hafa skotið Hinrik. En það hefur áður komið fram að Jackson∞(eng) og Hinrik þekktust.
+Í gögnunum kemur fram að eitt af vitnum lögreglunnar sé vinur {Jacksons}∞{eng}, sá segir að hann hafi viðurkennt fyrir sér í nokkru uppnámi að hafa skotið Hinrik. En það hefur áður komið fram að {Jackson}∞{eng} og Hinrik þekktust.
 
-„Guð minn góður, ég vissi ekki hvað ég átti að gera, ég var reiður," er haft eftir Jackson∞(eng), sem reyndi síðan að fara huldu höfði en lögreglan handtók hann skömmu síðar í Arkansasríki.
+„Guð minn góður, ég vissi ekki hvað ég átti að gera, ég var reiður," er haft eftir {Jackson}∞{eng}, sem reyndi síðan að fara huldu höfði en lögreglan handtók hann skömmu síðar í Arkansasríki.
 
-Athygli vekur að samkvæmt ákærunni í málinu sem fréttastofa hefur einnig undir höndum er að¥0 Jackson∞(eng) er¥0 ákærður fyrir tvö morð en til vara er hann hinsvegar$(cmp,dem+adv,1-2|hins vegar) ákærður fyrir morðið á bílstjóranum en aðeins ákærður fyrir manndráp í tilfelli Kristjáns Hinriks, sem bendir til þess að framburður Jacksons∞(eng) og skilningur lögreglu sé á þá leið að Jackson∞(eng) hafi ekki viljandi skotið Kristján Hinrik. Lögreglan vill þó ekki tjá sig um það að svo stöddu.
+Athygli vekur að samkvæmt ákærunni í málinu sem fréttastofa hefur einnig undir höndum er að¥0 {Jackson}∞{eng} er¥0 ákærður fyrir tvö morð en til vara er hann {hinsvegar}${cmp,dem+adv,1-2|hins vegar} ákærður fyrir morðið á bílstjóranum en aðeins ákærður fyrir manndráp í tilfelli Kristjáns Hinriks, sem bendir til þess að framburður {Jacksons}∞{eng} og skilningur lögreglu sé á þá leið að {Jackson}∞{eng} hafi ekki viljandi skotið Kristján Hinrik. Lögreglan vill þó ekki tjá sig um það að svo stöddu.
 
-Verði hann fundinn sekur á jacson§Jackson∞(eng) yfir höfði sér lífstíðarfangelsi og jafnvel dauðarefsingu.
+Verði hann fundinn sekur á {jacson§Jackson}∞{eng} yfir höfði sér lífstíðarfangelsi og jafnvel dauðarefsingu.
 

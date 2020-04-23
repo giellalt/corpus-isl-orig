@@ -5,9 +5,9 @@ Jóhanna Sigurðardóttir forsætisráðherra hefur setið á Alþingi frá ári
 
 Eitt af mestu afrekum Jóhönnu í stjórnmálum er að hafa orðið forsætisráðherra fyrstu hreinu félagshyggju- og jafnaðarmannastjórnarinnar á lýðveldistímanum eftir kosningar vorið 2009. 
 
-Jóhanna segir¥(segir í) bréfi sem hún sendi flokksmönnum í dag að allt hafi sinn tíma, líka hennar tími sem sé orðinn langur og viðburðarríkur¢(cmp,gensg-genpl|viðburðaríkur). Að loknu þessu kjörtímabili hafi hún því ákveðið að láta af þáttöku$(typo,stem,2-3|þátttöku) í stjórnmálum. 
+Jóhanna {segir}¥{segir í} bréfi sem hún sendi flokksmönnum í dag að allt hafi sinn tíma, líka hennar tími sem sé orðinn langur og {viðburðarríkur}¢{cmp,gensg-genpl|viðburðaríkur}. Að loknu þessu kjörtímabili hafi hún því ákveðið að láta af {þáttöku}${typo,stem,2-3|þátttöku} í stjórnmálum. 
 
-Þegar Jóhanna er spurð út í fræg ummæli sín um að hennar tími mun koma, og hvort hann sé nú liðinn, svarar Jóhanna: „Allt hefur sinn tíma, líka minn tími í pólitík og minn tími hefir¢(typo,suff,i-u|hefur) verið langur."
+Þegar Jóhanna er spurð út í fræg ummæli sín um að hennar tími mun koma, og hvort hann sé nú liðinn, svarar Jóhanna: „Allt hefur sinn tíma, líka minn tími í pólitík og minn tími {hefir}¢{typo,suff,i-u|hefur} verið langur."
 
 Jóhanna segist hafa ætlað að hætta að loknu kjörtímabilinu sem hófst 2007. Síðan hafi örlögin gripið í taumana en það voru eindregin tilmæli flokksmanna og þáverandi forystu Samfylkingarinnar að hún leiddi flokkinn í kosningum 2009. Að loknum kosningum varð Samfylkingin stærsti stjórnmálaflokkur landsins, mælt í fjölda þingmanna, en flokkurinn fékk flesta þingmenn kjörna þá um vorið. 
 

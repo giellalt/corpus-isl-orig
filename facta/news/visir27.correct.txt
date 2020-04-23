@@ -1,6 +1,6 @@
 {http://visir.is/ekki-sjon-ad-sja-brad/article/2012120809810}∞{url}
-Á meðfylgjandi myndum má sjá leikarann {Brad Pitt}∞{eng}, 48 ára, með glóðurauga$(vow,suf,u-a|glóðarauga) á vinstra auga. Það er ekki sjón að sjá leikarann eins og sjá má á myndunum. 
+Á meðfylgjandi myndum má sjá leikarann {Brad Pitt}∞{eng}, 48 ára, með {glóðurauga}${vow,suf,u-a|glóðarauga} á vinstra auga. Það er ekki sjón að sjá leikarann eins og sjá má á myndunum. 
 
-Glóðuraugað$(vow,suf,u-a|Glóðaraugað) er hinsvegar$(cmp,dem+adv,1-2|hins vegar) ekki ekta því hann er staddur í London við tökur á kvikmyndinni {The Counselor}∞{eng} sem {Ridley Scott}∞{eng} leikstýrir. {Michael Fassbender, Penelope Cruz, Javier Bardem og Cameron Diaz}∞{eng} fara einnig með hlutverk í myndinni.
+{Glóðuraugað}${vow,suf,u-a|Glóðaraugað} er {hinsvegar}${cmp,dem+adv,1-2|hins vegar} ekki ekta því hann er staddur í London við tökur á kvikmyndinni {The Counselor}∞{eng} sem {Ridley Scott}∞{eng} leikstýrir. {Michael Fassbender, Penelope Cruz, Javier Bardem og Cameron Diaz}∞{eng} fara einnig með hlutverk í myndinni.
 
-Þá má einnig sjá Brad∞(eng) í verslunarleiðangri og á rauða dreglinum í meðfylgjandi myndasafni.
+Þá má einnig sjá {Brad}∞{eng} í verslunarleiðangri og á rauða dreglinum í meðfylgjandi myndasafni.

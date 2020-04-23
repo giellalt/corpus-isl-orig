@@ -1,10 +1,10 @@
 {http://visir.is/jon-gnarr-skaladi-vid-eldri-borgara---mojito-spiladi-fyrir-dansi/article/2012120909309}∞{url}
 Jón Gnarr, borgarstjóri Reykjavíkur, og Guðmundur Hallvarðsson, stjórnarformaður Hrafnistu, skáluðu í bjór þegar nýr salur dvalarheimilis aldraðra, Hrafnistu Reykjavíkur, var vígður í dag. 
 
-Salurinn hlaut nafnið Skálafell en bogarstjórinn$(typo,stem,0-1|borgarstjórinn) klippti á borðann og hélt ræðu við tilefnið. Þar baðst hann meðal annars afsökunar á seinaganginum við að veita dvalarheimilinu vínveitingaleyfi, en það mál vakti töluverða athygli í fjölmiðlum í ágúst.
+Salurinn hlaut nafnið Skálafell en {bogarstjórinn}${typo,stem,0-1|borgarstjórinn} klippti á borðann og hélt ræðu við tilefnið. Þar baðst hann meðal annars afsökunar á seinaganginum við að veita dvalarheimilinu vínveitingaleyfi, en það mál vakti töluverða athygli í fjölmiðlum í ágúst.
 
 Fjöldi gesta voru viðstaddir vígsluna, bæði íbúar á dvalarheimilinu sem¥0 og aðstandendur. Auk bjórsins var hægt að bragða á kaffi og með því. Flestir héldu sig þó við kaffið.
 
-Þá steig hljómsveitin Mojito∞(eng) á stokk og spilaði fyrir gesti.
+Þá steig hljómsveitin {Mojito}∞{eng} á stokk og spilaði fyrir gesti.
 
 Hér fyrir neðan má skoða myndir frá glæsilegum salnum.

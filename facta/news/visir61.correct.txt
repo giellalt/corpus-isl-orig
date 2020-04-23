@@ -1,11 +1,11 @@
 {http://visir.is/kvennalandslidid-valid-fyrir-tekklandsmot/article/2012120909454}∞{url}
 Ágúst Þór Jóhannsson, landsliðsþjálfari í handbolta, hefur valið sextán leikmenn í íslenska landsliðið sem tekur þátt í æfingamóti í Tékklandi dagana 13.-15. september.
 
-Einn nýliði er í hópnum en það er HK-ingurinn Heiðrún Björk Helgadóttir. Karolína$(vow,stem,a-á|Karólína) Lárudóttir, leikmaður Vals, er einnig í hópnum en hún á einn landsleik að baki.
+Einn nýliði er í hópnum en það er HK-ingurinn Heiðrún Björk Helgadóttir. {Karolína}${vow,stem,a-á|Karólína} Lárudóttir, leikmaður Vals, er einnig í hópnum en hún á einn landsleik að baki.
 
 Það vantar þó marga sterka leikmenn í hópnum og flesta þá sem spila sem atvinnumenn í Evrópu. Meðal þeirra má nefna Karen Knútsdóttur, Örnu Sif Pálsdóttur, Þóreyju Rósu Stefánsdóttur og Rut Jónsdóttur.
 
-Íris Ásta Pétursdóttir, leikmaður norska liðsins Gjövik∞(nor) HK, er eini atvinnumaðurinn í hópnum.
+Íris Ásta Pétursdóttir, leikmaður norska liðsins {Gjövik}∞{nor} HK, er eini atvinnumaðurinn í hópnum.
 
 Markverðir:
 
@@ -22,7 +22,7 @@ Hanna Guðrún Stefánsdóttir
 Heiðrún Björk Helgadóttir
 Hrafnhildur Skúladóttir
 Íris Ásta Pétursdóttir
-Karolína$(vow,stem,a-á|Karólína) Lárudótir$(typo,stem,1-2|Lárudóttir)
+{Karolína}${vow,stem,a-á|Karólína} {Lárudótir}${typo,stem,1-2|Lárudóttir}
 Ragnhildur Rósa Guðmundsdóttir
 Sigurbjörg Jóhannsdóttir
 Stella Sigurðardóttir

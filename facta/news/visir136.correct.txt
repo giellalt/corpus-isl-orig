@@ -1,7 +1,7 @@
 {http://www.visir.is/hasar-i-framsokn-/article/2012120929600}∞{url}
 Birgir Guðmundsson, stjórnmálafræðingur, segir að Sigmundur Davíð Gunnlaugsson, formaður Framsóknarflokksins, og Höskuldur Þórhallsson, framsóknarmaður, eigi í átökum sem lítið sé reynt að fela.
 
-Þetta kom fram á fréttasíðunni Vikudegi en þar fjallar Birgir um fréttir gærdagsins þar sem Sigmundur tilkynnti að hann hyggðist$(infl|hygðist) bjóða sig fram fyrir Norðausturkjördæmi í komandi Alþingiskosningum. Höskuldur hafði degi áður lýst áhuga sínum á því að leiða flokkinn í kjördæminu. Birkir Jón Jónsson, varaformaður, stígur til hliðar og því verða það Sigmundur og Höskuldur sem berjast um fyrsta sætið.
+Þetta kom fram á fréttasíðunni Vikudegi en þar fjallar Birgir um fréttir gærdagsins þar sem Sigmundur tilkynnti að hann {hyggðist}${infl|hygðist} bjóða sig fram fyrir Norðausturkjördæmi í komandi Alþingiskosningum. Höskuldur hafði degi áður lýst áhuga sínum á því að leiða flokkinn í kjördæminu. Birkir Jón Jónsson, varaformaður, stígur til hliðar og því verða það Sigmundur og Höskuldur sem berjast um fyrsta sætið.
 
 „Þeir hafa ekkert rætt þessi framboðsmál sín á milli og samtalið á sér stað í beinni útsendingu fjölmiðla," segir Birgir og þykir það benda til átaka.
 

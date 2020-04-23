@@ -1,6 +1,6 @@
 {http://visir.is/enn-er-15-manns-saknad-eftir-snjoflodid-i-nepal/article/2012120929526}∞{url}
-Leit hófst að nýju í morgun á fjallinu Manaslu∞(nep) í Nepal að fjallgöngumönnum sem þar er saknað eftir stórt snjóflóð um helgina. 
+Leit hófst að nýju í morgun á fjallinu {Manaslu}∞{nep} í Nepal að fjallgöngumönnum sem þar er saknað eftir stórt snjóflóð um helgina. 
 
-Að minnsta kosti 11 manns létu lífið í flóðinu og 15 manns er enn saknað en tekist hefur að bjarga sjö af þeim sem lentu í snjóflóðinu. Slæmt veður hamlaði leit að fjallgömngumönnunum$(typo,stem,1-0|fjallgöngumönnunum) í gærdag en veðurútlitið er skárra í dag. 
+Að minnsta kosti 11 manns létu lífið í flóðinu og 15 manns er enn saknað en tekist hefur að bjarga sjö af þeim sem lentu í snjóflóðinu. Slæmt veður hamlaði leit að {fjallgömngumönnunum}${typo,stem,1-0|fjallgöngumönnunum} í gærdag en veðurútlitið er skárra í dag. 
 
 Í frétt um málið á CNN segir að tölur um fjölda þeirra sem er saknað úr flóðinu séu nokkuð á reiki þar sem litlar upplýsingar hafi fengist frá yfirvöldum í Nepal. Jafnvel er talið að allt að 38 manns séu enn fastir undir snjónum.

@@ -1,9 +1,9 @@
 {http://visir.is/auglystu-a-netinu-eftir-eggjagjafa/article/2012120829916}∞{url}
-Hundrað manns bíða eftir því að komast í tæknifrjóvgun og getur oft verið erfitt að finna egg. Barnlaust par um fertugt sem bíður eftir tyæknifrjóvgun$(typo,stem,1-0|tæknifrjóvgun) ákvað að auglýsa á Netinu eftir eggjagjafa. {Þau segja}£{x|Það segir} að sitt hjartans mál sé að eignast barn saman og það hafi þau£(x|það) reynt í nokkur ár. 
+Hundrað manns bíða eftir því að komast í tæknifrjóvgun og getur oft verið erfitt að finna egg. Barnlaust par um fertugt sem bíður eftir {tyæknifrjóvgun}${typo,stem,1-0|tæknifrjóvgun} ákvað að auglýsa á Netinu eftir eggjagjafa. {Þau segja}£{x|Það segir} að sitt hjartans mál sé að eignast barn saman og það hafi {þau}£{x|það} reynt í nokkur ár. 
 
 „Nýlega komumst við að því að til að það geti orðið þá þurfum við að fá gjafaegg frá einhverri góðhjartaðri konu á aldursbilinu 25-35 ára. Helstu upplýsingar um eggjagjöf má sjá á heimasíðu {Art Medica}∞{eng} með því að smella á þennan hlekk," segja þau á vefsíðunni.
 
-Þau segja að ástæðan fyrir því að þau séu að auglýsa eftir gjafaeggi sé sú að það sé langur biðlisti hér á landi og þau langi til að reyna að stytta þá bið fyrir okkur£(x|sig) og önnur pör sem eru í sömu aðstöðu.
+Þau segja að ástæðan fyrir því að þau séu að auglýsa eftir gjafaeggi sé sú að það sé langur biðlisti hér á landi og þau langi til að reyna að stytta þá bið fyrir {okkur}£{x|sig} og önnur pör sem eru í sömu aðstöðu.
 
-„Ef þessi auglýsing vekur athygli þína og áhuga getur þú haft samband við {Art Medica}∞{eng} í Kópavogi (s. 515-8100, {ritarar@artmedica.is}∞{url}) og þau myndu£(x|munu) góðfúslega fræða þig um allt {eggjagjafa ferlið}¥{x|eggjagjafaferlið}. Taka þarf fram þetta númer: E7913 til þess að tengja þessa auglýsingu við eggjagjöfina ef af henni verður svo við getum notið góðs af henni," segir á vefsíðunni.
+„Ef þessi auglýsing vekur athygli þína og áhuga getur þú haft samband við {Art Medica}∞{eng} í Kópavogi (s. 515-8100, {ritarar@artmedica.is}∞{url}) og þau {myndu}£{x|munu} góðfúslega fræða þig um allt {eggjagjafa ferlið}¥{x|eggjagjafaferlið}. Taka þarf fram þetta númer: E7913 til þess að tengja þessa auglýsingu við eggjagjöfina ef af henni verður svo við getum notið góðs af henni," segir á vefsíðunni.
 

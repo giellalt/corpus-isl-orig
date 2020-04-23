@@ -1,6 +1,6 @@
 {http://visir.is/nadi-myndum-af-fornum-arfarvegum-a-mars/article/2012120928923}∞{url}
-Geimjeppinn Curiosity∞(eng) hefur náð myndum af uppþornuðum árfarvegum á Mars sem sýna að í fortíðinni var rennandi vatn til staðar á plánetunni. 
+Geimjeppinn {Curiosity}∞{eng} hefur náð myndum af uppþornuðum árfarvegum á Mars sem sýna að í fortíðinni var rennandi vatn til staðar á plánetunni. 
 
-Á myndunum sést grjót sem hefur slípast til í rennandi vatni. Það er hinsvegar$(cmp,dem+adv,1-2|hins vegar) talið að þetta vatn hafi runnið á Mars fyrir mjög löngu síðan eða milljörðum ára. 
+Á myndunum sést grjót sem hefur slípast til í rennandi vatni. Það er {hinsvegar}${cmp,dem+adv,1-2|hins vegar} talið að þetta vatn hafi runnið á Mars fyrir mjög löngu síðan eða milljörðum ára. 
 
-Hinsvegar$(cmp,dem+adv,1-2|Hins vegar) styðja þessara myndir þá kenningu að vatn hafi verið til staðar á Mars í fortíðinni og raunar er talið að enn sé þar vatn að finna í formi íss sem liggur undir yfirborði plánetunnar.
+{Hinsvegar}${cmp,dem+adv,1-2|Hins vegar} styðja þessara myndir þá kenningu að vatn hafi verið til staðar á Mars í fortíðinni og raunar er talið að enn sé þar vatn að finna í formi íss sem liggur undir yfirborði plánetunnar.

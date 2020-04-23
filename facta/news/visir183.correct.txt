@@ -1,5 +1,5 @@
 {http://www.visir.is/uppreisnarmenn-skortir-vopn/article/2012120928777}∞{url}
-Hörð átök geisa nú í sýrlensku borginni Aleppo en samkvæmt fréttaflutningi ríkissjónvarpssins$(typo,suff,1-0|ríkissjónvarpsins) hafa stjórnarandstæðingar þurft að lúta í lægra haldi fyrir stjórnarhermönnum. 
+Hörð átök geisa nú í sýrlensku borginni Aleppo en samkvæmt fréttaflutningi {ríkissjónvarpssins}${typo,suff,1-0|ríkissjónvarpsins} hafa stjórnarandstæðingar þurft að lúta í lægra haldi fyrir stjórnarhermönnum. 
 
 Svo virðist sem uppreisnarmenn skorti bæði vopn og mannafla til að halda uppteknum hætti að sögn fréttamanns BBC í Beirút en stjórnarherinn ræðst nú á uppreisnarmenn af fullu afli.
 

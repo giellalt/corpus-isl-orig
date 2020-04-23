@@ -9,7 +9,7 @@ Jarðboranir spara Landsvirkjun 410 milljónir króna, miðað við kostnaðará
 
 "Nei. við erum ekki svekktir með þetta. Við erum mjög áfram um það að framkvæmdir fari af stað á Íslandi og viljum gjarnan vera þátttakendur í því og erum bara mjög ánægðir með að fá að taka þátt í þeirri uppbyggingu sem vonandi fer af stað á þessu svæði," sagði Ágúst Torfi. 
 
-Þótt tilboð sé nú komið í boranir ríkir óvissa um það hvenær virkjanaframkæmdir$(typo,stem,0-1|virkjanaframkvæmdir) hefjast af alvöru í Þingeyjarsýslum. Orkusamningur Landsvirkjunar við þýska félagið PCC, sem hyggst reisa kísilverksmiðju á Bakka, er með fyrirvörum sem þarf ekki að aflétta fyrr en í maí. 
+Þótt tilboð sé nú komið í boranir ríkir óvissa um það hvenær {virkjanaframkæmdir}${typo,stem,0-1|virkjanaframkvæmdir} hefjast af alvöru í Þingeyjarsýslum. Orkusamningur Landsvirkjunar við þýska félagið PCC, sem hyggst reisa kísilverksmiðju á Bakka, er með fyrirvörum sem þarf ekki að aflétta fyrr en í maí. 
 
 Óli Grétar segir að orkusamningurinn geri ráð fyrir afhendingu orkunnar í lok árs 2015. Framkvæmdatími virkjunar sé hins vegar í kringum 3 ár. Því þurfi að vinna í haginn og hugsanlega að taka ákvörðun um að ráðast þarna í virkjun í óvissu um að eftir eigi að fullnægja fyrirvörum. Óli Grétar segir að hugsanlega yrði að bjóða út vélbúnað í næsta eða þarnæsta mánuði. 
 

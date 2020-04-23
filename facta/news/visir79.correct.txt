@@ -1,7 +1,7 @@
 {http://www.visir.is/hofdu-einbeittan-vilja-til-thess-ad-myrda-/article/2012120909351}∞{url}
-Norska lögreglan telur að mennirnir tveir sem grunaðir eru um að hafa orðið {Sigrid Schjetne}∞{nor} að bana hafi haft einbeittan vilja til þess að myrða einhvern þetta kvöld. Tilviljun hafi hins vegar ráðið því að það var Sigrid∞(eng) sem varð fyrir valinu. 
+Norska lögreglan telur að mennirnir tveir sem grunaðir eru um að hafa orðið {Sigrid Schjetne}∞{nor} að bana hafi haft einbeittan vilja til þess að myrða einhvern þetta kvöld. Tilviljun hafi hins vegar ráðið því að það var {Sigrid}∞{eng} sem varð fyrir valinu. 
 
-„Við teljum að mennirnir hafi haft ásetning til þess að drepa. Það að hún var tilviljunakennt$(typo,suff,0-1|tilviljunarkennt) fórnarlamb þýðir bara að það var tilviljun sem olli því að hún varð á vegi þeirra en ekki einhver annar," segir {Hanne Kristin Rohde}∞{eng}, yfirmaður ofbeldisbrotadeildar lögreglunnar, í samtali við Aftenposten∞(eng). 
+„Við teljum að mennirnir hafi haft ásetning til þess að drepa. Það að hún var {tilviljunakennt}${typo,suff,0-1|tilviljunarkennt} fórnarlamb þýðir bara að það var tilviljun sem olli því að hún varð á vegi þeirra en ekki einhver annar," segir {Hanne Kristin Rohde}∞{eng}, yfirmaður ofbeldisbrotadeildar lögreglunnar, í samtali við {Aftenposten}∞{eng}. 
 
-Lögreglan telur líka að það séu meiri líkur en minni á að mennirnir tveir sem eru í haldi séu þeir sem hafi drepið Sigrid∞(eng). Mennirnir tveir sem eru á fertugsaldri og sjötugsaldri verða leiddir fyrir rétt í Osló$(vow,stem,a-á|Ósló) í dag þar sem krafist verður áframhaldandi gæsluvarðhalds yfir þeim.
+Lögreglan telur líka að það séu meiri líkur en minni á að mennirnir tveir sem eru í haldi séu þeir sem hafi drepið {Sigrid}∞{eng}. Mennirnir tveir sem eru á fertugsaldri og sjötugsaldri verða leiddir fyrir rétt í {Osló}${vow,stem,a-á|Ósló} í dag þar sem krafist verður áframhaldandi gæsluvarðhalds yfir þeim.
 

@@ -1,5 +1,5 @@
 {http://visir.is/segist-ekki-hafa-haft-hugmynd-um-ad-hann-vaeri-ad-fremja-logbrot-/article/2012120929469}∞{url}
-„Ég hafði ekki hugmynd um að þetta væri ólöglegt. Ég var bara unglingur á þessum tíma." Þetta sagði Jón Ólafur Róbertsson í vitniburði$(cmp,suff,nom-gensg|vitnisburði) sínum í Héraðsdómi Reykjaness í dag.
+„Ég hafði ekki hugmynd um að þetta væri ólöglegt. Ég var bara unglingur á þessum tíma." Þetta sagði Jón Ólafur Róbertsson í {vitniburði}${cmp,suff,nom-gensg|vitnisburði} sínum í Héraðsdómi Reykjaness í dag.
 
 Jón er einn af fimm sakborningum í máli sérstaks saksóknara en það tekur til stórfelldra fjársvika og blekkinga árið 2008. Tugmilljónir voru sviknar út úr Íbúðalánasjóði og öðrum fyrirtækjum, en sakborningar tengdust vélhjólasamtökunum Fáfni og Hells Angels.
 

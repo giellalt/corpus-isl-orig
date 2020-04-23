@@ -1,8 +1,8 @@
 {http://visir.is/vitisenglar-i-heradsdomi---fjardrattur-og-fjarsvik/article/2012120929508}∞{url}
-Aðalmeðferð í máli fimm manna sem ákærðir eru fyrir stórfelld fjársvik hófst í Héraðsdómi Reykjaness nú í morgun. Fimmmeningunum$(typo,stem,1-2|Fimmmenningunum) er gefið að sök að hafa haft með blekkingum milljónir af Íbúðalánasjóði.
+Aðalmeðferð í máli fimm manna sem ákærðir eru fyrir stórfelld fjársvik hófst í Héraðsdómi Reykjaness nú í morgun. {Fimmmeningunum}${typo,stem,1-2|Fimmmenningunum} er gefið að sök að hafa haft með blekkingum milljónir af Íbúðalánasjóði.
 
 Um er að ræða tugmilljóna svik. Mennirnir voru meðlimir Fáfnis þegar brotin áttu sér stað en þau voru talin síðasta prófraun mótorhjólaklúbbsins áður en hann gekk formlega inn í Vítisengla.
 
 Fjórir af fimm sakborningum voru viðstaddir þegar aðalmeðferð hófst á tíunda tímanum í morgun. Þeir eru allir á þrítugsaldri.
 
-Mennirnir drógu að sér allt að fimmtíu milljón krónum með því að skrá sig í stjórnir fyrirtækja. Var það gert með skjalafölsunum og blekkingum. Í krafti umboðsmanna og prófkúruhafa$(infl|prókúruhafa) voru lán tekin, kauptilboð í fasteignir fölsuð og reikningar stofnaðir í nafni fyrirtækjanna sem um ræðir en þau eru Saffran ehf. og Guðmundur Kristinsson ehf. Hið fyrrnefnda er algjörlega ótengd skyndibitakeðjunni íslensku.
+Mennirnir drógu að sér allt að fimmtíu milljón krónum með því að skrá sig í stjórnir fyrirtækja. Var það gert með skjalafölsunum og blekkingum. Í krafti umboðsmanna og {prófkúruhafa}${infl|prókúruhafa} voru lán tekin, kauptilboð í fasteignir fölsuð og reikningar stofnaðir í nafni fyrirtækjanna sem um ræðir en þau eru Saffran ehf. og Guðmundur Kristinsson ehf. Hið fyrrnefnda er algjörlega ótengd skyndibitakeðjunni íslensku.

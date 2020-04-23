@@ -1,7 +1,7 @@
 {http://visir.is/borgin-storhuga-i-stigagerd/article/2012120928836}∞{url}
 Reykjavíkurborg hefur hrundið af stað átaki í að bæta aðstöðu fyrir hjólandi og gangandi vegfarendur. Markmiðið er að Reykjavík verði framúrskarandi hjólaborg.
 
-Í ár hefur víða verið unnið að stígagerð í borginni en verkin eru mislangt á veg komin. Sem dæmi um framkvæmdir sem eru í burðarliðnum er nýr hjólastígur frá Hlemmi, meðfram Laugavegi og Suðurlandsbraut inn að Elliðaárósum. Stígurinn er óðum að taka á sig mynd og í vikunni var hluti hans malbikaður eins og sést á myndinni hér að ofan. Nokkuð er þó í að stígurinn verði tilbúinn enda á eftir að byggja tvær brýr ásamt tengileið yfir ósa Elliðaráa$(typo,stem,1-0|Elliðaáa) við Geirsnefið.
+Í ár hefur víða verið unnið að stígagerð í borginni en verkin eru mislangt á veg komin. Sem dæmi um framkvæmdir sem eru í burðarliðnum er nýr hjólastígur frá Hlemmi, meðfram Laugavegi og Suðurlandsbraut inn að Elliðaárósum. Stígurinn er óðum að taka á sig mynd og í vikunni var hluti hans malbikaður eins og sést á myndinni hér að ofan. Nokkuð er þó í að stígurinn verði tilbúinn enda á eftir að byggja tvær brýr ásamt tengileið yfir ósa {Elliðaráa}${typo,stem,1-0|Elliðaáa} við Geirsnefið.
 Einnig má nefna nýja stíga meðfram Vesturlandsvegi milli sveitarfélaganna Reykjavíkur og Mosfellsbæjar. Þegar þeir verða tilbúnir verður komin samfelld tenging frá Mosfellsbæ niður í miðborgina.
 
 Í sumar voru hjólastígar í Fossvogi einnig breikkaðir og skilið milli hjólaumferðar og gangandi vegfarenda.
@@ -9,5 +9,5 @@ Einnig má nefna nýja stíga meðfram Vesturlandsvegi milli sveitarfélaganna R
 Nú er einnig til skoðunar að gera nýja hjólaleið eða bæta eldri leið yfir Elliðaárnar enda hefur hjólaumferð þar farið ört vaxandi. Hugmyndirnar verða teknar til skoðunar í vetur.
 Loks stendur yfir samkeppni um hönnun hjólastanda og hjólastíga. Skilafrestur er þegar runninn út en tilkynnt verður um úrslit í keppninni þann 3. október.
 
-Öllum má því vera ljóst að Reykjavíkurborg er umhugað um samgönguvenjur íbúa sinna og reynir sitt besta til að gera fólki kleift að hjóla milli staða í borginn$(typo,suff,0-1|borginni).
+Öllum má því vera ljóst að Reykjavíkurborg er umhugað um samgönguvenjur íbúa sinna og reynir sitt besta til að gera fólki kleift að hjóla milli staða í {borginn}${typo,suff,0-1|borginni}.
 

@@ -1,6 +1,6 @@
 {http://www.visir.is/annir-hja-bjorgunarmonnum-vegna-gongumanna-i-basli/article/2012120909385}∞{url}
-Göngumaður féll og meiddist á hné fyrir oafn$(meta,stem,af-fa|ofan) Kjarnaskóg við Akureyri í gærkvöldi. Hann gat gefið neyðarlínunni upp GPS staðsetningu, þannig að björgunarmenn voru fljótir að finna hann og bera til byggða. Hann var þrátt fyrir það orðinn nokkuð kaldur. 
+Göngumaður féll og meiddist á hné fyrir {oafn}${meta,stem,af-fa|ofan} Kjarnaskóg við Akureyri í gærkvöldi. Hann gat gefið neyðarlínunni upp GPS staðsetningu, þannig að björgunarmenn voru fljótir að finna hann og bera til byggða. Hann var þrátt fyrir það orðinn nokkuð kaldur. 
 
 Þá örmagnaðist göngumaður á Laugaveginum í gær og sóttu björgunarsveitarmenn úr Rangárvallasýslu hann og komu honum undir læknishendur. 
 
-Björgunarmenn frá Hvolsvelli drógu svo bíl ferðamanna upp úr Kirkjufellsósi í grennd við Landmannalaugar og flutti£(x|fluttu) svo blautt og hrakið göngufólk niður að Skógum.
+Björgunarmenn frá Hvolsvelli drógu svo bíl ferðamanna upp úr Kirkjufellsósi í grennd við Landmannalaugar og {flutti}£{x|fluttu} svo blautt og hrakið göngufólk niður að Skógum.

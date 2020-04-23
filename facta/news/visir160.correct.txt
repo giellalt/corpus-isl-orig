@@ -3,6 +3,6 @@ Fátækum fjölgaði í Danmörku á árunum 2002 og fram til 2010. Hlutfallsleg
 
 Þetta kemur fram í nýrri rannsókn á vegum dönsku verkalýðshreyfingarinnar sem kynnt verður í dag. Notaðar eru tölur OECD um fátækramörk¢fátæktarmörk en þau nema tæpum 8.800 dönskum króna eða um 190 þúsund krónum fyrir einstakling og rúmlega 5.000 dönskum krónum fyrir hvern einstakling í fjögurra manna fjölskyldu. Alls lifa um 250.000 Danir undir þessum mörkum.
 
-Mest hefur fátækum fjölgað, eða yfir 3% í nokkrum úthverfum Kaupmannahafnar eins og Bröndby∞(dan), Albertslund∞(dan) og Ishöj∞(dan). Í miðborg Kaupmannahafnar er fjölgunin hinsvegar$(cmp,dem+adv,1-2|hins vegar) tæp 3%.
+Mest hefur fátækum fjölgað, eða yfir 3% í nokkrum úthverfum Kaupmannahafnar eins og {Bröndby}∞{dan}, {Albertslund}∞{dan} og {Ishöj}∞{dan}. Í miðborg Kaupmannahafnar er fjölgunin {hinsvegar}${cmp,dem+adv,1-2|hins vegar} tæp 3%.
 
 Í öðrum landshlutum er staðan betri. Í Óðinsvéum á Fjóni nemur fjölgunin þannig innan við 2% og á Langalandi er hún innan við 1% svo dæmi séu tekin.

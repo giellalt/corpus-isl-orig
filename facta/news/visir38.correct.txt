@@ -1,9 +1,9 @@
 {http://visir.is/fjarmalaraduneytid-visar-asokunum-viglundar-a-bug/article/2012120829877}∞{url}
-Fjármálaráðuneytið hafnar því að hafa ekki brugðist við málaleitan Víglundar Þorsteinssonar, fyrrverandi forstjóra BM Vallár. Á blaðamannafundi í dag sagði Víglundur að ráðuneytið hefði neitað að veita upplýsingar um endurmat á lánasöfnum sem færð voru úr Kaupþing£(x|Kaupþingi) hf. yfir í Ariobanka$(typo,suff,0-1|Arionbanka).
+Fjármálaráðuneytið hafnar því að hafa ekki brugðist við málaleitan Víglundar Þorsteinssonar, fyrrverandi forstjóra BM Vallár. Á blaðamannafundi í dag sagði Víglundur að ráðuneytið hefði neitað að veita upplýsingar um endurmat á lánasöfnum sem færð voru úr {Kaupþing}£{x|Kaupþingi} hf. yfir í {Ariobanka}${typo,suff,0-1|Arionbanka}.
 
 „Fjármálaráðuneytið hefur afhent þau gögn sem það hefur undir höndum og því hefur verið heimilt að afhenda," segir á heimasíðu ráðuneytisins.
 
-Á blaðamannafundinum í dag sagði Víglundur að niðurstaða Úrskurðarnefndar um upplýsingarmál¢(cmp,suff,gensg-genpl|upplýsingamál) að synja sér um aðgang að samingum$(typo,der,0-1|samningum) um endurmat á lánasöfnum staðfesti það að listi hafi£(x|hefði) verið gerður í Arionbanka yfir skuldara sem vinna átti á.
+Á blaðamannafundinum í dag sagði Víglundur að niðurstaða Úrskurðarnefndar um {upplýsingarmál}¢{cmp,suff,gensg-genpl|upplýsingamál} að synja sér um aðgang að {samingum}${typo,der,0-1|samningum} um endurmat á lánasöfnum staðfesti það að listi {hafi}£{x|hefði} verið gerður í Arionbanka yfir skuldara sem vinna átti á.
 
 Í tilkynningu Fjármálaráðuneytisins er ásökunum Víglundar vísað á bug.
 

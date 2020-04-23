@@ -1,9 +1,9 @@
 {http://visir.is/syrlensku-bornin-ormagna-/article/2012120909474}∞{url}
-Börn sem flýja heimkynni sín í Sýrlandi eru örmagna þegar þau koma í flóttamannabúðir í nágrannaríkjum. Þetta segir barnaverndarfulltrúi UNICEF∞(eng) í Jórdaníu. Samtökin hafa blásið til neyðarsöfnunar fyrir þessi stríðshrjáðu börn.
+Börn sem flýja heimkynni sín í Sýrlandi eru örmagna þegar þau koma í flóttamannabúðir í nágrannaríkjum. Þetta segir barnaverndarfulltrúi {UNICEF}∞{eng} í Jórdaníu. Samtökin hafa blásið til neyðarsöfnunar fyrir þessi stríðshrjáðu börn.
 
-Mikill straumur flóttafólks liggur nú frá Sýrlandi og á hverjum degi leita þúsundir barna og fjölskyldur þeirra skjóls í nágrannaríkjunum. Aðstæður í flóttamannabúðum þar eru algjörlega óbærilegar að sögn Sigríðar Víðis Jónsdóttur, upplýsingafulltrúa UNICEF∞(eng) á Íslandi. 
+Mikill straumur flóttafólks liggur nú frá Sýrlandi og á hverjum degi leita þúsundir barna og fjölskyldur þeirra skjóls í nágrannaríkjunum. Aðstæður í flóttamannabúðum þar eru algjörlega óbærilegar að sögn Sigríðar Víðis Jónsdóttur, upplýsingafulltrúa {UNICEF}∞{eng} á Íslandi. 
 
-„Helmingur flóttafólksins eru£(x|er) börn og eins og staðan er núna þá eru yfir 200 þúsund manns búnir að flýja Sýrland, farnir yfir til nágrannaríkjanna. Að auki eru milljón manna á vergangi innanlands í Sýrlandi. Og aftur þá er helmingurinn af þessu fólki börn," segir Sigríður. 
+„Helmingur flóttafólksins {eru}£{x|er} börn og eins og staðan er núna þá eru yfir 200 þúsund manns búnir að flýja Sýrland, farnir yfir til nágrannaríkjanna. Að auki eru milljón manna á vergangi innanlands í Sýrlandi. Og aftur þá er helmingurinn af þessu fólki börn," segir Sigríður. 
 
 Söfnunarfénu verður varið í að lina þjáningar barnanna og gera aðstæður þeirra bærilegri.
 
@@ -11,5 +11,5 @@ Söfnunarfénu verður varið í að lina þjáningar barnanna og gera aðstæð
 
 Steina Björgvinsdóttir barnaverndarfulltrúi er nú að störfum í Jórdaníu, nágrannaríki Sýrlands, og hefur hún heimsótt margar flóttamannabúðir. „Hún var meðal annars að að lýsa því fyrir mér hvernig börnin eru örmagna mörg hver þegar þau koma yfir landamærin og yfir í flóttamannabúðirnar," segir Sigríður. 
 
-UNICEF∞(eng) hvetur Íslendinga til að senda sms með skilaboðunum {„unicef"}∞{eng} í söfnunarsímanúmerið 1900 og styrkja þannig hjálparstarfið um 1500 krónur. Einnig er hægt að leggja söfnuninni lið á heimasíðunni {www.unicef.is}∞{url}. „Þörfin er gríðarleg og við þurfum bara eins mikið af framlögum og okkur unast${con,stem,1-2|unnast}€{x|gengur} að ná í," segir Sigríður Víðis Jónsdóttir.
+{UNICEF}∞{eng} hvetur Íslendinga til að senda sms með skilaboðunum {„unicef"}∞{eng} í söfnunarsímanúmerið 1900 og styrkja þannig hjálparstarfið um 1500 krónur. Einnig er hægt að leggja söfnuninni lið á heimasíðunni {www.unicef.is}∞{url}. „Þörfin er gríðarleg og við þurfum bara eins mikið af framlögum og okkur unast${con,stem,1-2|unnast}€{x|gengur} að ná í," segir Sigríður Víðis Jónsdóttir.
 

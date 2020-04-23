@@ -3,7 +3,7 @@ Stjórnarandstæðingar gagnrýna harðlega ákvörðun fjárlaganefndar um að 
 
 Fjárlaganefnd ákvað á fundi sínum í gær að bíða með það að senda fjáraukalögin til Ríkisendurskoðunar vegna trúnaðarbrests sem ríkir á milli Alþingi£Alþingis og stofnunarinnar. Þingmenn Sjálfstæðisflokksins og Framsóknarflokksins hafa gagnrýnt þessa ákvörðun harðlega. 
 
-Kristján Þór Júíusson$(typo,stem,0-1|Júlíusson) á sæti í fjárlaganefnd fyrir Sjálfstæðisflokkinn. Hann segir þingmenn Sjálfstæðisflokksins í nefndinni nú skoða það að leita sjálfir eftir því að Ríkisendurskoðun veiti umsögn um fjáraukalögin. 
+Kristján Þór {Júíusson}${typo,stem,0-1|Júlíusson} á sæti í fjárlaganefnd fyrir Sjálfstæðisflokkinn. Hann segir þingmenn Sjálfstæðisflokksins í nefndinni nú skoða það að leita sjálfir eftir því að Ríkisendurskoðun veiti umsögn um fjáraukalögin. 
 
 „Ég að vísu vona að það þurfi ekki að koma til þess heldur geti þingið staðið saman um að fá álit hlutlauss aðila í þessum efnum og neita satt að segja að trúa því að stjórnarmeirihlutinn á Alþingi þori ekki að bera verk sín undir dóm annarra. Ef að¥0 þau eru staðföst í því þá að sjálfsögðu munum við leita allra þeirra leiða sem við höfum færar til þess að draga fram hlutlæga gagnrýni á þetta mislukkaða verk stjórnarmeirihlutans," segir Kristján Þór.
 

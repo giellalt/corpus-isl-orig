@@ -3,4 +3,4 @@
 
 {Igor Vetokele}∞{eng}, leikmaður FCK, skoraði meðal annars tvö marka Belgíu en hann þykir afar efnilegur.
 
-Eins og sjá má á markaspyrpunni$(typo,stem,1-0|markasyrpunni) hér að ofan stóð ekki steinn yfir steini í varnarleik íslenska liðsins.
+Eins og sjá má á {markaspyrpunni}${typo,stem,1-0|markasyrpunni} hér að ofan stóð ekki steinn yfir steini í varnarleik íslenska liðsins.

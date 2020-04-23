@@ -7,9 +7,9 @@ Gunnlaugur segir málið hafa farið illa í fjölskyldu sína eins og fram hefu
 
 Fleiri vitni eiga eftir að lýsa aðkomum sínum að málinu, auk Teits sjálfs, en meðal þeirra er Jón Baldvin Hannibalsson sem var þá utanríkisráðherra. 
 
-Gunnlaugur sagði meðal annars í framburði sínum, þegar hann fór yfir sögu Kögunar, að Jón Baldvin hafi£(x|hefði) sagt sér á sínum tíma að það væri afar mikilvægt að Kögun félli ekki í hendur fjölskyldnanna fjórtán, "án þess að hann hafi útskýrt það frekar," bætti Gunnlaugur svo við.
+Gunnlaugur sagði meðal annars í framburði sínum, þegar hann fór yfir sögu Kögunar, að Jón Baldvin {hafi}£{x|hefði} sagt sér á sínum tíma að það væri afar mikilvægt að Kögun félli ekki í hendur fjölskyldnanna fjórtán, "án þess að hann hafi útskýrt það frekar," bætti Gunnlaugur svo við.
 
-Nánar verður fjallað um meiðyrðarmálið$(infl|meiðyrðamálið) síðar í dag.
+Nánar verður fjallað um {meiðyrðarmálið}${infl|meiðyrðamálið} síðar í dag.
 
 Til baka
 

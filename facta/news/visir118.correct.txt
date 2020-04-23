@@ -7,7 +7,7 @@
 
 Í 80% þessara tilvika var málið ekki tilkynnt til lögreglu eða annarra yfirvalda og þeim haldið leyndum. Auk þess kemur í ljós að í um 100 tilvika hafi stjórnendur skátasamtakanna beinlínis komið í veg fyrir að misnotkunin var kærð. 
 
-Í viðtölum blaðsins við menn innan skátasamtakanna kemur fram það sjónarmið að samtökin hafi viljað þagga málin niður til að verja drengina gegn opinberri umfjöllun. Það leiddi hinsvegar$(cmp,dem+adv,1-2|hins vegar) til þess í einhverjum tilvika að þeir seku misnotuðu einnig börn kynferðislega utan samtakanna. 
+Í viðtölum blaðsins við menn innan skátasamtakanna kemur fram það sjónarmið að samtökin hafi viljað þagga málin niður til að verja drengina gegn opinberri umfjöllun. Það leiddi {hinsvegar}${cmp,dem+adv,1-2|hins vegar} til þess í einhverjum tilvika að þeir seku misnotuðu einnig börn kynferðislega utan samtakanna. 
 
-Nú hafa skátasamtökin sent frá sér opinberlega afsökun¥(afsökun á) þessari misnotkun.
+Nú hafa skátasamtökin sent frá sér opinberlega {afsökun}¥{afsökun á} þessari misnotkun.
 

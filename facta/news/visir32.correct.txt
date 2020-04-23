@@ -1,13 +1,13 @@
 {http://visir.is/segja-miklu-minna-magn-hafa-lekid-i-sjoinn/article/2012120829940}∞{url}
 Forsvarsmenn Eimskipafélags Íslands telja að miklu minna magn olíu hafi runnið úr Goðafossi í Óslóarfirði en norsk yfirvöld halda fram og hafa fengið sjálfstæðan rannsóknaraðila til að fara yfir málin.
 
-Stofnun hafs-¢(abp,1-0|hafs) og stranda í Noregi, eða Kystverket∞(nor) eins og stofnunin heitir þar í landi, fer fram á að Eimskip greiði hátt í tvo milljarða króna í skaðabætur vegna strands Goðafoss í Óslóarfirði í febrúar árið 2011. Talsmaður strandgæslunnar, {Johan Marius Ly}∞{nor}, segir í viðtali við Aftenposten∞(nor) í gær að krafist verði skaðabóta vegna hreinsunarstarfs eftir að Goðafoss strandaði, en talið er að meira en 100 tonn hafi lekið í hafið í firðinum.
+Stofnun {hafs-}¢{abp,1-0|hafs} og stranda í Noregi, eða {Kystverket}∞{nor} eins og stofnunin heitir þar í landi, fer fram á að Eimskip greiði hátt í tvo milljarða króna í skaðabætur vegna strands Goðafoss í Óslóarfirði í febrúar árið 2011. Talsmaður strandgæslunnar, {Johan Marius Ly}∞{nor}, segir í viðtali við {Aftenposten}∞{nor} í gær að krafist verði skaðabóta vegna hreinsunarstarfs eftir að Goðafoss strandaði, en talið er að meira en 100 tonn hafi lekið í hafið í firðinum.
 
-Ólafur William∞(eng) Hand upplýsingafulltrúi Eimskips, er ósáttur við að heyra af slíku í norskum fjölmiðlun¢(typo,suf,n-m|fjölmiðlum). „Að sjálfsögðu hefðu menn átt að setja sig í samband við okkur áður en þeir fara með svona í fjölmiðla. Annað er bara mjög óeðlilegt," segir hann. 
+Ólafur {William}∞{eng} Hand upplýsingafulltrúi Eimskips, er ósáttur við að heyra af slíku í norskum {fjölmiðlun}¢{typo,suf,n-m|fjölmiðlum}. „Að sjálfsögðu hefðu menn átt að setja sig í samband við okkur áður en þeir fara með svona í fjölmiðla. Annað er bara mjög óeðlilegt," segir hann. 
 
 Hann segir að þessi krafa muni þó ekki hafa áhrif á daglegan rekstur fyrirtækisins þar sem það sé vel tryggt. 
 
-Í Aftenposten∞(nor) segir einnig að það vegi þungt að skiptstjórinn$(typo,suf,1-0|skipstjórinn) á Goðafossi beri mikla ábyrgð á strandinu. Hann hafi verið einn í brúnni þegar skipið strandaði, hann hafi ekki vitað nákvæmlega hvar skipið var auk þess sem farmur á þilfarinu hafi byrgt honum sýn.
+Í {Aftenposten}∞{nor} segir einnig að það vegi þungt að {skiptstjórinn}${typo,suf,1-0|skipstjórinn} á Goðafossi beri mikla ábyrgð á strandinu. Hann hafi verið einn í brúnni þegar skipið strandaði, hann hafi ekki vitað nákvæmlega hvar skipið var auk þess sem farmur á þilfarinu hafi byrgt honum sýn.
 
-Ólafur segir að skipstjórinn njóti fulls traust hjá fyrirtækinu, ekki sé hægt að skella skuldinni á einn mann þegar svona stórslys verða. Minnir hann á að norski lóðsinn fór fyrr frá broði¢(meta,stem,ro-or|borði) en gert er ráð fyrir.
+Ólafur segir að skipstjórinn njóti fulls traust hjá fyrirtækinu, ekki sé hægt að skella skuldinni á einn mann þegar svona stórslys verða. Minnir hann á að norski lóðsinn fór fyrr frá {broði}¢{meta,stem,ro-or|borði} en gert er ráð fyrir.
 

@@ -5,4 +5,4 @@ Stjórn Landssambands bakarameistara (LABAK) mótmælir harðlega fyrirhugaðri 
 
 Svo segir í mótmælum bakara: Auknar álögur á matvæli um 800 milljónir á ári koma hart niður bæði á fyrirtækjum og neytendum. Hækkun vörugjalda hlýtur óhjákvæmilega að hækka vöruverð, sem aftur eykur verðbólgu og þar með greiðslubyrði af lánum, bæði heimila og fyrirtækja. 
 
-Stjórn LABAK skorar á stjórnvöld að draga hugmyndir um hækkun vörugjalda á matvæli til baka og gerir þá kröfu að lagt verði mat á þann kostnað, sem ríki og matvælafyrirtæki verða fyrir vegna vörugjaldskrfisins$(typo,stem,0-1|vörugjaldskerfisins), og hann borinn saman við tekjurnar sem ríkið telur sig þurfa að hafa af vörugjöldum.
+Stjórn LABAK skorar á stjórnvöld að draga hugmyndir um hækkun vörugjalda á matvæli til baka og gerir þá kröfu að lagt verði mat á þann kostnað, sem ríki og matvælafyrirtæki verða fyrir vegna {vörugjaldskrfisins}${typo,stem,0-1|vörugjaldskerfisins}, og hann borinn saman við tekjurnar sem ríkið telur sig þurfa að hafa af vörugjöldum.

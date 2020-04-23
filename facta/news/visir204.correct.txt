@@ -5,11 +5,11 @@
 
 Það var {Kresten Drejergaard}∞{eng} biskup á Fjóni sem bað presta sína að skrá hjá sér síðustu sex mánuði þegar færri en sex sóknarbörn mættu í messu. Biskupinn vill bregðast við þessu með því að fækka messunum um helming, það er þær verði haldnar annan hvern sunnudag. 
 
-Þetta kemur fram í umfjöllun Politiken∞(dan) um málið. Þar segir raunar að slíkt fyrirkomulag sé þegar til staðar í minnstu landsbyggðarsóknunum á Fjóni.
+Þetta kemur fram í umfjöllun {Politiken}∞{dan} um málið. Þar segir raunar að slíkt fyrirkomulag sé þegar til staðar í minnstu landsbyggðarsóknunum á Fjóni.
 
-Málið verður þó ekki á könnu Drejergaard∞(dan) því biskupinn lætur af störfum fyrir áramótin sökum aldurs. 
+Málið verður þó ekki á könnu {Drejergaard}∞{dan} því biskupinn lætur af störfum fyrir áramótin sökum aldurs. 
 
-{Manu Saaren}∞{dan} kirkjumálaráðherra Danmerkur er hinsvegar$(cmp,dem+adv,1-2|hins vegar) sammála biskupnum um að bregðast verði við þessari stöðu og augljósu áhugaleysi fólks á að sækja messur. Ráðherrann ætlar að taka málið upp á næsta fundi biskuparáðs Danmerkur.
+{Manu Saaren}∞{dan} kirkjumálaráðherra Danmerkur er {hinsvegar}${cmp,dem+adv,1-2|hins vegar} sammála biskupnum um að bregðast verði við þessari stöðu og augljósu áhugaleysi fólks á að sækja messur. Ráðherrann ætlar að taka málið upp á næsta fundi biskuparáðs Danmerkur.
 
-Fámenni í messum er ekki bundið við Fjón. Áður hefur komið fram í fréttum að á síðustu árum hafa Danir almennt haft lítinn áhuga á að sækja messur¥(messur.)
+Fámenni í messum er ekki bundið við Fjón. Áður hefur komið fram í fréttum að á síðustu árum hafa Danir almennt haft lítinn áhuga á að sækja {messur}¥{messur.}
 

@@ -1,7 +1,7 @@
 {http://visir.is/miklar-truflanir-a-umferdinni-um-storabeltisbruna/article/2012120929523}∞{url}
 Miklar truflanir voru á umferðinni um Stórabeltisbrúna í nótt eftir að stór rúta valt þar á hliðina við brúarsporðinn í kjölfar áreksturs við vörubíl. Um tíma í morgun þurfti að loka brúnni alveg þegar rútan var fjarlægð af vettvangi. 
 
-Áreksturinn varð um þrjúleitið$(vow,stem,i-y|þrjúleytið) að staðartíma í nótt en aðeins ökumaður rútunnar slasaðist í honum, þó ekki alvarlega. 
+Áreksturinn varð um {þrjúleitið}${vow,stem,i-y|þrjúleytið} að staðartíma í nótt en aðeins ökumaður rútunnar slasaðist í honum, þó ekki alvarlega. 
 
 Lögreglunni tókst að opna aðra akreinina fyrir umferð skömmu eftir áreksturinn en síðan þurfi að loka brúnni alveg í um hálftíma undir morguninn þegar rútan var fjarlægð. Umferðin er nú aftur komin í eðlilegt horf.
 

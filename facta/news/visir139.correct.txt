@@ -5,7 +5,7 @@ Alls eru tvær breytingar gerðar á liðinu sem vann Norður-Írland, 2-0, um h
 
 Það má búast við því að íslenska liðið verði varnarsinnaðra en um síðustu helgi. Edda Garðarsdóttir og Katrín Ómarsdóttir verða varnartengiliðir og Sara Björk Gunnarsdóttir fyrir framan þær.
 
-Margrét Lára spilar svo sem fremsti sóknarmaður en Elím$(typo,stem,m-n|Elín) Metta Jensen leysti þá stöðu um síðustu helgi.
+Margrét Lára spilar svo sem fremsti sóknarmaður en {Elím}${typo,stem,m-n|Elín} Metta Jensen leysti þá stöðu um síðustu helgi.
 
 Byrjunarliðið:
 

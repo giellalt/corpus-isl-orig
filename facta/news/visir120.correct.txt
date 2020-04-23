@@ -1,5 +1,5 @@
 {http://www.visir.is/hjortur-nadi-hundradasta-marki-sinu-i-1.-deild-i-sidustu-umferdinni/article/2012120929630}∞{url}
-Hjörtur Júlíus Hjartarson skoraði fyrir Víking Reykjavík í 3-3 jafntefli á móti Vikingi$(vow,stem,a-á|Víkingi) Ólafsvík í lokaumferð 1. deildar karla í gær. Hjörtur var að skora þarna sannkallað tímamótamark því þetta var hundraðasta mark hans í næstefstu deild.
+Hjörtur Júlíus Hjartarson skoraði fyrir Víking Reykjavík í 3-3 jafntefli á móti {Vikingi}${vow,stem,a-á|Víkingi} Ólafsvík í lokaumferð 1. deildar karla í gær. Hjörtur var að skora þarna sannkallað tímamótamark því þetta var hundraðasta mark hans í næstefstu deild.
 
 Markið dugði Hirti þó ekki til að taka markakóngstitil deildarinnar því markakóngurinn var Guðmundur Steinn Hafsteinsson úr Víkingi Ólafsvík sem skoraði einu marki meira en Hjörtur í sumar. 
 

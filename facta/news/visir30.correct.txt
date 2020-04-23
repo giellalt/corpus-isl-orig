@@ -1,5 +1,5 @@
 {http://visir.is/thorf-a-almennilegri-medferd-fyrir-fanga-med-afengissyki/article/2012120829919}∞{url}
-Helsta heilbrigðisvandamál fanga á Íslandi er áfengis- og vímuefnasýki. Þetta segir Gunnar Smári Egilsson, formaður SÁÁ. Áætlað er að 75-85% fanga séu haldnir£(x|haldin) sjúkdómnum og langfæstir þeirra hafa aðgang að læknaþjónustu vegna vandans.
+Helsta heilbrigðisvandamál fanga á Íslandi er áfengis- og vímuefnasýki. Þetta segir Gunnar Smári Egilsson, formaður SÁÁ. Áætlað er að 75-85% fanga séu {haldnir}£{x|haldin} sjúkdómnum og langfæstir þeirra hafa aðgang að læknaþjónustu vegna vandans.
 
 „Þá er spurningin hvað er gert fyrir þessa menn inni á fangelsum," segir Gunnar og útskýrir að á {Litla Hrauni}¥{x|Litla-Hrauni} sé svokallaður meðferðargangur. „En það eru bara fangelsisyfirvöld sem reka hann. Þetta er í raun engin meðferð. Þarna eru engir læknar eða heilbrigðisstarfsmenn. Þetta er jafnfáránlegt og ef fangaverðirnir væru að framkvæma skurðaðgerðir," segir Gunnar og telur að fangelsisyfirvöldum myndi tæplega detta í hug að reka heilbrigðisþjónustu á neinu öðru sviði en þessu. Það bendi til þess að alkóhólismi sé viðurkenndur sem sjúkdómur í orði en ekki á borði.
 
@@ -7,7 +7,7 @@ Helsta heilbrigðisvandamál fanga á Íslandi er áfengis- og vímuefnasýki. �
 
 „Það mætti t.d. reka lokaða meðferð inni á fangelsunum," segir hann.
 
-„Svo myndum við líka vilja skoða meðferð sem valkost við refsivist," segir Gunnar en með því á hann við að dæmdir glæpamenn geti valið um að vera lokaðir í fangelsi eða fara í meðferð. „Þá myndu fangar þurfa að gangast undir öklaband$(con,stem,1-2|ökklaband) og þvagprufur. Svo yrðu þeir í meðferð inni á Vernd og ef þeir myndu rjúfa skilyrðin yrðu þeir settir í fangelsi," segir Gunnar og telur að með þessu mætti spara gríðarlegar fjárhæðir.
+„Svo myndum við líka vilja skoða meðferð sem valkost við refsivist," segir Gunnar en með því á hann við að dæmdir glæpamenn geti valið um að vera lokaðir í fangelsi eða fara í meðferð. „Þá myndu fangar þurfa að gangast undir {öklaband}${con,stem,1-2|ökklaband} og þvagprufur. Svo yrðu þeir í meðferð inni á Vernd og ef þeir myndu rjúfa skilyrðin yrðu þeir settir í fangelsi," segir Gunnar og telur að með þessu mætti spara gríðarlegar fjárhæðir.
 
 Gunnar segir staðreynd að áfengisneysla leiði til afbrota. „Og það þarf að fá viðurkenningu á því," segir hann í viðtalsþættinum Klinkinu á Vísi þar sem hann ræddi við Magnús Halldórsson um ýmsar hliðar alkóhólisma.
 

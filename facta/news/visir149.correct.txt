@@ -1,7 +1,7 @@
 {http://visir.is/-eg-a-litinn-strak-nuna---eg-hef-snuid-vid-bladinu-/article/2012120929493}∞{url}
 Vilhjálmur Símon Hjartarson var fyrstur sakborninga í Íbúðalánssvikamálinu til að gefa vitnisburð í Héraðsdómi Reykjaness í morgun. Hann hefur játað sinn hlut í málinu, en fimm menn eru grunaðir um að hafa svikið tugmilljónir út úr íbúðalánasjóði. Vilhjálmur er einn þessa fimm en málið tengist vélhjólasamtökunum Fáfni og Vítisenglum.
 
-Saksóknari byrjaði á því að forvitnast um upphaf málsins. Vilhjálmur sagði að hann hefði skuldað tveimur mönnum pening, 500 þúsund krónur. Hannn$(typo,stem,3-2|Hann) vildi ekki nafngreina þessa menn af ótta við hefndaraðgerðir. Vilhjálmur ítrekaði margoft að þessir menn hefðu aldrei komið að skipulagningu svikanna – hann benti ávallt á Helga Ragnar Guðmundsson, sem einnig er ákærður í málinu, í því samhengi.
+Saksóknari byrjaði á því að forvitnast um upphaf málsins. Vilhjálmur sagði að hann hefði skuldað tveimur mönnum pening, 500 þúsund krónur. {Hannn}${typo,stem,3-2|Hann} vildi ekki nafngreina þessa menn af ótta við hefndaraðgerðir. Vilhjálmur ítrekaði margoft að þessir menn hefðu aldrei komið að skipulagningu svikanna – hann benti ávallt á Helga Ragnar Guðmundsson, sem einnig er ákærður í málinu, í því samhengi.
 
 „Þeir fá þessa hugmynd um að ég skuldi pening," sagði Vilhjálmur. „Síðan er ég settur í samband við Helga Ragnar." Þá spurði saksóknari hver staða mála væri með skuld hans við þessa huldumenn. „Ég hef allavega ekki verið rukkaður um þessa hálfa milljón."
 
@@ -11,7 +11,7 @@ Vilhjálmur sagði að Helgi Ragnar Guðmundsson, sem einnig er ákærður fyrir
 
 Verjandi Helga Ragnars spurði hvort að Vilhjálmur hefði einhvern tíma séð skjólstæðing sinn útbúa þessi skjöl? „Nei, aldrei," sagði Vilhjálmur þá. Hann bar síðan fyrir sig minnisleysi þegar verjandi forvitnaðist um misræmi í framburði hans í lögregluskýrslu.
 
-Svik fimmmenninganna þykja afar flókin. Vilhjálmur sagði að hann hefði litla sem enga þekkingu á fjármálum yfirleitt. Þá svaraði hann spurningu sakóknara$(typo,stem,0-1|saksóknara) neitandi um hvort að hann þekkti fjármálaupplýsingafyrirtækið Creditinfo∞(eng).
+Svik fimmmenninganna þykja afar flókin. Vilhjálmur sagði að hann hefði litla sem enga þekkingu á fjármálum yfirleitt. Þá svaraði hann spurningu {sakóknara}${typo,stem,0-1|saksóknara} neitandi um hvort að hann þekkti fjármálaupplýsingafyrirtækið {Creditinfo}∞{eng}.
 
 Vilhjálmur lagði peninga inn á sjálfan sig tvo félaga sína, Hans Aðalstein Helgason og Jens Tryggva Jensson sem einnig njóta réttarstöðu sakbornings£sakborninga í þessu máli. Hver færsla var um það bil ein og hálf milljón. Þá sagði Vilhjálmur að þeir Aðalsteinn og Jens hafi£hefðu vitað að hann hefði verið í neyslu á þessum tíma.
 

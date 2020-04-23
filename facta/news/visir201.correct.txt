@@ -1,7 +1,7 @@
 {http://visir.is/lata-reyna-a-verdtrygginguna-fyrir-domstolum/article/2012120928881}∞{url}
 Verkalýðsfélags Akraness ætlar að láta á það reyna fyrir dómstólum hvort að verðtryggingin stenst lög. Formaður félagsins segir það eitt brýnasta hagsmunamál íslenskrar alþýðu að tekið verði á verðtryggingunni.
 
-Stjórn og trúnaðarráð félagsins ákváðu þetta á fundi sínum í gærkvöldi. Félagið hafið áður látið gera lögfræðilegt álit á því hvort að verðtryggingin standis$(typo,suff,0-1|standist) íslensk lög og var niðurstaða sú að verulegur vafi léki á því. Vilhjálmur Birgisson er formaður Verkalýðsfélags Akraness.
+Stjórn og trúnaðarráð félagsins ákváðu þetta á fundi sínum í gærkvöldi. Félagið hafið áður látið gera lögfræðilegt álit á því hvort að verðtryggingin {standis}${typo,suff,0-1|standist} íslensk lög og var niðurstaða sú að verulegur vafi léki á því. Vilhjálmur Birgisson er formaður Verkalýðsfélags Akraness.
 
 „Við erum að átta okkur á því að íslensk stjórnvöld þau ætla sér ekkert að gera hvað varðar þennan stökkbreytta höfuðstól verðtryggðra lána. Það á ekkert að gera neitt í þessu, það á ekkert að leiðrétta þessi lán og á þeirri forsendu þá viljum við líka láta kanna það hvort að þetta standist lög eða ekki. Því það er ekki hægt að horfa upp á það að þessi lán sem eru búin að hækka frá 1. janúar 2008, verðtryggð húsnæðislán, um 400 milljarða króna, þetta er bara svo mikið óréttlæti og annað slíkt að á þessu verður að taka," segir Vilhjálmur. 
 

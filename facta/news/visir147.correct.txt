@@ -1,5 +1,5 @@
 {http://visir.is/radist-a-thingmanninn-sigmund-erni-a-bar-a-akureyri/article/2012120929518}∞{url}
-Ráðist var á þingmanninn Sigmund Erni Rúnarsson þegar hann var staddur á Ljóðahátíð hjá Ljóðaklúbbnum Akureyrska Populus Tremule á bar á Akureyri, aðfararnótt¢(cmp,suff,gensg-genpl|aðfaranótt) sunnudags.
+Ráðist var á þingmanninn Sigmund Erni Rúnarsson þegar hann var staddur á Ljóðahátíð hjá Ljóðaklúbbnum Akureyrska Populus Tremule á bar á Akureyri, {aðfararnótt}¢{cmp,suff,gensg-genpl|aðfaranótt} sunnudags.
 
 Í samtali við DV segir Sigmundur Ernir að drukkinn maður í miklu ójafnvægi hafi veist að honum með ofbeldi. 
 

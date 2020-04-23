@@ -7,7 +7,7 @@ BBC hefur fjallað ítarlega um nýja afbrigðið síðustu daga. Þar kemur fra
 
 Þá óttuðust heilbrigðisyfirvöld í Danmörku að veiran hefði greinst þar og voru fimm manns settir í sóttkví. Komið hefur í ljós að þeir voru ekki með þessa tilteknu veiru. 
 
-Alþjóðaheilbrigðisstofnunin fylgist náið með útbreiðslu veirunnar. Enn hefur verið talið ástæða til að setja hömlur á ferðir til {Saudi Arabíu}€{foreign,eng|Sádi-Arabíu} eða Quatar€(foreign,eng|Katar). Stofnunin vinnur þó náið með þarlendum yfirvöldum vegna þess að á næstunni flykkjast pílagrímar til Mekka vegna árlegar trúarhátíðar. 
+Alþjóðaheilbrigðisstofnunin fylgist náið með útbreiðslu veirunnar. Enn hefur verið talið ástæða til að setja hömlur á ferðir til {Saudi Arabíu}€{foreign,eng|Sádi-Arabíu} eða {Quatar}€{foreign,eng|Katar}. Stofnunin vinnur þó náið með þarlendum yfirvöldum vegna þess að á næstunni flykkjast pílagrímar til Mekka vegna árlegar trúarhátíðar. 
 
 Ítarlegar rannsóknir fara fram á veirunni og fyrstu niðurstöður benda til þess að hún eigi uppruna sinn í dýrum, og hagi sér á annan hátt en HABL(:)€.
 

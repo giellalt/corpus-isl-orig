@@ -3,7 +3,7 @@
 
 „Samt sem áður verð ég að viðurkenna það að ég mun ekki sakna hárkollunnar og brjóstahaldarans."
 
-Karl segist ekki vita hvort að Jóhanna hafi verið sátt með túlkun hans í gegnum tíðina. Áhrifamenn í íslensku samfélagi eru þó oft á tíðum ánægðir með að koma birtast á sjónvarpsskjám$(infl|sjónvarpsskjáum) landsmanna á laugardögum.
+Karl segist ekki vita hvort að Jóhanna hafi verið sátt með túlkun hans í gegnum tíðina. Áhrifamenn í íslensku samfélagi eru þó oft á tíðum ánægðir með að koma birtast á {sjónvarpsskjám}${infl|sjónvarpsskjáum} landsmanna á laugardögum.
 
 „Stjórnmálamenn er oft á€og tíðum ánægðir með að vera teknir fyrir í Spaugstofunni. Þetta þykir mikill heiður — vafasamur heiður það er að segja."
 

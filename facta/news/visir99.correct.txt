@@ -1,6 +1,6 @@
 {http://visir.is/lady-gaga-maetti-i-brudarkjol/article/2012120919825}∞{url}
 Poppstjarnan {Lady Gaga}∞{eng} virðist ekki ætla að verða uppiskroppa með aðferðir til að láta á sér bera þegar kemur að fatnaði og stíl.
 
-Gaga∞(eng) tók upp á því að mæta í stórglæsilegum og íburðarmiklum brúðakjól¢(cmp,genpl-gensg|brúðarkjól) í eftirpartý eftir að Ólympíuleikum fatlaðra lauk í London.
+{Gaga}∞{eng} tók upp á því að mæta í stórglæsilegum og íburðarmiklum {brúðakjól}¢{cmp,genpl-gensg|brúðarkjól} í eftirpartý eftir að Ólympíuleikum fatlaðra lauk í London.
 
-Eins og sjá má á meðfylgjand$(typo,suff,0-1|meðfylgjandi) mynd fór kjóllinn Gaga∞(eng) einstaklega vel!
+Eins og sjá má á {meðfylgjand}${typo,suff,0-1|meðfylgjandi} mynd fór kjóllinn {Gaga}∞{eng} einstaklega vel!

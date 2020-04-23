@@ -5,11 +5,11 @@ Hans er einn af fimm sakborningum í málinu en þeim er gefið að sök að haf
 
 Hans ítrekaði að hann hefði ekki vitað um að ólöglegt athæfi hefði verið að ræða þegar Vilhjálmur Símon Hjartarson, einn sakborninga, bað hann um afnot af bankareikningi sínum.
 
-Sex og hálf milljón krónur voru lagðar inn á reikninga Hans. Hann sá síðan um¥(um að) koma fjármununum til Vilhjálms.
+Sex og hálf milljón krónur voru lagðar inn á reikninga Hans. Hann sá síðan {um}¥{um að} koma fjármununum til Vilhjálms.
 
-„Ég veit hversu fáranlega$(vow,stem,a-á|fáránlega) þetta hljómar," sagði Hans. „En ég hélt að þetta væri löglegt."
+„Ég veit hversu {fáranlega}${vow,stem,a-á|fáránlega} þetta hljómar," sagði Hans. „En ég hélt að þetta væri löglegt."
 
-Hansútskýrði$(cmp,noun+verb,1-2|Hans útskýrði) að hann hafi£hefði viljað kaupa sér íbúð í Hafnarfirði og hefði leitað til bróður síns til¥(til að) fjármagna kaupin. Slysabætur sem bróðirinn hafði þá nýlega fengið átti að nota til kaupa íbúðina.
+{Hansútskýrði}${cmp,noun+verb,1-2|Hans útskýrði} að hann hafi£hefði viljað kaupa sér íbúð í Hafnarfirði og hefði leitað til bróður síns {til}¥{til að} fjármagna kaupin. Slysabætur sem bróðirinn hafði þá nýlega fengið átti að nota til kaupa íbúðina.
 
 „Síðan kom Vilhjálmur og sagði að hann gæti reddað þessu,"sagði Hans. Rúmlega tvær milljónir króna voru lagðar inn á hvern bankareikning Hans. 
 

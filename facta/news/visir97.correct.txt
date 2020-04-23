@@ -5,4 +5,4 @@ Dönsk stjórnvöld hafa allt aðra afstöðu til kínverskra fjárfestinga en �
 
 Samskipti Dana og Kínverja hafa oft á€og tíðum verið stirð en árið 2008 gerðu þjóðirnar með sér sérstakan samstarfssamning á sviði loftslagsmála, orkumála og menntunar. Síðan þá hafa samskipti landanna verið með ágætum.
 
-Í umfjöllun Politiken∞(dan) um málið segir að markmið {Helle Thorning}∞{dan} í heimsókninni til Kína sé m.a. að efla ennfrekar$(cmp,adv+adv,1-2|enn frekar) samstarf þjóðanna og styrkja það.
+Í umfjöllun {Politiken}∞{dan} um málið segir að markmið {Helle Thorning}∞{dan} í heimsókninni til Kína sé m.a. að efla {ennfrekar}${cmp,adv+adv,1-2|enn frekar} samstarf þjóðanna og styrkja það.

@@ -9,7 +9,7 @@ Forsaga málsins er sú að í apríl í fyrra keypti maður um fimmtugt lottóm
 
 Félaginn sem var með í för bar vitni fyrir dómara í morgun. Hann sagði að hann hefði spurt vinningshafann út í þessa eina milljón sem hann sagðist ætla að gefa honum, en fengið þau svör frá manninum að samkomulagið hefði aðeins gilt ef hann hefði fengið „þann stóra" ekki bónusvinninginn, eins og var raunin. 
 
-Fyrir dómara sagðist vinningshafinn hafa fengið símtal frá manni sem héti Elís og¥(og að) hann hafi£hefði spurt hvort þeir gætu ekki hisst$(infl|hist). Hann sagðist ekki vita hvers vegna hann hafi£hefði viljað hitta hann en hann hafi engu að síður ákveðið að hitta hann.
+Fyrir dómara sagðist vinningshafinn hafa fengið símtal frá manni sem héti Elís {og}¥{og að} hann hafi£hefði spurt hvort þeir gætu ekki {hisst}${infl|hist}. Hann sagðist ekki vita hvers vegna hann hafi£hefði viljað hitta hann en hann hafi engu að síður ákveðið að hitta hann.
 
 Þegar þeir hittast£hittust segist£segir vinningshafinn að Elís Helgi hafi sagt við hann að hann skuldaði pening vegna lottóvinningsins. „Ég þrætti fyrir það," sagði vinningshafinn fyrir dómara í morgun og útskýrði að samkomulagið hefði snúist um stóra vinninginn en ekki bónusvinninginn.
 
@@ -25,7 +25,7 @@ Maðurinn segist svo hafa hitt á Elís í hádegismat þar sem honum sé tjáð
 
 Bræðurnir lýsa því þannig að bankað hafi verið á hurðina um miðjan dag. Þegar vinningshafinn hafi opnað hurðina hafi Elís ruðst inn í íbúðina og sagst vera að rukka 500 þúsund krónurnar. Steindór hafi verið með honum í för og segir vinningshafinn að Steindór hafi sagt við Elís Helga: „Göngum í þetta" og að hann hafi verið með vasahníf í hönd.
 
-Við þetta hafi bróðirinn orðið mjög hræddur og sagt við vinningshafann, bróður sinn, að hann ætti bara¥(bara að) borga þeim og gera eins og þeir segja. 
+Við þetta hafi bróðirinn orðið mjög hræddur og sagt við vinningshafann, bróður sinn, að hann ætti {bara}¥{bara að} borga þeim og gera eins og þeir segja. 
 
 Þá hafi Elís Helgi og Steindór ákveðið að vinningshafinn færi með Elís Helga út í banka og að Steindór myndi vera eftir á heimilinu með bróðurnum. 
 
@@ -33,9 +33,9 @@ Bróðirinn geðlæknir þjálfaður í áhættumati
 
 Steindóri Hreini og bróðurnum ber ekki saman um hvað hafi átt sér stað á heimilinu. Steindór segir að það hafi aldrei verið í umræðunni að beita ofbeldi og neitaði að hafa svipt manninn frelsi sínu. Þá sagðist hann aldrei hafa hótað honum. Máli sínu til stuðnings sagði hann að bróðirinn hafi spurt sig hvort hann mætti klæða sig í sokka. Hann hafi svarað: „Já auðvitað, þú átt heima hérna." Hann neitaði að hafa hníf meðferðis en sagði að á leið sinni út úr íbúðinni hafi£hefði hann séð vasahníf í íbúðinni og spurt hvort hann mætti eiga hann.
 
-Bróðirinn er rúmlega fertugur læknir og er í sérfræðinámi erlendis í geðlækningum. Hann sagðist hafa séð að Steindór Hreinn væri undir áhrifum amfetamíns. „Ég er þjálfaður í áhættumati. Ég var í mikilli hættu," sagði hann. Hann sagði að Steindór Helgi hefið¢(meta,suff,ið-ði|hefði) farið á leitarvefinn Google∞(eng) og slegið inn nafn sitt. „Þá sá ég að þetta væri maður sem hafði klippt fingur af manni á Akureyri. Ég var að vinna á sjúkrahúsinu á Akureyri þegar þetta kom upp og þekkti því þetta mál."
+Bróðirinn er rúmlega fertugur læknir og er í sérfræðinámi erlendis í geðlækningum. Hann sagðist hafa séð að Steindór Hreinn væri undir áhrifum amfetamíns. „Ég er þjálfaður í áhættumati. Ég var í mikilli hættu," sagði hann. Hann sagði að Steindór Helgi {hefið}¢{meta,suff,ið-ði|hefði} farið á leitarvefinn {Google}∞{eng} og slegið inn nafn sitt. „Þá sá ég að þetta væri maður sem hafði klippt fingur af manni á Akureyri. Ég var að vinna á sjúkrahúsinu á Akureyri þegar þetta kom upp og þekkti því þetta mál."
 
-Hann sagðist hafa verið mjög hræddur og óttast um líf sitt enda vissi hann að menn á amfetamíni gætu verið hættulegir. Hann reynt¥(hefði reynt) að halda uppi eðlilegum samræðum, enda taldi hann það vera¥(vera það) besta í stöðunni.
+Hann sagðist hafa verið mjög hræddur og óttast um líf sitt enda vissi hann að menn á amfetamíni gætu verið hættulegir. Hann {reynt}¥{hefði reynt} að halda uppi eðlilegum samræðum, enda taldi hann það {vera}¥{vera það} besta í stöðunni.
 
 Þjónustufulltrúinn hringdi á lögregluna
 
@@ -47,9 +47,9 @@ Saksóknari í málinu sagði að það hefði tekið lögregluna 25 - 30 mínú
 
 Kíkir alltaf í „kíkjugatið"
 
-Bræðurnir báru báðir fyrir dómara að þeir væri¢(typo,suff,i-u|væru) mjög hræddir eftir atvikið og vera¥0 mjög vara£varir um sig. Vinningshafinn sagði að óttinn og hræðslan hefði ekki komið fyrr en nokkru eftir atvikið. „Ég taldi mig vera meira£meiri mann en ég var. Ég er orðinn ofur varkár og vakna oft á nóttunni. Ég er ekki sá sami og ég var. Mér finnst ég ekki vera að skána."
+Bræðurnir báru báðir fyrir dómara að þeir {væri}¢{typo,suff,i-u|væru} mjög hræddir eftir atvikið og vera¥0 mjög vara£varir um sig. Vinningshafinn sagði að óttinn og hræðslan hefði ekki komið fyrr en nokkru eftir atvikið. „Ég taldi mig vera meira£meiri mann en ég var. Ég er orðinn ofur varkár og vakna oft á nóttunni. Ég er ekki sá sami og ég var. Mér finnst ég ekki vera að skána."
 
-Hinn bróðirinn sagðist vera óttasleginn og þegar bankað væri heima hjá honum, myndi¥0 hann¥(kíkti hann) ætíð kíkja¥0 fyrst í „kíkjugatið". 
+Hinn bróðirinn sagðist vera óttasleginn og þegar bankað væri heima hjá honum, myndi¥0 {hann}¥{kíkti hann} ætíð kíkja¥0 fyrst í „kíkjugatið". 
 
 Elís Helgi og Steindór Hreinn eiga báðir langa afbrotasögu. Elís Helgi var meðal annars fundinn sekur um morð á áttræðri konu, móður Gunnars Þorsteinssonar í Krossinum og Steindór Hreinn var dæmdur fyrir að klippa fingur af manni á Akureyri.
 
