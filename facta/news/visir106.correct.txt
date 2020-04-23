@@ -7,7 +7,7 @@ Handrit {kvimyndarinnar}${typo,stem,0-1|kvikmyndarinnar} byggir á atburði sem 
 
 Sagan er átakamikil og segir í dómi {Hollywood Reporter}∞{eng} að senur í fyrrihluta myndarinnar sem gerast úti á sjó séu mjög áhrifamiklar og raunhæfar og minni á bestu verk {James Cameron}∞{eng}, leikstjóra {Titanic}∞{eng} og {Avatar}∞{eng} og {Wolfgang Petersen}∞{eng}, sem meðal annars leikstýrði {the Perfect Storm}∞{eng} og {Das Boot}∞{tys}. Gagnrýnandi {Hollywood Reporter}∞{eng} telur hins vegar myndina missa kraft í seinni hlutanum þar sem Guðlaugur eða Gulli, sem leikinn er af Ólafi Darra Ólafssyni, er kominn í land og þarf að takast á við afleiðingar þess að vera á lífi. Þá segir í dómnum að mynd- og hljóðvinnslu myndarinnar sé framúrskarandi og styðji vel við stórbrotna {atburðarrásina}¢{cmp,suff,gensg-genpl|atburðarásina}.
 
-{New York Times}∞{eng} segir í umfjöllun sinni um kvikmyndahátíðina í {Toronto}∞{eng} að tugir mynda á hátíðinni séu byggðar£byggðir á raunverulegum atburðum og er þar sérstaklega minnst á sögu Guðlaugs og talað um að ískaldur sjórinn, hvassir steinarnir og óendanlegt svartnætti vofi yfir manninum í sögu um tilveru hans og tómleika. 
+{New York Times}∞{eng} segir í umfjöllun sinni um kvikmyndahátíðina í {Toronto}∞{eng} að tugir mynda á hátíðinni séu {byggðar}£{byggðir} á raunverulegum atburðum og er þar sérstaklega minnst á sögu Guðlaugs og talað um að ískaldur sjórinn, hvassir steinarnir og óendanlegt svartnætti vofi yfir manninum í sögu um tilveru hans og tómleika. 
 
 Þá er myndin lofuð í hástert á heimasíðu {Screen Daily}∞{eng} en þar segir meðal annars að glæsilegt sjónarspil og draugaleg hljóð miskunnarlausrar náttúrunnar ásamt hrífandi söguþræði ætti að lokka til sín marga áhorfendur.
 

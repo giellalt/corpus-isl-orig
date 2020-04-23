@@ -1,9 +1,9 @@
 {http://www.visir.is/samdi-besta-lagid-vid-texta-um-ojofnud/article/2012120929626}∞{url}
-Lokatónninn í átakinu Komum heiminum í lag verður slegin£sleginn í kvöld. Fjöldi landsþekktra {tónlistamanna}¢{cmp,genpl-gensg,1-2|tónlistarmanna} kemur þar fram og syngur eigið lag við texta um ójöfnuð heimsins. Almenningur fékk einnig að spreyta sig við lagasmíð og hitti Karen {Kjartnasdóttir}${meta,stem,na-an|Kjartansdóttir} 15 ára stúlku úr Vestmannaeyjum sem þótti hafa samið besta lagið við textann. 
+Lokatónninn í átakinu Komum heiminum í lag verður {slegin}£{sleginn} í kvöld. Fjöldi landsþekktra {tónlistamanna}¢{cmp,genpl-gensg,1-2|tónlistarmanna} kemur þar fram og syngur eigið lag við texta um ójöfnuð heimsins. Almenningur fékk einnig að spreyta sig við lagasmíð og hitti Karen {Kjartnasdóttir}${meta,stem,na-an|Kjartansdóttir} 15 ára stúlku úr Vestmannaeyjum sem þótti hafa samið besta lagið við textann. 
 
 Í kvöld lýkur vikulöngu átaki frjálsra félagasamtaka sem starfa að alþjóðlegri þróunarsamvinnu með {tóleikum}${typo,stem,0-1|tónleikum} á Rósenberg. Þetta er í annað sinn sem þessi hópur stendur að slíku átaki en áherslan í ár er á ójöfnuð í heiminum.
 
-Þjóðþekktir tónlistarmenn voru fengnir til að semja lag við texta Sævar£Sævars Sigurgeirssonar, Komum heiminum í lag, til að vekja athygli á mikilvægi og gildi þróunarsamvinnu. 
+Þjóðþekktir tónlistarmenn voru fengnir til að semja lag við texta {Sævar}£{Sævars} Sigurgeirssonar, Komum heiminum í lag, til að vekja athygli á mikilvægi og gildi þróunarsamvinnu. 
 
 Almenningi var líka gefinn kostur á að spreyta sig á texta Sævars og nú hefur eitt þeirra laga verið valið til að hefja tónleikana í kvöld. Lagið er eftir 15 ára stúlku frá Vestmannaeyjum.
 

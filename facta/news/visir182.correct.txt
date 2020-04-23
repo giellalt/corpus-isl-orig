@@ -1,7 +1,7 @@
 {http://www.visir.is/forkastanleg-vinnubrogd-og-an-fordaema/article/2012120928773}∞{url}
 Það eru forkastanleg vinnubrögð og án fordæma að fresta því að senda fjáraukalögin til Ríkisendurskoðunar líkt og meirihluti fjárlaganefndar ákvað í gær. Þetta segir þingmaður Sjálfstæðisflokksins í nefndinni en hann telur {að}¥{að að} baki ákvörðuninni blundi tilhneiging til að leyna {almennig}${typo,der,0-1|almenning} upplýsingum.
 
-Fjárlaganefnd ákvað á fundi sínum í gær að bíða með það að senda fjáraukalögin til Ríkisendurskoðunar vegna trúnaðarbrests sem ríkir á milli Alþingi£Alþingis og stofnunarinnar. Meirihluti nefndarinnar tók þessa ákvörðun og segir að með henni sé verið að senda ákveðin skilaboð. 
+Fjárlaganefnd ákvað á fundi sínum í gær að bíða með það að senda fjáraukalögin til Ríkisendurskoðunar vegna trúnaðarbrests sem ríkir á milli {Alþingi}£{Alþingis} og stofnunarinnar. Meirihluti nefndarinnar tók þessa ákvörðun og segir að með henni sé verið að senda ákveðin skilaboð. 
 
 Ríkisendurskoðun hefur sætt gagnrýni síðustu daga fyrir það að hafa tekið átta ár í vinnu við skýrslu um {kosntað}${meta,stem,nt-tn|kostnað} við nýtt bókhaldskerfi. 
 

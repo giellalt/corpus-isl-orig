@@ -15,6 +15,6 @@ Vilmundur segir ljóst að þögul hjartaáföll af þessu tagi séu alveg jafnh
 
 Hann brýnir því fyrir fólki að hika aldrei við að leita til læknis. 
 
-„Ef að¥0 fólk er með einhver einkenni, {þyngls}${meta,stem,ls-sl|þyngsl} fyrir brjósti sérstaklega áreynslubundið, verk út í handleggi, þá á það ekkert að hika við að leita til læknis. Við viljum frekar sjá of marga en of fáa," segir hann.
+„Ef {að}¥{0} fólk er með einhver einkenni, {þyngls}${meta,stem,ls-sl|þyngsl} fyrir brjósti sérstaklega áreynslubundið, verk út í handleggi, þá á það ekkert að hika við að leita til læknis. Við viljum frekar sjá of marga en of fáa," segir hann.
 
 

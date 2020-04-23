@@ -9,7 +9,7 @@ Hinir ákærðu eru: Vilhjálmur Símon Hjartarson, Jón Ólafur Róbertsson, Ha
 
 Vilhjálmur og Jón hafa báðir játað sína aðild að málinu. Jón heldur því hins vegar fram að hann hafi ekki vitað að um ólöglegt athæfi hafi verið að ræða. Hans Aðalsteinn tekur í {saman}¢{typo,stem,1-0|sama} streng en neitar sök {engu}¥{engu að} síður.
 
-Helgi Ragnar er sagður hafa stjórnað svikunum. Í vitnisburði sínum sagði Vilhjálmur að Helgi hafi£hefði leiðbeint honum, bent honum á að fela húðflúr sín þegar hann tók út peningana og kennt sér að „orða hlutina."
+Helgi Ragnar er sagður hafa stjórnað svikunum. Í vitnisburði sínum sagði Vilhjálmur að Helgi {hafi}£{hefði} leiðbeint honum, bent honum á að fela húðflúr sín þegar hann tók út peningana og kennt sér að „orða hlutina."
 
 Helgi Ragnar vildi lítið tjá sig um sakargiftirnar. Hann vildi ekki kannast við þau gögn sem saksóknari setti fram – þar á meðal smáskilaboð sem fundust í farsíma hans en þar stóð: „Við verðum að þrýsta á Íbúðalánasjóð."
 

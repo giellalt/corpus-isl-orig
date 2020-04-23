@@ -15,11 +15,11 @@ Verði af sameiningu fari skuldir Álftnesinga niður í 3,2 {milljaða}${typo,s
 
 En hvaða hag hefur ríkið af sameiningunni?
 
-"Þegar Álftanes fer í þrot tekur fjárhagsstjórn við rekstrinum og það var ljóst að sveitarfélag með 2500 sveitarfélag€íbúa með svo miklar skuldir sem þá voru gat ekki rekið sig. Ríkið setti þá skilyrði að ef aðstoð ætti að berast þaðan yrði það að sameinast stærra sveitarfélagi því þetta væri ekki hagkvæm {rekstraeining}¢{typo,suff,0-1|rekstrareining}."
+"Þegar Álftanes fer í þrot tekur fjárhagsstjórn við rekstrinum og það var ljóst að sveitarfélag með 2500 {sveitarfélag}€{íbúa} með svo miklar skuldir sem þá voru gat ekki rekið sig. Ríkið setti þá skilyrði að ef aðstoð ætti að berast þaðan yrði það að sameinast stærra sveitarfélagi því þetta væri ekki hagkvæm {rekstraeining}¢{typo,suff,0-1|rekstrareining}."
 
 Skipulagsvald á svæðinu vegur auk þess þungt í þessu máli.
 
-"Síðast en ekki síst, sem er mikilvægasta atriðið að mínu mati, er að {Garðbær}¢{cmp,suff,st-genpl|Garðabær} hefur þá skipulagsvald út á Álftanesið. Við eigum þá ekki hættu á að annað sveitarfélag, til dæmis Reykjavík, sem¥0 hefði skipulagsvaldið ef Álftanes myndi sameinast því sem mun væntanlega gerast hafni fólk sameiningunni. Þá gæti maður séð fyrir sér að menn færu að velta fyrir sér flugvelli á Lönguskerjum og svo framvegis og það myndi ég ekki vilja sjá," segir Gunnar. 
+"Síðast en ekki síst, sem er mikilvægasta atriðið að mínu mati, er að {Garðbær}¢{cmp,suff,st-genpl|Garðabær} hefur þá skipulagsvald út á Álftanesið. Við eigum þá ekki hættu á að annað sveitarfélag, til dæmis Reykjavík, {sem}¥{0} hefði skipulagsvaldið ef Álftanes myndi sameinast því sem mun væntanlega gerast hafni fólk sameiningunni. Þá gæti maður séð fyrir sér að menn færu að velta fyrir sér flugvelli á Lönguskerjum og svo framvegis og það myndi ég ekki vilja sjá," segir Gunnar. 
 
 Hægt er að kynna sér tillögurnar nánar á síðunni {okkarval.is}∞{url}.
 

@@ -7,7 +7,7 @@ Aðalmeðferð í máli Más gegn Seðlabanka Íslands hófst í morgun í Héra
 
 Sama dag og Már tók við embættinu, þann 20. ágúst var lögum um kjararáð breytt þannig að valdið til að ákveða laun yfirmanna {stofnanna}¢{typo,suff,2-1|stofnana} og ríkisfyrirtækja, þar á meðal seðlabankastjóra var fært yfir til kjararáðs. Í lögunum var einnig kveðið á um að dagvinnulaun yfirmanna ættu ekki að vera hærri en föst laun forsætisráðherra, eða 935 þúsund krónur.
 
-Í mars árið 2010 voru dagvinnulaun Más lækkuð {ennfrekar}${cmp,adv+adv,1-2|enn frekar} eða í 862 þúsund krónur á mánuði. En hann fengi fasta yfirvinnutíma. Alls yrði£yrðu launin hans því um 1266 þúsund krónur. 
+Í mars árið 2010 voru dagvinnulaun Más lækkuð {ennfrekar}${cmp,adv+adv,1-2|enn frekar} eða í 862 þúsund krónur á mánuði. En hann fengi fasta yfirvinnutíma. Alls {yrði}£{yrðu} launin hans því um 1266 þúsund krónur. 
 
 Og það er þetta sem Már er ósáttur við; að laun hans hafa lækkað um rúmlega 300 þúsund krónur frá því hann skipaður í embætti.
 Andri, lögmaður Más, sagði að ekki sé hægt að {miðað}¢{typo,suff,1-0|miða} við að Már hafi orðið seðlabankastjóri þann 20. ágúst, sama dag og hann tók við embættinu. Heldur ætti að miða við 26. júní sama ár, eða sama dag og Jóhanna Sigurðardóttir, forsætisráðherra, skipaði hann í embættið. 
@@ -20,11 +20,11 @@ Andri sagði að það væri "bullandi mismunun að menn séu sviptir þessum r�
 
 Karl Ólafur vísaði í fjölmarga dóma Hæstaréttar í málflutningi sínum. Í upphafi málflutningsins sagði hann að það væri mat sitt að Seðlabanki Íslands ætti ekki aðild á málinu, þar sem málið snérist um að ógilda úrskurð kjararáðs. "Því ber að sýkna hann á grundvelli aðildarskorts," sagði hann.
 
-Hann sagði ákvörðunina, að lækka launin, væri¥0 {ekki}¥{ekki vera} á forræði bankaráðs, nema að óverulegu {leiti}¢{vow,stem,i-y|leyti}. Hann sagði að kjararáð væri stjórnvald og því gæti Seðlabankinn ekki borið stjórnsýslulega ábyrgð á þeirra ákvörðunum.
+Hann sagði ákvörðunina, að lækka launin, {væri}¥{0} {ekki}¥{ekki vera} á forræði bankaráðs, nema að óverulegu {leiti}¢{vow,stem,i-y|leyti}. Hann sagði að kjararáð væri stjórnvald og því gæti Seðlabankinn ekki borið stjórnsýslulega ábyrgð á þeirra ákvörðunum.
 
-Þrátt fyrir það fór hann yfir marga dóma Hæstaréttar, sem og Mannréttindadómstóls Evrópu máli sínu til stuðnings. Hann sagði meðal annars að fyrir úrskurð kjararáðs í mars 2010 hafi£hefði Má verið veittur andmælafrestur og að lögmenn SÍ og Más hafi£hefðu sent fjölda tölvupósta {sína}¢{typo,suff,1-0|sín} á milli. 
+Þrátt fyrir það fór hann yfir marga dóma Hæstaréttar, sem og Mannréttindadómstóls Evrópu máli sínu til stuðnings. Hann sagði meðal annars að fyrir úrskurð kjararáðs í mars 2010 {hafi}£{hefði} Má verið veittur andmælafrestur og að lögmenn SÍ og Más {hafi}£{hefðu} sent fjölda tölvupósta {sína}¢{typo,suff,1-0|sín} á milli. 
 
-Þá sagði hann að með launalækkuninni í mars hafi£hefði Már verið færður í sama flokk og Hæstaréttardómarar. 
+Þá sagði hann að með launalækkuninni í mars {hafi}£{hefði} Már verið færður í sama flokk og Hæstaréttardómarar. 
 
 Málið var dómtekið og má búast við niðurstöðu á næstu vikum.
 

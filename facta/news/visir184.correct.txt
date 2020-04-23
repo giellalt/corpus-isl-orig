@@ -1,7 +1,7 @@
 {http://www.visir.is/bidjast-afsokunar-a-ad-hafa-synt-sjalfsmord-i-beinni/article/2012120928781}∞{url}
 Bandaríska fréttastöðin {Fox}∞{eng} hefur beðist afsökunar á því að hafa sýnt sjálfsmorð í beinni útsendingu í gærkvöldi. 
 
-Sýndar voru myndir sem teknar voru úr þyrlu af eftirför lögreglu sem reyndi að stöðva ökumann vegna {hraðaaksturs}¢{typo,suff,2-1|hraðaksturs}. Maðurinn ók að lokum út í eyðimörk, hljóp út úr bíl sínu£sínum, tók upp byssu og skaut sig í höfuðið. 
+Sýndar voru myndir sem teknar voru úr þyrlu af eftirför lögreglu sem reyndi að stöðva ökumann vegna {hraðaaksturs}¢{typo,suff,2-1|hraðaksturs}. Maðurinn ók að lokum út í eyðimörk, hljóp út úr bíl {sínu}£{sínum}, tók upp byssu og skaut sig í höfuðið. 
 
 {Ökurmaðurinn}${typo,stem,1-0|Ökumaðurinn} er grunaður um að hafa stolið bílnum. 
 

@@ -1,5 +1,5 @@
 {http://visir.is/thrir-unglingar-a-spitala-eftir-landadrykkju-/article/2012120928825}∞{url}
-Þrír unglingar, ein stúlka og tveir piltar, þrettán og fimmtán ára, voru flutt á Heilbrigðisstofnun Suðurnesja í fyrradag, eftir að þau£þeir höfðu drukkið landa, orðið {öfurölvi}${vow,stem,ö-o|ofurölvi} og veik£veikir. 
+Þrír unglingar, ein stúlka og tveir piltar, þrettán og fimmtán ára, voru flutt á Heilbrigðisstofnun Suðurnesja í fyrradag, eftir að {þau}£{þeir} höfðu drukkið landa, orðið {öfurölvi}${vow,stem,ö-o|ofurölvi} og {veik}£{veikir}. 
 
 Lögreglan á Suðurnesjum hóf þegar rannsókn og handtók rúmlega tvítugan karlmann sem viðurkenndi sölu landa, en vildi þó ekki kannast við að hafa selt unglingunum brugg. Hann var með tugi þúsunda króna, þegar hann var handtekinn og lagði lögregla hald á þá fjármuni vegna gruns um að þeir séu ágóði af landasölu.
 

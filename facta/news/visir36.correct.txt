@@ -3,7 +3,7 @@
 
 Hátíðin hefur verið haldin árlega frá 1996 og er tilgangur hennar að verðlauna fólk undir 25 ára aldri á hinum ýmsu sviðum sem lætur verkin tala.
 
-Á rauða dreglinum mátti sjá {Kelly Osbourn§Osbourne}∞{eng}, {Lea Michele}∞{eng}, {Olivia Munn}∞{eng}, {Krisen§Kristen Bell}∞{eng} og {Sophi§Sophia Bush}∞{eng} svo {einhverir}${typo,suff,0-1|einhverjir} séu nefndir. 
+Á rauða dreglinum mátti sjá {Kelly {Osbourn}§{Osbourne}}∞{eng}, {Lea Michele}∞{eng}, {Olivia Munn}∞{eng}, {{Krisen}§{Kristen} Bell}∞{eng} og {{Sophi}§{Sophia} Bush}∞{eng} svo {einhverir}${typo,suff,0-1|einhverjir} séu nefndir. 
 
 Sjá má þau öll og fleiri til í meðfylgjandi myndasafni.
 

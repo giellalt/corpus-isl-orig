@@ -11,5 +11,5 @@ Greiðslur til lögmannsstofu Páls Eiríkssonar, Lögfræðiráðgjafar PE slf.
 
 Þessu til viðbótar hafa heildargreiðslur {þrotabússins}${typo,suff,2-1|þrotabúsins} til lögmannstofa þeirra Páls og Steinunnar numið tæplega 300 milljónum króna frá árinu 2009. Samtals gerir þetta ríflega 850 milljónir króna, eða sem nemur ríflega 20 milljónum króna á mánuði.
 
-Samkvæmt heimildum fréttstofu eru lífeyrissjóðirnir nú með gögnin til skoðunar og meðferðar og er ekki útilokað að þeir leita£leiti réttar síns fyrir dómstólum, með það fyrir augum að lækka kostnað við slitin á þrotabúinu, en sjóðirnir báðir hafa þegar tapað háum fjárhæðum vegna falls Glitnis, fyrir tæpum fjórum árum.
+Samkvæmt heimildum fréttstofu eru lífeyrissjóðirnir nú með gögnin til skoðunar og meðferðar og er ekki útilokað að þeir {leita}£{leiti} réttar síns fyrir dómstólum, með það fyrir augum að lækka kostnað við slitin á þrotabúinu, en sjóðirnir báðir hafa þegar tapað háum fjárhæðum vegna falls Glitnis, fyrir tæpum fjórum árum.
 

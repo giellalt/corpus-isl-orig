@@ -9,4 +9,4 @@ Hong Kong er vaxandi miðstöð viðskipta inn á hin öflugu og rísandi marka�
 
 Tækifærin sem nýi fríverslunarsamningurinn opnar liggja því ekki aðeins í aðgangi að mörkuðum Hong Kong heldur líka í tækifærunum sem hann skapar til að koma íslenskri framleiðslu á framfæri gegnum frumkvöðla í Hong Kong á hinn risastóra markað á meginlandi Kína, og Suðaustur-Asíu, segir Össur jafnframt.
 
-Samningurinn við EFTA löndin Íslands£Ísland {Lichtenstein}${typo,stem,0-1|Liechtenstein} og Sviss tekur gildi á mánudag en við Noreg tveimur mánuðum síðar, eða fyrsta nóvember.
+Samningurinn við EFTA löndin {Íslands}£{Ísland} {Lichtenstein}${typo,stem,0-1|Liechtenstein} og Sviss tekur gildi á mánudag en við Noreg tveimur mánuðum síðar, eða fyrsta nóvember.

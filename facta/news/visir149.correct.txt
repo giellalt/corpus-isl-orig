@@ -7,13 +7,13 @@ Saksóknari byrjaði á því að forvitnast um upphaf málsins. Vilhjálmur sag
 
 Vilhjálmur sagði að Helgi Ragnar Guðmundsson, sem einnig er ákærður fyrir sína aðild að málinu, hafi í raun leiðbeint honum að öllu leyti – kennt honum að orða hlutina, að fela húðflúrin og vera snyrtilegur í heimsóknum sínum í bankann.
 
-„Helgi segir mér að búið að sé að greiða út lánið og að nú þurfti£þurfi að millifæra. Hann sagði mér að rautt flagg myndi fara upp ef ég myndi taka út margar milljónir í einu." Því næst var spurt hvort að nægilega mikið af peningum hefði ávallt verið í viðskiptabönkunum. „Í eitt skipti var ekki nóg af peningum."
+„Helgi segir mér að búið að sé að greiða út lánið og að nú {þurfti}£{þurfi} að millifæra. Hann sagði mér að rautt flagg myndi fara upp ef ég myndi taka út margar milljónir í einu." Því næst var spurt hvort að nægilega mikið af peningum hefði ávallt verið í viðskiptabönkunum. „Í eitt skipti var ekki nóg af peningum."
 
 Verjandi Helga Ragnars spurði hvort að Vilhjálmur hefði einhvern tíma séð skjólstæðing sinn útbúa þessi skjöl? „Nei, aldrei," sagði Vilhjálmur þá. Hann bar síðan fyrir sig minnisleysi þegar verjandi forvitnaðist um misræmi í framburði hans í lögregluskýrslu.
 
 Svik fimmmenninganna þykja afar flókin. Vilhjálmur sagði að hann hefði litla sem enga þekkingu á fjármálum yfirleitt. Þá svaraði hann spurningu {sakóknara}${typo,stem,0-1|saksóknara} neitandi um hvort að hann þekkti fjármálaupplýsingafyrirtækið {Creditinfo}∞{eng}.
 
-Vilhjálmur lagði peninga inn á sjálfan sig tvo félaga sína, Hans Aðalstein Helgason og Jens Tryggva Jensson sem einnig njóta réttarstöðu sakbornings£sakborninga í þessu máli. Hver færsla var um það bil ein og hálf milljón. Þá sagði Vilhjálmur að þeir Aðalsteinn og Jens hafi£hefðu vitað að hann hefði verið í neyslu á þessum tíma.
+Vilhjálmur lagði peninga inn á sjálfan sig tvo félaga sína, Hans Aðalstein Helgason og Jens Tryggva Jensson sem einnig njóta réttarstöðu {sakbornings}£{sakborninga} í þessu máli. Hver færsla var um það bil ein og hálf milljón. Þá sagði Vilhjálmur að þeir Aðalsteinn og Jens {hafi}£{hefðu} vitað að hann hefði verið í neyslu á þessum tíma.
 
 „Ég var vel spíttaður á þessum tíma," sagði Vilhjálmur. „Ég hef snúið við blaðinu. Ég á lítinn strák núna og ég vil ekki vera lengi frá honum."
 
