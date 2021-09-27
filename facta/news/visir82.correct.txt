@@ -1,11 +1,11 @@
 {http://visir.is/margir-fa-kransaedastiflu-an-thess-ad-hafa-hugmynd-um-thad/article/2012120909266}∞{url}
-Svokölluð þögul hjartaáföll eru stærra vandamál en áður hefur verið talið. Þetta leiðir ný rannsókn, sem unnin var hér á landi, í ljós. 
+Svokölluð þögul hjartaáföll eru stærra vandamál en áður hefur verið talið. Þetta leiðir ný rannsókn, sem unnin var hér á landi, í ljós.
 
-Flestir kunna að telja að {kransæðastíflu}£{x|kransæðastífla} fari ekki {framhjá}${cmp,adv+pp,1-2|fram hjá} þeim sem í slíku lenda en þöglar kransæðastíflur eru þó tvöfalt algengari á meðal eldra fólks og hafa alvarlegar afleiðingar. Þetta kemur fram í rannsókn sem fjallað er um í nýjasta hefti (The journal of {amerivam}§{american} medical {association}}∞{eng}. Rannsóknin var unnin hér á landi en tæplega þúsund Íslendingar tóku þátt í henni. Hjartavernd kom að rannsókninni en þar er Vilmundur Guðnason forstöðulæknir. 
+Flestir kunna að telja að {kransæðastíflu}£{x|kransæðastífla} fari ekki {framhjá}${cmp,adv+pp,1-2|fram hjá} þeim sem í slíku lenda en þöglar kransæðastíflur eru þó tvöfalt algengari á meðal eldra fólks og hafa alvarlegar afleiðingar. Þetta kemur fram í rannsókn sem fjallað er um í nýjasta hefti {The journal of {amerivam}§{american} medical association}∞{eng}. Rannsóknin var unnin hér á landi en tæplega þúsund Íslendingar tóku þátt í henni. Hjartavernd kom að rannsókninni en þar er Vilmundur Guðnason forstöðulæknir.
 
 „Hún leiðir í ljós að fyrir hvern einstakling sem hefur fengið kransæðastíflu og veit af því eru tveir sem hafa ekki hugmynd um að þeir hafa fengið kransæðastíflu," segir Vilmundur.
 
-Vilmundur segir ljóst að þögul hjartaáföll af þessu tagi séu alveg jafnhættuleg og áföll þar sem sjúklingurinn hefur verið lagður inn á sjúkrahús. 
+Vilmundur segir ljóst að þögul hjartaáföll af þessu tagi séu alveg jafnhættuleg og áföll þar sem sjúklingurinn hefur verið lagður inn á sjúkrahús.
 
 „Það sem er kannski mest um vert er að um þrjátíu prósent af þessum einstaklingum hafa látist á þessum sex árum miðað við ef maður ber saman við þá sem hafa ekki fengið {kransæðarstíflu}¢{cmp,suff,gensg-genpl|kransæðastíflu}, það eru innan við tuttugu prósent," segir Vilmundur.
 
@@ -13,8 +13,6 @@ Vilmundur segir ljóst að þögul hjartaáföll af þessu tagi séu alveg jafnh
 
 „Oft þegar maður ræðir við fólk þá man það eftir að hafa fengið sérstaklega slæma flensu eða eitthvað svoleiðis og það áttar sig bara ekki á einkennunum," segir Vilmundur.
 
-Hann brýnir því fyrir fólki að hika aldrei við að leita til læknis. 
+Hann brýnir því fyrir fólki að hika aldrei við að leita til læknis.
 
 „Ef {að}¥{0} fólk er með einhver einkenni, {þyngls}${meta,stem,ls-sl|þyngsl} fyrir brjósti sérstaklega áreynslubundið, verk út í handleggi, þá á það ekkert að hika við að leita til læknis. Við viljum frekar sjá of marga en of fáa," segir hann.
-
-
